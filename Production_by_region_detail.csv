@@ -1,0 +1,4234 @@
+,Region,Sub-Region,Commodity,Supply
+0,Tigray,Central tigray,Teff,1173966.73
+1,Tigray,Central tigray,Barley,156303.11
+2,Tigray,Central tigray,wheat,154950.83
+3,Tigray,Central tigray,Maize,832898.91
+4,Tigray,Central tigray,Sorghum,1187697.73
+5,Tigray,Central tigray,Finger Millet,337333.09
+6,Tigray,Central tigray,Oats,
+7,Tigray,Central tigray,Rice,
+8,Tigray,Central tigray,Faba Beans,74328.27
+9,Tigray,Central tigray,Field Peas,20073.08
+10,Tigray,Central tigray,Haricot beans,
+11,Tigray,Central tigray,Chick-Peas,
+12,Tigray,Central tigray,Lentils,
+13,Tigray,Central tigray,Grass Peas,
+14,Tigray,Central tigray,Soybeans,
+15,Tigray,Central tigray,Fenugreek,
+16,Tigray,Central tigray,Gibto,
+17,Tigray,Central tigray,Niger Seeds,1102.6
+18,Tigray,Central tigray,Groundnut,
+19,Tigray,Central tigray,Sunflower,
+20,Tigray,Central tigray,Sesame Seeds,
+21,Tigray,Central tigray,Lettuce,
+22,Tigray,Central tigray,Head cabbage,
+23,Tigray,Central tigray,Eth. Cabbage,
+24,Tigray,Central tigray,Tomatoes,
+25,Tigray,Central tigray,Green peppers,
+26,Tigray,Central tigray,Red peppers,2893.94
+27,Tigray,Central tigray,Swiss chard,
+28,Tigray,Central tigray,Carrots,
+29,Tigray,Central tigray,Onions,
+30,Tigray,Central tigray,Potatoes,
+31,Tigray,Central tigray,Garlic,
+32,Tigray,Central tigray,Taro / 'Godere',
+33,Tigray,Central tigray,Sweet potatoes,
+34,Tigray,Central tigray,Avocados,
+35,Tigray,Central tigray,Banana,
+36,Tigray,Central tigray,Guava,
+37,Tigray,Central tigray,Lemons,
+38,Tigray,Central tigray,Mangoes,
+39,Tigray,Central tigray,Oranges,
+40,Tigray,Central tigray,Papaya,
+41,Tigray,Central tigray,Pineapple,
+42,Tigray,Central tigray,Hop,15332.81
+43,Tigray,Central tigray,Enset,
+44,Tigray,Central tigray,Roses,
+45,Tigray,Central tigray,Sorghum,1187697.73
+46,Tigray,Central tigray,Sesame,
+47,Tigray,Central tigray,Beetroot,
+48,Tigray,Central tigray,Hops,
+49,Tigray,Central tigray,Sugar cane,
+50,Tigray,Central tigray,Enset,
+51,Tigray,North -Western Tigray,Teff,789377.69
+52,Tigray,North -Western Tigray,Barley,
+53,Tigray,North -Western Tigray,wheat,
+54,Tigray,North -Western Tigray,Maize,1104500.52
+55,Tigray,North -Western Tigray,Sorghum,2106508.91
+56,Tigray,North -Western Tigray,Finger Millet,1438677.41
+57,Tigray,North -Western Tigray,Oats,
+58,Tigray,North -Western Tigray,Rice,
+59,Tigray,North -Western Tigray,Faba Beans,33687.85
+60,Tigray,North -Western Tigray,Field Peas,8590.08
+61,Tigray,North -Western Tigray,Haricot beans,
+62,Tigray,North -Western Tigray,Chick-Peas,
+63,Tigray,North -Western Tigray,Lentils,
+64,Tigray,North -Western Tigray,Grass Peas,
+65,Tigray,North -Western Tigray,Soybeans,
+66,Tigray,North -Western Tigray,Fenugreek,
+67,Tigray,North -Western Tigray,Gibto,
+68,Tigray,North -Western Tigray,Niger Seeds,30410.02
+69,Tigray,North -Western Tigray,Groundnut,
+70,Tigray,North -Western Tigray,Sunflower,
+71,Tigray,North -Western Tigray,Sesame Seeds,140552.79
+72,Tigray,North -Western Tigray,Lettuce,
+73,Tigray,North -Western Tigray,Head cabbage,
+74,Tigray,North -Western Tigray,Eth. Cabbage,
+75,Tigray,North -Western Tigray,Tomatoes,
+76,Tigray,North -Western Tigray,Green peppers,
+77,Tigray,North -Western Tigray,Red peppers,21548.41
+78,Tigray,North -Western Tigray,Swiss chard,
+79,Tigray,North -Western Tigray,Carrots,
+80,Tigray,North -Western Tigray,Onions,
+81,Tigray,North -Western Tigray,Potatoes,
+82,Tigray,North -Western Tigray,Garlic,
+83,Tigray,North -Western Tigray,Taro / 'Godere',
+84,Tigray,North -Western Tigray,Sweet potatoes,
+85,Tigray,North -Western Tigray,Avocados,
+86,Tigray,North -Western Tigray,Banana,
+87,Tigray,North -Western Tigray,Guava,
+88,Tigray,North -Western Tigray,Lemons,399.1
+89,Tigray,North -Western Tigray,Mangoes,
+90,Tigray,North -Western Tigray,Oranges,
+91,Tigray,North -Western Tigray,Papaya,
+92,Tigray,North -Western Tigray,Pineapple,
+93,Tigray,North -Western Tigray,Hop,29923.12
+94,Tigray,North -Western Tigray,Enset,
+95,Tigray,North -Western Tigray,Roses,
+96,Tigray,North -Western Tigray,Sorghum,2106508.91
+97,Tigray,North -Western Tigray,Sesame,
+98,Tigray,North -Western Tigray,Beetroot,
+99,Tigray,North -Western Tigray,Hops,
+100,Tigray,North -Western Tigray,Sugar cane,
+101,Tigray,North -Western Tigray,Enset,
+102,Tigray,Eastern Tigray,Teff,126044.59
+103,Tigray,Eastern Tigray,Barley,437508.96
+104,Tigray,Eastern Tigray,wheat,730799.49
+105,Tigray,Eastern Tigray,Maize,115160.2
+106,Tigray,Eastern Tigray,Sorghum,166437.72
+107,Tigray,Eastern Tigray,Finger Millet,83217.09
+108,Tigray,Eastern Tigray,Oats,
+109,Tigray,Eastern Tigray,Rice,
+110,Tigray,Eastern Tigray,Faba Beans,26526.29
+111,Tigray,Eastern Tigray,Field Peas,28729.35
+112,Tigray,Eastern Tigray,Haricot beans,
+113,Tigray,Eastern Tigray,Chick-Peas,11816.04
+114,Tigray,Eastern Tigray,Lentils,6795.31
+115,Tigray,Eastern Tigray,Grass Peas,59115.56
+116,Tigray,Eastern Tigray,Soybeans,
+117,Tigray,Eastern Tigray,Fenugreek,
+118,Tigray,Eastern Tigray,Gibto,
+119,Tigray,Eastern Tigray,Niger Seeds,
+120,Tigray,Eastern Tigray,Groundnut,
+121,Tigray,Eastern Tigray,Sunflower,
+122,Tigray,Eastern Tigray,Sesame Seeds,
+123,Tigray,Eastern Tigray,Lettuce,
+124,Tigray,Eastern Tigray,Head cabbage,
+125,Tigray,Eastern Tigray,Eth. Cabbage,
+126,Tigray,Eastern Tigray,Tomatoes,
+127,Tigray,Eastern Tigray,Green peppers,
+128,Tigray,Eastern Tigray,Red peppers,
+129,Tigray,Eastern Tigray,Swiss chard,
+130,Tigray,Eastern Tigray,Carrots,
+131,Tigray,Eastern Tigray,Onions,
+132,Tigray,Eastern Tigray,Potatoes,
+133,Tigray,Eastern Tigray,Garlic,
+134,Tigray,Eastern Tigray,Taro / 'Godere',
+135,Tigray,Eastern Tigray,Sweet potatoes,
+136,Tigray,Eastern Tigray,Avocados,
+137,Tigray,Eastern Tigray,Banana,
+138,Tigray,Eastern Tigray,Guava,
+139,Tigray,Eastern Tigray,Lemons,
+140,Tigray,Eastern Tigray,Mangoes,
+141,Tigray,Eastern Tigray,Oranges,
+142,Tigray,Eastern Tigray,Papaya,
+143,Tigray,Eastern Tigray,Pineapple,
+144,Tigray,Eastern Tigray,Hop,9773.74
+145,Tigray,Eastern Tigray,Enset,
+146,Tigray,Eastern Tigray,Roses,
+147,Tigray,Eastern Tigray,Sorghum,166437.72
+148,Tigray,Eastern Tigray,Sesame,
+149,Tigray,Eastern Tigray,Beetroot,
+150,Tigray,Eastern Tigray,Hops,
+151,Tigray,Eastern Tigray,Sugar cane,
+152,Tigray,Eastern Tigray,Enset,
+153,Tigray,Southern Tigray,Teff,519499.86
+154,Tigray,Southern Tigray,Barley,408339.62
+155,Tigray,Southern Tigray,wheat,570116.53
+156,Tigray,Southern Tigray,Maize,82394.24
+157,Tigray,Southern Tigray,Sorghum,715498.69
+158,Tigray,Southern Tigray,Finger Millet,
+159,Tigray,Southern Tigray,Oats,
+160,Tigray,Southern Tigray,Rice,
+161,Tigray,Southern Tigray,Faba Beans,52733.38
+162,Tigray,Southern Tigray,Field Peas,41658.49
+163,Tigray,Southern Tigray,Haricot beans,
+164,Tigray,Southern Tigray,Chick-Peas,62958.74
+165,Tigray,Southern Tigray,Lentils,
+166,Tigray,Southern Tigray,Grass Peas,
+167,Tigray,Southern Tigray,Soybeans,
+168,Tigray,Southern Tigray,Fenugreek,
+169,Tigray,Southern Tigray,Gibto,
+170,Tigray,Southern Tigray,Niger Seeds,
+171,Tigray,Southern Tigray,Groundnut,
+172,Tigray,Southern Tigray,Sunflower,
+173,Tigray,Southern Tigray,Sesame Seeds,
+174,Tigray,Southern Tigray,Lettuce,
+175,Tigray,Southern Tigray,Head cabbage,
+176,Tigray,Southern Tigray,Eth. Cabbage,
+177,Tigray,Southern Tigray,Tomatoes,
+178,Tigray,Southern Tigray,Green peppers,587.64
+179,Tigray,Southern Tigray,Red peppers,
+180,Tigray,Southern Tigray,Swiss chard,
+181,Tigray,Southern Tigray,Carrots,
+182,Tigray,Southern Tigray,Onions,
+183,Tigray,Southern Tigray,Potatoes,
+184,Tigray,Southern Tigray,Garlic,
+185,Tigray,Southern Tigray,Taro / 'Godere',
+186,Tigray,Southern Tigray,Sweet potatoes,
+187,Tigray,Southern Tigray,Avocados,
+188,Tigray,Southern Tigray,Banana,
+189,Tigray,Southern Tigray,Guava,
+190,Tigray,Southern Tigray,Lemons,
+191,Tigray,Southern Tigray,Mangoes,
+192,Tigray,Southern Tigray,Oranges,
+193,Tigray,Southern Tigray,Papaya,
+194,Tigray,Southern Tigray,Pineapple,
+195,Tigray,Southern Tigray,Hop,10160.52
+196,Tigray,Southern Tigray,Enset,
+197,Tigray,Southern Tigray,Roses,
+198,Tigray,Southern Tigray,Sorghum,715498.69
+199,Tigray,Southern Tigray,Sesame,
+200,Tigray,Southern Tigray,Beetroot,
+201,Tigray,Southern Tigray,Hops,
+202,Tigray,Southern Tigray,Sugar cane,
+203,Tigray,Southern Tigray,Enset,
+204,Tigray,Western Tigray,Teff,131932.53
+205,Tigray,Western Tigray,Barley,
+206,Tigray,Western Tigray,wheat,
+207,Tigray,Western Tigray,Maize,258860.52
+208,Tigray,Western Tigray,Sorghum,2450302.39
+209,Tigray,Western Tigray,Finger Millet,277451.15
+210,Tigray,Western Tigray,Oats,
+211,Tigray,Western Tigray,Rice,
+212,Tigray,Western Tigray,Faba Beans,5787.44
+213,Tigray,Western Tigray,Field Peas,
+214,Tigray,Western Tigray,Haricot beans,
+215,Tigray,Western Tigray,Chick-Peas,
+216,Tigray,Western Tigray,Lentils,
+217,Tigray,Western Tigray,Grass Peas,
+218,Tigray,Western Tigray,Soybeans,
+219,Tigray,Western Tigray,Fenugreek,
+220,Tigray,Western Tigray,Gibto,
+221,Tigray,Western Tigray,Niger Seeds,51176.58
+222,Tigray,Western Tigray,Groundnut,
+223,Tigray,Western Tigray,Sunflower,
+224,Tigray,Western Tigray,Sesame Seeds,652503.61
+225,Tigray,Western Tigray,Lettuce,
+226,Tigray,Western Tigray,Head cabbage,
+227,Tigray,Western Tigray,Eth. Cabbage,
+228,Tigray,Western Tigray,Tomatoes,
+229,Tigray,Western Tigray,Green peppers,
+230,Tigray,Western Tigray,Red peppers,7616.67
+231,Tigray,Western Tigray,Swiss chard,
+232,Tigray,Western Tigray,Carrots,
+233,Tigray,Western Tigray,Onions,
+234,Tigray,Western Tigray,Potatoes,
+235,Tigray,Western Tigray,Garlic,
+236,Tigray,Western Tigray,Taro / 'Godere',
+237,Tigray,Western Tigray,Sweet potatoes,
+238,Tigray,Western Tigray,Avocados,
+239,Tigray,Western Tigray,Banana,
+240,Tigray,Western Tigray,Guava,
+241,Tigray,Western Tigray,Lemons,2555.81
+242,Tigray,Western Tigray,Mangoes,
+243,Tigray,Western Tigray,Oranges,
+244,Tigray,Western Tigray,Papaya,
+245,Tigray,Western Tigray,Pineapple,
+246,Tigray,Western Tigray,Hop,10434.35
+247,Tigray,Western Tigray,Enset,
+248,Tigray,Western Tigray,Roses,
+249,Tigray,Western Tigray,Sorghum,2450302.39
+250,Tigray,Western Tigray,Sesame,
+251,Tigray,Western Tigray,Beetroot,
+252,Tigray,Western Tigray,Hops,
+253,Tigray,Western Tigray,Sugar cane,
+254,Tigray,Western Tigray,Enset,
+255,Tigray,South-East Tigray,Teff,
+256,Tigray,South-East Tigray,Barley,
+257,Tigray,South-East Tigray,wheat,
+258,Tigray,South-East Tigray,Maize,70839.56
+259,Tigray,South-East Tigray,Sorghum,
+260,Tigray,South-East Tigray,Finger Millet,382115.34
+261,Tigray,South-East Tigray,Oats,
+262,Tigray,South-East Tigray,Rice,
+263,Tigray,South-East Tigray,Faba Beans,4026.49
+264,Tigray,South-East Tigray,Field Peas,
+265,Tigray,South-East Tigray,Haricot beans,
+266,Tigray,South-East Tigray,Chick-Peas,
+267,Tigray,South-East Tigray,Lentils,
+268,Tigray,South-East Tigray,Grass Peas,
+269,Tigray,South-East Tigray,Soybeans,
+270,Tigray,South-East Tigray,Fenugreek,
+271,Tigray,South-East Tigray,Gibto,
+272,Tigray,South-East Tigray,Niger Seeds,
+273,Tigray,South-East Tigray,Groundnut,
+274,Tigray,South-East Tigray,Sunflower,
+275,Tigray,South-East Tigray,Sesame Seeds,
+276,Tigray,South-East Tigray,Lettuce,
+277,Tigray,South-East Tigray,Head cabbage,
+278,Tigray,South-East Tigray,Eth. Cabbage,
+279,Tigray,South-East Tigray,Tomatoes,
+280,Tigray,South-East Tigray,Green peppers,
+281,Tigray,South-East Tigray,Red peppers,
+282,Tigray,South-East Tigray,Swiss chard,
+283,Tigray,South-East Tigray,Carrots,
+284,Tigray,South-East Tigray,Onions,9540.84
+285,Tigray,South-East Tigray,Potatoes,
+286,Tigray,South-East Tigray,Garlic,1577.8
+287,Tigray,South-East Tigray,Taro / 'Godere',
+288,Tigray,South-East Tigray,Sweet potatoes,
+289,Tigray,South-East Tigray,Avocados,
+290,Tigray,South-East Tigray,Banana,
+291,Tigray,South-East Tigray,Guava,
+292,Tigray,South-East Tigray,Lemons,
+293,Tigray,South-East Tigray,Mangoes,
+294,Tigray,South-East Tigray,Oranges,
+295,Tigray,South-East Tigray,Papaya,
+296,Tigray,South-East Tigray,Pineapple,
+297,Tigray,South-East Tigray,Hop,7769.66
+298,Tigray,South-East Tigray,Enset,
+299,Tigray,South-East Tigray,Roses,
+300,Tigray,South-East Tigray,Sorghum,
+301,Tigray,South-East Tigray,Sesame,
+302,Tigray,South-East Tigray,Beetroot,
+303,Tigray,South-East Tigray,Hops,
+304,Tigray,South-East Tigray,Sugar cane,
+305,Tigray,South-East Tigray,Enset,
+306,Afar,Zone_1 (Awsi Resu),Teff,
+307,Afar,Zone_1 (Awsi Resu),Barley,
+308,Afar,Zone_1 (Awsi Resu),wheat,
+309,Afar,Zone_1 (Awsi Resu),Maize,
+310,Afar,Zone_1 (Awsi Resu),Sorghum,
+311,Afar,Zone_1 (Awsi Resu),Finger Millet,
+312,Afar,Zone_1 (Awsi Resu),Oats,
+313,Afar,Zone_1 (Awsi Resu),Rice,
+314,Afar,Zone_1 (Awsi Resu),Faba Beans,
+315,Afar,Zone_1 (Awsi Resu),Field Peas,
+316,Afar,Zone_1 (Awsi Resu),Haricot beans,
+317,Afar,Zone_1 (Awsi Resu),Chick-Peas,
+318,Afar,Zone_1 (Awsi Resu),Lentils,
+319,Afar,Zone_1 (Awsi Resu),Grass Peas,
+320,Afar,Zone_1 (Awsi Resu),Soybeans,
+321,Afar,Zone_1 (Awsi Resu),Fenugreek,
+322,Afar,Zone_1 (Awsi Resu),Gibto,
+323,Afar,Zone_1 (Awsi Resu),Niger Seeds,
+324,Afar,Zone_1 (Awsi Resu),Groundnut,
+325,Afar,Zone_1 (Awsi Resu),Sunflower,
+326,Afar,Zone_1 (Awsi Resu),Sesame Seeds,
+327,Afar,Zone_1 (Awsi Resu),Lettuce,
+328,Afar,Zone_1 (Awsi Resu),Head cabbage,
+329,Afar,Zone_1 (Awsi Resu),Eth. Cabbage,
+330,Afar,Zone_1 (Awsi Resu),Tomatoes,
+331,Afar,Zone_1 (Awsi Resu),Green peppers,
+332,Afar,Zone_1 (Awsi Resu),Red peppers,
+333,Afar,Zone_1 (Awsi Resu),Swiss chard,
+334,Afar,Zone_1 (Awsi Resu),Carrots,
+335,Afar,Zone_1 (Awsi Resu),Onions,
+336,Afar,Zone_1 (Awsi Resu),Potatoes,
+337,Afar,Zone_1 (Awsi Resu),Garlic,
+338,Afar,Zone_1 (Awsi Resu),Taro / 'Godere',
+339,Afar,Zone_1 (Awsi Resu),Sweet potatoes,
+340,Afar,Zone_1 (Awsi Resu),Avocados,
+341,Afar,Zone_1 (Awsi Resu),Banana,
+342,Afar,Zone_1 (Awsi Resu),Guava,
+343,Afar,Zone_1 (Awsi Resu),Lemons,
+344,Afar,Zone_1 (Awsi Resu),Mangoes,
+345,Afar,Zone_1 (Awsi Resu),Oranges,
+346,Afar,Zone_1 (Awsi Resu),Papaya,
+347,Afar,Zone_1 (Awsi Resu),Pineapple,
+348,Afar,Zone_1 (Awsi Resu),Hop,
+349,Afar,Zone_1 (Awsi Resu),Enset,
+350,Afar,Zone_1 (Awsi Resu),Roses,
+351,Afar,Zone_1 (Awsi Resu),Sorghum,
+352,Afar,Zone_1 (Awsi Resu),Sesame,
+353,Afar,Zone_1 (Awsi Resu),Beetroot,
+354,Afar,Zone_1 (Awsi Resu),Hops,
+355,Afar,Zone_1 (Awsi Resu),Sugar cane,
+356,Afar,Zone_1 (Awsi Resu),Enset,
+357,Afar,Zone_2 (Kelbet Resu),Teff,
+358,Afar,Zone_2 (Kelbet Resu),Barley,
+359,Afar,Zone_2 (Kelbet Resu),wheat,
+360,Afar,Zone_2 (Kelbet Resu),Maize,11471.91
+361,Afar,Zone_2 (Kelbet Resu),Sorghum,
+362,Afar,Zone_2 (Kelbet Resu),Finger Millet,
+363,Afar,Zone_2 (Kelbet Resu),Oats,
+364,Afar,Zone_2 (Kelbet Resu),Rice,
+365,Afar,Zone_2 (Kelbet Resu),Faba Beans,
+366,Afar,Zone_2 (Kelbet Resu),Field Peas,
+367,Afar,Zone_2 (Kelbet Resu),Haricot beans,
+368,Afar,Zone_2 (Kelbet Resu),Chick-Peas,
+369,Afar,Zone_2 (Kelbet Resu),Lentils,
+370,Afar,Zone_2 (Kelbet Resu),Grass Peas,
+371,Afar,Zone_2 (Kelbet Resu),Soybeans,
+372,Afar,Zone_2 (Kelbet Resu),Fenugreek,
+373,Afar,Zone_2 (Kelbet Resu),Gibto,
+374,Afar,Zone_2 (Kelbet Resu),Niger Seeds,
+375,Afar,Zone_2 (Kelbet Resu),Groundnut,
+376,Afar,Zone_2 (Kelbet Resu),Sunflower,
+377,Afar,Zone_2 (Kelbet Resu),Sesame Seeds,
+378,Afar,Zone_2 (Kelbet Resu),Lettuce,
+379,Afar,Zone_2 (Kelbet Resu),Head cabbage,
+380,Afar,Zone_2 (Kelbet Resu),Eth. Cabbage,
+381,Afar,Zone_2 (Kelbet Resu),Tomatoes,
+382,Afar,Zone_2 (Kelbet Resu),Green peppers,
+383,Afar,Zone_2 (Kelbet Resu),Red peppers,
+384,Afar,Zone_2 (Kelbet Resu),Swiss chard,
+385,Afar,Zone_2 (Kelbet Resu),Carrots,
+386,Afar,Zone_2 (Kelbet Resu),Onions,
+387,Afar,Zone_2 (Kelbet Resu),Potatoes,
+388,Afar,Zone_2 (Kelbet Resu),Garlic,
+389,Afar,Zone_2 (Kelbet Resu),Taro / 'Godere',
+390,Afar,Zone_2 (Kelbet Resu),Sweet potatoes,
+391,Afar,Zone_2 (Kelbet Resu),Avocados,
+392,Afar,Zone_2 (Kelbet Resu),Banana,
+393,Afar,Zone_2 (Kelbet Resu),Guava,
+394,Afar,Zone_2 (Kelbet Resu),Lemons,
+395,Afar,Zone_2 (Kelbet Resu),Mangoes,
+396,Afar,Zone_2 (Kelbet Resu),Oranges,
+397,Afar,Zone_2 (Kelbet Resu),Papaya,
+398,Afar,Zone_2 (Kelbet Resu),Pineapple,
+399,Afar,Zone_2 (Kelbet Resu),Hop,
+400,Afar,Zone_2 (Kelbet Resu),Enset,
+401,Afar,Zone_2 (Kelbet Resu),Roses,
+402,Afar,Zone_2 (Kelbet Resu),Sorghum,
+403,Afar,Zone_2 (Kelbet Resu),Sesame,
+404,Afar,Zone_2 (Kelbet Resu),Beetroot,
+405,Afar,Zone_2 (Kelbet Resu),Hops,
+406,Afar,Zone_2 (Kelbet Resu),Sugar cane,
+407,Afar,Zone_2 (Kelbet Resu),Enset,
+408,Afar,Zone_3 (Gebi Resu),Teff,
+409,Afar,Zone_3 (Gebi Resu),Barley,
+410,Afar,Zone_3 (Gebi Resu),wheat,
+411,Afar,Zone_3 (Gebi Resu),Maize,3498.23
+412,Afar,Zone_3 (Gebi Resu),Sorghum,
+413,Afar,Zone_3 (Gebi Resu),Finger Millet,
+414,Afar,Zone_3 (Gebi Resu),Oats,
+415,Afar,Zone_3 (Gebi Resu),Rice,
+416,Afar,Zone_3 (Gebi Resu),Faba Beans,
+417,Afar,Zone_3 (Gebi Resu),Field Peas,
+418,Afar,Zone_3 (Gebi Resu),Haricot beans,
+419,Afar,Zone_3 (Gebi Resu),Chick-Peas,
+420,Afar,Zone_3 (Gebi Resu),Lentils,
+421,Afar,Zone_3 (Gebi Resu),Grass Peas,
+422,Afar,Zone_3 (Gebi Resu),Soybeans,
+423,Afar,Zone_3 (Gebi Resu),Fenugreek,
+424,Afar,Zone_3 (Gebi Resu),Gibto,
+425,Afar,Zone_3 (Gebi Resu),Niger Seeds,
+426,Afar,Zone_3 (Gebi Resu),Groundnut,
+427,Afar,Zone_3 (Gebi Resu),Sunflower,
+428,Afar,Zone_3 (Gebi Resu),Sesame Seeds,
+429,Afar,Zone_3 (Gebi Resu),Lettuce,
+430,Afar,Zone_3 (Gebi Resu),Head cabbage,
+431,Afar,Zone_3 (Gebi Resu),Eth. Cabbage,
+432,Afar,Zone_3 (Gebi Resu),Tomatoes,
+433,Afar,Zone_3 (Gebi Resu),Green peppers,
+434,Afar,Zone_3 (Gebi Resu),Red peppers,
+435,Afar,Zone_3 (Gebi Resu),Swiss chard,
+436,Afar,Zone_3 (Gebi Resu),Carrots,
+437,Afar,Zone_3 (Gebi Resu),Onions,
+438,Afar,Zone_3 (Gebi Resu),Potatoes,
+439,Afar,Zone_3 (Gebi Resu),Garlic,
+440,Afar,Zone_3 (Gebi Resu),Taro / 'Godere',
+441,Afar,Zone_3 (Gebi Resu),Sweet potatoes,
+442,Afar,Zone_3 (Gebi Resu),Avocados,
+443,Afar,Zone_3 (Gebi Resu),Banana,
+444,Afar,Zone_3 (Gebi Resu),Guava,
+445,Afar,Zone_3 (Gebi Resu),Lemons,
+446,Afar,Zone_3 (Gebi Resu),Mangoes,
+447,Afar,Zone_3 (Gebi Resu),Oranges,
+448,Afar,Zone_3 (Gebi Resu),Papaya,
+449,Afar,Zone_3 (Gebi Resu),Pineapple,
+450,Afar,Zone_3 (Gebi Resu),Hop,
+451,Afar,Zone_3 (Gebi Resu),Enset,
+452,Afar,Zone_3 (Gebi Resu),Roses,
+453,Afar,Zone_3 (Gebi Resu),Sorghum,
+454,Afar,Zone_3 (Gebi Resu),Sesame,
+455,Afar,Zone_3 (Gebi Resu),Beetroot,
+456,Afar,Zone_3 (Gebi Resu),Hops,
+457,Afar,Zone_3 (Gebi Resu),Sugar cane,
+458,Afar,Zone_3 (Gebi Resu),Enset,
+459,Afar,Zone_4 (Fenti Resu),Teff,
+460,Afar,Zone_4 (Fenti Resu),Barley,
+461,Afar,Zone_4 (Fenti Resu),wheat,
+462,Afar,Zone_4 (Fenti Resu),Maize,
+463,Afar,Zone_4 (Fenti Resu),Sorghum,
+464,Afar,Zone_4 (Fenti Resu),Finger Millet,
+465,Afar,Zone_4 (Fenti Resu),Oats,
+466,Afar,Zone_4 (Fenti Resu),Rice,
+467,Afar,Zone_4 (Fenti Resu),Faba Beans,
+468,Afar,Zone_4 (Fenti Resu),Field Peas,
+469,Afar,Zone_4 (Fenti Resu),Haricot beans,
+470,Afar,Zone_4 (Fenti Resu),Chick-Peas,
+471,Afar,Zone_4 (Fenti Resu),Lentils,
+472,Afar,Zone_4 (Fenti Resu),Grass Peas,
+473,Afar,Zone_4 (Fenti Resu),Soybeans,
+474,Afar,Zone_4 (Fenti Resu),Fenugreek,
+475,Afar,Zone_4 (Fenti Resu),Gibto,
+476,Afar,Zone_4 (Fenti Resu),Niger Seeds,
+477,Afar,Zone_4 (Fenti Resu),Groundnut,
+478,Afar,Zone_4 (Fenti Resu),Sunflower,
+479,Afar,Zone_4 (Fenti Resu),Sesame Seeds,
+480,Afar,Zone_4 (Fenti Resu),Lettuce,
+481,Afar,Zone_4 (Fenti Resu),Head cabbage,
+482,Afar,Zone_4 (Fenti Resu),Eth. Cabbage,
+483,Afar,Zone_4 (Fenti Resu),Tomatoes,
+484,Afar,Zone_4 (Fenti Resu),Green peppers,
+485,Afar,Zone_4 (Fenti Resu),Red peppers,
+486,Afar,Zone_4 (Fenti Resu),Swiss chard,
+487,Afar,Zone_4 (Fenti Resu),Carrots,
+488,Afar,Zone_4 (Fenti Resu),Onions,
+489,Afar,Zone_4 (Fenti Resu),Potatoes,
+490,Afar,Zone_4 (Fenti Resu),Garlic,
+491,Afar,Zone_4 (Fenti Resu),Taro / 'Godere',
+492,Afar,Zone_4 (Fenti Resu),Sweet potatoes,
+493,Afar,Zone_4 (Fenti Resu),Avocados,
+494,Afar,Zone_4 (Fenti Resu),Banana,
+495,Afar,Zone_4 (Fenti Resu),Guava,
+496,Afar,Zone_4 (Fenti Resu),Lemons,
+497,Afar,Zone_4 (Fenti Resu),Mangoes,
+498,Afar,Zone_4 (Fenti Resu),Oranges,
+499,Afar,Zone_4 (Fenti Resu),Papaya,
+500,Afar,Zone_4 (Fenti Resu),Pineapple,
+501,Afar,Zone_4 (Fenti Resu),Hop,
+502,Afar,Zone_4 (Fenti Resu),Enset,
+503,Afar,Zone_4 (Fenti Resu),Roses,
+504,Afar,Zone_4 (Fenti Resu),Sorghum,
+505,Afar,Zone_4 (Fenti Resu),Sesame,
+506,Afar,Zone_4 (Fenti Resu),Beetroot,
+507,Afar,Zone_4 (Fenti Resu),Hops,
+508,Afar,Zone_4 (Fenti Resu),Sugar cane,
+509,Afar,Zone_4 (Fenti Resu),Enset,
+510,Afar,Zone_5 (Hari Resu),Teff,
+511,Afar,Zone_5 (Hari Resu),Barley,
+512,Afar,Zone_5 (Hari Resu),wheat,
+513,Afar,Zone_5 (Hari Resu),Maize,5974.7
+514,Afar,Zone_5 (Hari Resu),Sorghum,9719.42
+515,Afar,Zone_5 (Hari Resu),Finger Millet,
+516,Afar,Zone_5 (Hari Resu),Oats,
+517,Afar,Zone_5 (Hari Resu),Rice,
+518,Afar,Zone_5 (Hari Resu),Faba Beans,
+519,Afar,Zone_5 (Hari Resu),Field Peas,
+520,Afar,Zone_5 (Hari Resu),Haricot beans,
+521,Afar,Zone_5 (Hari Resu),Chick-Peas,
+522,Afar,Zone_5 (Hari Resu),Lentils,
+523,Afar,Zone_5 (Hari Resu),Grass Peas,
+524,Afar,Zone_5 (Hari Resu),Soybeans,
+525,Afar,Zone_5 (Hari Resu),Fenugreek,
+526,Afar,Zone_5 (Hari Resu),Gibto,
+527,Afar,Zone_5 (Hari Resu),Niger Seeds,
+528,Afar,Zone_5 (Hari Resu),Groundnut,
+529,Afar,Zone_5 (Hari Resu),Sunflower,
+530,Afar,Zone_5 (Hari Resu),Sesame Seeds,77.95
+531,Afar,Zone_5 (Hari Resu),Lettuce,
+532,Afar,Zone_5 (Hari Resu),Head cabbage,
+533,Afar,Zone_5 (Hari Resu),Eth. Cabbage,
+534,Afar,Zone_5 (Hari Resu),Tomatoes,
+535,Afar,Zone_5 (Hari Resu),Green peppers,
+536,Afar,Zone_5 (Hari Resu),Red peppers,
+537,Afar,Zone_5 (Hari Resu),Swiss chard,
+538,Afar,Zone_5 (Hari Resu),Carrots,
+539,Afar,Zone_5 (Hari Resu),Onions,
+540,Afar,Zone_5 (Hari Resu),Potatoes,
+541,Afar,Zone_5 (Hari Resu),Garlic,
+542,Afar,Zone_5 (Hari Resu),Taro / 'Godere',
+543,Afar,Zone_5 (Hari Resu),Sweet potatoes,
+544,Afar,Zone_5 (Hari Resu),Avocados,
+545,Afar,Zone_5 (Hari Resu),Banana,
+546,Afar,Zone_5 (Hari Resu),Guava,
+547,Afar,Zone_5 (Hari Resu),Lemons,
+548,Afar,Zone_5 (Hari Resu),Mangoes,
+549,Afar,Zone_5 (Hari Resu),Oranges,
+550,Afar,Zone_5 (Hari Resu),Papaya,
+551,Afar,Zone_5 (Hari Resu),Pineapple,
+552,Afar,Zone_5 (Hari Resu),Hop,
+553,Afar,Zone_5 (Hari Resu),Enset,
+554,Afar,Zone_5 (Hari Resu),Roses,
+555,Afar,Zone_5 (Hari Resu),Sorghum,9719.42
+556,Afar,Zone_5 (Hari Resu),Sesame,
+557,Afar,Zone_5 (Hari Resu),Beetroot,
+558,Afar,Zone_5 (Hari Resu),Hops,
+559,Afar,Zone_5 (Hari Resu),Sugar cane,
+560,Afar,Zone_5 (Hari Resu),Enset,
+561,Amhara region,North Gondar,Teff,252881.49
+562,Amhara region,North Gondar,Barley,553823.03
+563,Amhara region,North Gondar,wheat,811196.56
+564,Amhara region,North Gondar,Maize,104251.04
+565,Amhara region,North Gondar,Sorghum,738904.17
+566,Amhara region,North Gondar,Finger Millet,350772.77
+567,Amhara region,North Gondar,Oats,
+568,Amhara region,North Gondar,Rice,
+569,Amhara region,North Gondar,Faba Beans,214027.61
+570,Amhara region,North Gondar,Field Peas,110680.87
+571,Amhara region,North Gondar,Haricot beans,
+572,Amhara region,North Gondar,Chick-Peas,
+573,Amhara region,North Gondar,Lentils,30893.96
+574,Amhara region,North Gondar,Grass Peas,
+575,Amhara region,North Gondar,Soybeans,
+576,Amhara region,North Gondar,Fenugreek,
+577,Amhara region,North Gondar,Gibto,
+578,Amhara region,North Gondar,Niger Seeds,53781.38
+579,Amhara region,North Gondar,Groundnut,
+580,Amhara region,North Gondar,Sunflower,
+581,Amhara region,North Gondar,Sesame Seeds,
+582,Amhara region,North Gondar,Lettuce,
+583,Amhara region,North Gondar,Head cabbage,
+584,Amhara region,North Gondar,Eth. Cabbage,2394.98
+585,Amhara region,North Gondar,Tomatoes,
+586,Amhara region,North Gondar,Green peppers,
+587,Amhara region,North Gondar,Red peppers,1163.49
+588,Amhara region,North Gondar,Swiss chard,
+589,Amhara region,North Gondar,Carrots,
+590,Amhara region,North Gondar,Onions,
+591,Amhara region,North Gondar,Potatoes,123710.52
+592,Amhara region,North Gondar,Garlic,
+593,Amhara region,North Gondar,Taro / 'Godere',
+594,Amhara region,North Gondar,Sweet potatoes,
+595,Amhara region,North Gondar,Avocados,
+596,Amhara region,North Gondar,Banana,
+597,Amhara region,North Gondar,Guava,
+598,Amhara region,North Gondar,Lemons,
+599,Amhara region,North Gondar,Mangoes,
+600,Amhara region,North Gondar,Oranges,
+601,Amhara region,North Gondar,Papaya,
+602,Amhara region,North Gondar,Pineapple,
+603,Amhara region,North Gondar,Hop,
+604,Amhara region,North Gondar,Enset,
+605,Amhara region,North Gondar,Roses,
+606,Amhara region,North Gondar,Sorghum,738904.17
+607,Amhara region,North Gondar,Sesame,
+608,Amhara region,North Gondar,Beetroot,
+609,Amhara region,North Gondar,Hops,
+610,Amhara region,North Gondar,Sugar cane,
+611,Amhara region,North Gondar,Enset,
+612,Amhara region,South Gondar,Teff,2832418.79
+613,Amhara region,South Gondar,Barley,950639.78
+614,Amhara region,South Gondar,wheat,1979937.08
+615,Amhara region,South Gondar,Maize,2363940.71
+616,Amhara region,South Gondar,Sorghum,741232.92
+617,Amhara region,South Gondar,Finger Millet,801164.25
+618,Amhara region,South Gondar,Oats,
+619,Amhara region,South Gondar,Rice,
+620,Amhara region,South Gondar,Faba Beans,292009.37
+621,Amhara region,South Gondar,Field Peas,
+622,Amhara region,South Gondar,Haricot beans,446485.6
+623,Amhara region,South Gondar,Chick-Peas,199480.63
+624,Amhara region,South Gondar,Lentils,
+625,Amhara region,South Gondar,Grass Peas,281748.69
+626,Amhara region,South Gondar,Soybeans,
+627,Amhara region,South Gondar,Fenugreek,
+628,Amhara region,South Gondar,Gibto,
+629,Amhara region,South Gondar,Niger Seeds,46962.95
+630,Amhara region,South Gondar,Groundnut,
+631,Amhara region,South Gondar,Sunflower,
+632,Amhara region,South Gondar,Sesame Seeds,
+633,Amhara region,South Gondar,Lettuce,
+634,Amhara region,South Gondar,Head cabbage,
+635,Amhara region,South Gondar,Eth. Cabbage,
+636,Amhara region,South Gondar,Tomatoes,
+637,Amhara region,South Gondar,Green peppers,
+638,Amhara region,South Gondar,Red peppers,
+639,Amhara region,South Gondar,Swiss chard,
+640,Amhara region,South Gondar,Carrots,
+641,Amhara region,South Gondar,Onions,
+642,Amhara region,South Gondar,Potatoes,846504.42
+643,Amhara region,South Gondar,Garlic,16710.99
+644,Amhara region,South Gondar,Taro / 'Godere',
+645,Amhara region,South Gondar,Sweet potatoes,
+646,Amhara region,South Gondar,Avocados,
+647,Amhara region,South Gondar,Banana,
+648,Amhara region,South Gondar,Guava,1150.97
+649,Amhara region,South Gondar,Lemons,
+650,Amhara region,South Gondar,Mangoes,
+651,Amhara region,South Gondar,Oranges,
+652,Amhara region,South Gondar,Papaya,
+653,Amhara region,South Gondar,Pineapple,430.53
+654,Amhara region,South Gondar,Hop,
+655,Amhara region,South Gondar,Enset,
+656,Amhara region,South Gondar,Roses,
+657,Amhara region,South Gondar,Sorghum,741232.92
+658,Amhara region,South Gondar,Sesame,
+659,Amhara region,South Gondar,Beetroot,
+660,Amhara region,South Gondar,Hops,
+661,Amhara region,South Gondar,Sugar cane,
+662,Amhara region,South Gondar,Enset,
+663,Amhara region,North Wollo,Teff,1084869.82
+664,Amhara region,North Wollo,Barley,555086.61
+665,Amhara region,North Wollo,wheat,1178983.87
+666,Amhara region,North Wollo,Maize,226229.37
+667,Amhara region,North Wollo,Sorghum,1491812.58
+668,Amhara region,North Wollo,Finger Millet,30831.65
+669,Amhara region,North Wollo,Oats,3955.04
+670,Amhara region,North Wollo,Rice,
+671,Amhara region,North Wollo,Faba Beans,150082.6
+672,Amhara region,North Wollo,Field Peas,85528.39
+673,Amhara region,North Wollo,Haricot beans,56308.18
+674,Amhara region,North Wollo,Chick-Peas,115163.49
+675,Amhara region,North Wollo,Lentils,69785.53
+676,Amhara region,North Wollo,Grass Peas,42990.95
+677,Amhara region,North Wollo,Soybeans,
+678,Amhara region,North Wollo,Fenugreek,11497.65
+679,Amhara region,North Wollo,Gibto,
+680,Amhara region,North Wollo,Niger Seeds,
+681,Amhara region,North Wollo,Groundnut,
+682,Amhara region,North Wollo,Sunflower,2752.88
+683,Amhara region,North Wollo,Sesame Seeds,
+684,Amhara region,North Wollo,Lettuce,
+685,Amhara region,North Wollo,Head cabbage,
+686,Amhara region,North Wollo,Eth. Cabbage,16093.21
+687,Amhara region,North Wollo,Tomatoes,
+688,Amhara region,North Wollo,Green peppers,1191.63
+689,Amhara region,North Wollo,Red peppers,10105.45
+690,Amhara region,North Wollo,Swiss chard,
+691,Amhara region,North Wollo,Carrots,
+692,Amhara region,North Wollo,Onions,
+693,Amhara region,North Wollo,Potatoes,
+694,Amhara region,North Wollo,Garlic,32107.75
+695,Amhara region,North Wollo,Taro / 'Godere',
+696,Amhara region,North Wollo,Sweet potatoes,
+697,Amhara region,North Wollo,Avocados,
+698,Amhara region,North Wollo,Banana,
+699,Amhara region,North Wollo,Guava,
+700,Amhara region,North Wollo,Lemons,302.77
+701,Amhara region,North Wollo,Mangoes,
+702,Amhara region,North Wollo,Oranges,
+703,Amhara region,North Wollo,Papaya,
+704,Amhara region,North Wollo,Pineapple,
+705,Amhara region,North Wollo,Hop,
+706,Amhara region,North Wollo,Enset,
+707,Amhara region,North Wollo,Roses,
+708,Amhara region,North Wollo,Sorghum,1491812.58
+709,Amhara region,North Wollo,Sesame,
+710,Amhara region,North Wollo,Beetroot,
+711,Amhara region,North Wollo,Hops,
+712,Amhara region,North Wollo,Sugar cane,
+713,Amhara region,North Wollo,Enset,
+714,Amhara region,South Wollo,Teff,2049298.4
+715,Amhara region,South Wollo,Barley,535726.12
+716,Amhara region,South Wollo,wheat,2479032.62
+717,Amhara region,South Wollo,Maize,2479032.62
+718,Amhara region,South Wollo,Sorghum,2255932.4
+719,Amhara region,South Wollo,Finger Millet,33155.67
+720,Amhara region,South Wollo,Oats,
+721,Amhara region,South Wollo,Rice,
+722,Amhara region,South Wollo,Faba Beans,465655.74
+723,Amhara region,South Wollo,Field Peas,153703.01
+724,Amhara region,South Wollo,Haricot beans,328185.48
+725,Amhara region,South Wollo,Chick-Peas,188867.33
+726,Amhara region,South Wollo,Lentils,148504.55
+727,Amhara region,South Wollo,Grass Peas,172552.66
+728,Amhara region,South Wollo,Soybeans,
+729,Amhara region,South Wollo,Fenugreek,75546.14
+730,Amhara region,South Wollo,Gibto,
+731,Amhara region,South Wollo,Niger Seeds,35471
+732,Amhara region,South Wollo,Groundnut,
+733,Amhara region,South Wollo,Sunflower,
+734,Amhara region,South Wollo,Sesame Seeds,
+735,Amhara region,South Wollo,Lettuce,
+736,Amhara region,South Wollo,Head cabbage,
+737,Amhara region,South Wollo,Eth. Cabbage,
+738,Amhara region,South Wollo,Tomatoes,
+739,Amhara region,South Wollo,Green peppers,
+740,Amhara region,South Wollo,Red peppers,20976.22
+741,Amhara region,South Wollo,Swiss chard,
+742,Amhara region,South Wollo,Carrots,
+743,Amhara region,South Wollo,Onions,16363.88
+744,Amhara region,South Wollo,Potatoes,
+745,Amhara region,South Wollo,Garlic,42451.38
+746,Amhara region,South Wollo,Taro / 'Godere',
+747,Amhara region,South Wollo,Sweet potatoes,
+748,Amhara region,South Wollo,Avocados,
+749,Amhara region,South Wollo,Banana,
+750,Amhara region,South Wollo,Guava,2560.85
+751,Amhara region,South Wollo,Lemons,1036.76
+752,Amhara region,South Wollo,Mangoes,
+753,Amhara region,South Wollo,Oranges,7117.82
+754,Amhara region,South Wollo,Papaya,
+755,Amhara region,South Wollo,Pineapple,10117.28
+756,Amhara region,South Wollo,Hop,3052.03
+757,Amhara region,South Wollo,Enset,
+758,Amhara region,South Wollo,Roses,
+759,Amhara region,South Wollo,Sorghum,2255932.4
+760,Amhara region,South Wollo,Sesame,
+761,Amhara region,South Wollo,Beetroot,
+762,Amhara region,South Wollo,Hops,
+763,Amhara region,South Wollo,Sugar cane,
+764,Amhara region,South Wollo,Enset,
+765,Amhara region,North Shewa,Teff,3525213.08
+766,Amhara region,North Shewa,Barley,1225335.44
+767,Amhara region,North Shewa,wheat,3920778.54
+768,Amhara region,North Shewa,Maize,232991.95
+769,Amhara region,North Shewa,Sorghum,2686552.87
+770,Amhara region,North Shewa,Finger Millet,1147.42
+771,Amhara region,North Shewa,Oats,
+772,Amhara region,North Shewa,Rice,
+773,Amhara region,North Shewa,Faba Beans,1002280.37
+774,Amhara region,North Shewa,Field Peas,195584.56
+775,Amhara region,North Shewa,Haricot beans,
+776,Amhara region,North Shewa,Chick-Peas,180827.12
+777,Amhara region,North Shewa,Lentils,242043.57
+778,Amhara region,North Shewa,Grass Peas,
+779,Amhara region,North Shewa,Soybeans,
+780,Amhara region,North Shewa,Fenugreek,
+781,Amhara region,North Shewa,Gibto,
+782,Amhara region,North Shewa,Niger Seeds,
+783,Amhara region,North Shewa,Groundnut,
+784,Amhara region,North Shewa,Sunflower,
+785,Amhara region,North Shewa,Sesame Seeds,
+786,Amhara region,North Shewa,Lettuce,
+787,Amhara region,North Shewa,Head cabbage,471.77
+788,Amhara region,North Shewa,Eth. Cabbage,35851.03
+789,Amhara region,North Shewa,Tomatoes,
+790,Amhara region,North Shewa,Green peppers,
+791,Amhara region,North Shewa,Red peppers,8159.75
+792,Amhara region,North Shewa,Swiss chard,
+793,Amhara region,North Shewa,Carrots,
+794,Amhara region,North Shewa,Onions,
+795,Amhara region,North Shewa,Potatoes,
+796,Amhara region,North Shewa,Garlic,132499.31
+797,Amhara region,North Shewa,Taro / 'Godere',
+798,Amhara region,North Shewa,Sweet potatoes,
+799,Amhara region,North Shewa,Avocados,
+800,Amhara region,North Shewa,Banana,
+801,Amhara region,North Shewa,Guava,1749.47
+802,Amhara region,North Shewa,Lemons,
+803,Amhara region,North Shewa,Mangoes,
+804,Amhara region,North Shewa,Oranges,
+805,Amhara region,North Shewa,Papaya,2054.18
+806,Amhara region,North Shewa,Pineapple,
+807,Amhara region,North Shewa,Hop,
+808,Amhara region,North Shewa,Enset,
+809,Amhara region,North Shewa,Roses,
+810,Amhara region,North Shewa,Sorghum,2686552.87
+811,Amhara region,North Shewa,Sesame,
+812,Amhara region,North Shewa,Beetroot,
+813,Amhara region,North Shewa,Hops,
+814,Amhara region,North Shewa,Sugar cane,
+815,Amhara region,North Shewa,Enset,
+816,Amhara region,East Gojjam,Teff,5418421.35
+817,Amhara region,East Gojjam,Barley,1630183.48
+818,Amhara region,East Gojjam,wheat,4743813.86
+819,Amhara region,East Gojjam,Maize,4459523.2
+820,Amhara region,East Gojjam,Sorghum,737244.55
+821,Amhara region,East Gojjam,Finger Millet,
+822,Amhara region,East Gojjam,Oats,
+823,Amhara region,East Gojjam,Rice,
+824,Amhara region,East Gojjam,Faba Beans,594458.07
+825,Amhara region,East Gojjam,Field Peas,119942.25
+826,Amhara region,East Gojjam,Haricot beans,102693.4
+827,Amhara region,East Gojjam,Chick-Peas,180376.65
+828,Amhara region,East Gojjam,Lentils,
+829,Amhara region,East Gojjam,Grass Peas,173411.4
+830,Amhara region,East Gojjam,Soybeans,
+831,Amhara region,East Gojjam,Fenugreek,6484.31
+832,Amhara region,East Gojjam,Gibto,
+833,Amhara region,East Gojjam,Niger Seeds,73129.72
+834,Amhara region,East Gojjam,Groundnut,
+835,Amhara region,East Gojjam,Sunflower,
+836,Amhara region,East Gojjam,Sesame Seeds,
+837,Amhara region,East Gojjam,Lettuce,
+838,Amhara region,East Gojjam,Head cabbage,12075.37
+839,Amhara region,East Gojjam,Eth. Cabbage,2993.55
+840,Amhara region,East Gojjam,Tomatoes,
+841,Amhara region,East Gojjam,Green peppers,3755.86
+842,Amhara region,East Gojjam,Red peppers,
+843,Amhara region,East Gojjam,Swiss chard,
+844,Amhara region,East Gojjam,Carrots,
+845,Amhara region,East Gojjam,Onions,162492.42
+846,Amhara region,East Gojjam,Potatoes,1087119.28
+847,Amhara region,East Gojjam,Garlic,
+848,Amhara region,East Gojjam,Taro / 'Godere',
+849,Amhara region,East Gojjam,Sweet potatoes,
+850,Amhara region,East Gojjam,Avocados,
+851,Amhara region,East Gojjam,Banana,
+852,Amhara region,East Gojjam,Guava,
+853,Amhara region,East Gojjam,Lemons,
+854,Amhara region,East Gojjam,Mangoes,
+855,Amhara region,East Gojjam,Oranges,
+856,Amhara region,East Gojjam,Papaya,
+857,Amhara region,East Gojjam,Pineapple,
+858,Amhara region,East Gojjam,Hop,
+859,Amhara region,East Gojjam,Enset,
+860,Amhara region,East Gojjam,Roses,
+861,Amhara region,East Gojjam,Sorghum,737244.55
+862,Amhara region,East Gojjam,Sesame,
+863,Amhara region,East Gojjam,Beetroot,
+864,Amhara region,East Gojjam,Hops,
+865,Amhara region,East Gojjam,Sugar cane,
+866,Amhara region,East Gojjam,Enset,
+867,Amhara region,West Gojjam,Teff,2644174.72
+868,Amhara region,West Gojjam,Barley,649700.83
+869,Amhara region,West Gojjam,wheat,1611676.46
+870,Amhara region,West Gojjam,Maize,10414222.09
+871,Amhara region,West Gojjam,Sorghum,
+872,Amhara region,West Gojjam,Finger Millet,2422755.5
+873,Amhara region,West Gojjam,Oats,
+874,Amhara region,West Gojjam,Rice,
+875,Amhara region,West Gojjam,Faba Beans,348138.73
+876,Amhara region,West Gojjam,Field Peas,77248.52
+877,Amhara region,West Gojjam,Haricot beans,232850.99
+878,Amhara region,West Gojjam,Chick-Peas,112097.98
+879,Amhara region,West Gojjam,Lentils,
+880,Amhara region,West Gojjam,Grass Peas,626581.02
+881,Amhara region,West Gojjam,Soybeans,
+882,Amhara region,West Gojjam,Fenugreek,
+883,Amhara region,West Gojjam,Gibto,
+884,Amhara region,West Gojjam,Niger Seeds,130316.4
+885,Amhara region,West Gojjam,Groundnut,
+886,Amhara region,West Gojjam,Sunflower,
+887,Amhara region,West Gojjam,Sesame Seeds,
+888,Amhara region,West Gojjam,Lettuce,
+889,Amhara region,West Gojjam,Head cabbage,
+890,Amhara region,West Gojjam,Eth. Cabbage,9591.19
+891,Amhara region,West Gojjam,Tomatoes,
+892,Amhara region,West Gojjam,Green peppers,
+893,Amhara region,West Gojjam,Red peppers,
+894,Amhara region,West Gojjam,Swiss chard,
+895,Amhara region,West Gojjam,Carrots,
+896,Amhara region,West Gojjam,Onions,
+897,Amhara region,West Gojjam,Potatoes,515949.13
+898,Amhara region,West Gojjam,Garlic,
+899,Amhara region,West Gojjam,Taro / 'Godere',
+900,Amhara region,West Gojjam,Sweet potatoes,
+901,Amhara region,West Gojjam,Avocados,
+902,Amhara region,West Gojjam,Banana,
+903,Amhara region,West Gojjam,Guava,13566.89
+904,Amhara region,West Gojjam,Lemons,
+905,Amhara region,West Gojjam,Mangoes,
+906,Amhara region,West Gojjam,Oranges,31925.13
+907,Amhara region,West Gojjam,Papaya,8462.56
+908,Amhara region,West Gojjam,Pineapple,
+909,Amhara region,West Gojjam,Hop,
+910,Amhara region,West Gojjam,Enset,
+911,Amhara region,West Gojjam,Roses,
+912,Amhara region,West Gojjam,Sorghum,
+913,Amhara region,West Gojjam,Sesame,
+914,Amhara region,West Gojjam,Beetroot,
+915,Amhara region,West Gojjam,Hops,
+916,Amhara region,West Gojjam,Sugar cane,
+917,Amhara region,West Gojjam,Enset,
+918,Amhara region,Waghemra,Teff,205677.94
+919,Amhara region,Waghemra,Barley,255899.08
+920,Amhara region,Waghemra,wheat,173931.8
+921,Amhara region,Waghemra,Maize,27227.26
+922,Amhara region,Waghemra,Sorghum,872595.55
+923,Amhara region,Waghemra,Finger Millet,8857.79
+924,Amhara region,Waghemra,Oats,
+925,Amhara region,Waghemra,Rice,
+926,Amhara region,Waghemra,Faba Beans,91730.63
+927,Amhara region,Waghemra,Field Peas,15423.31
+928,Amhara region,Waghemra,Haricot beans,17173.21
+929,Amhara region,Waghemra,Chick-Peas,5428.21
+930,Amhara region,Waghemra,Lentils,6712.81
+931,Amhara region,Waghemra,Grass Peas,
+932,Amhara region,Waghemra,Soybeans,
+933,Amhara region,Waghemra,Fenugreek,124.66
+934,Amhara region,Waghemra,Gibto,
+935,Amhara region,Waghemra,Niger Seeds,
+936,Amhara region,Waghemra,Groundnut,
+937,Amhara region,Waghemra,Sunflower,2653.2
+938,Amhara region,Waghemra,Sesame Seeds,
+939,Amhara region,Waghemra,Lettuce,
+940,Amhara region,Waghemra,Head cabbage,122.84
+941,Amhara region,Waghemra,Eth. Cabbage,
+942,Amhara region,Waghemra,Tomatoes,346.24
+943,Amhara region,Waghemra,Green peppers,
+944,Amhara region,Waghemra,Red peppers,
+945,Amhara region,Waghemra,Swiss chard,
+946,Amhara region,Waghemra,Carrots,
+947,Amhara region,Waghemra,Onions,
+948,Amhara region,Waghemra,Potatoes,
+949,Amhara region,Waghemra,Garlic,3100.83
+950,Amhara region,Waghemra,Taro / 'Godere',
+951,Amhara region,Waghemra,Sweet potatoes,
+952,Amhara region,Waghemra,Avocados,
+953,Amhara region,Waghemra,Banana,
+954,Amhara region,Waghemra,Guava,248.39
+955,Amhara region,Waghemra,Lemons,27.13
+956,Amhara region,Waghemra,Mangoes,
+957,Amhara region,Waghemra,Oranges,
+958,Amhara region,Waghemra,Papaya,
+959,Amhara region,Waghemra,Pineapple,
+960,Amhara region,Waghemra,Hop,
+961,Amhara region,Waghemra,Enset,
+962,Amhara region,Waghemra,Roses,
+963,Amhara region,Waghemra,Sorghum,872595.55
+964,Amhara region,Waghemra,Sesame,
+965,Amhara region,Waghemra,Beetroot,
+966,Amhara region,Waghemra,Hops,
+967,Amhara region,Waghemra,Sugar cane,
+968,Amhara region,Waghemra,Enset,
+969,Amhara region,Awi,Teff,
+970,Amhara region,Awi,Barley,
+971,Amhara region,Awi,wheat,
+972,Amhara region,Awi,Maize,3390612.96
+973,Amhara region,Awi,Sorghum,
+974,Amhara region,Awi,Finger Millet,1377718.6
+975,Amhara region,Awi,Oats,
+976,Amhara region,Awi,Rice,
+977,Amhara region,Awi,Faba Beans,44012.55
+978,Amhara region,Awi,Field Peas,
+979,Amhara region,Awi,Haricot beans,
+980,Amhara region,Awi,Chick-Peas,
+981,Amhara region,Awi,Lentils,
+982,Amhara region,Awi,Grass Peas,
+983,Amhara region,Awi,Soybeans,
+984,Amhara region,Awi,Fenugreek,
+985,Amhara region,Awi,Gibto,37695.22
+986,Amhara region,Awi,Niger Seeds,147882.3
+987,Amhara region,Awi,Groundnut,
+988,Amhara region,Awi,Sunflower,
+989,Amhara region,Awi,Sesame Seeds,
+990,Amhara region,Awi,Lettuce,
+991,Amhara region,Awi,Head cabbage,
+992,Amhara region,Awi,Eth. Cabbage,7972.19
+993,Amhara region,Awi,Tomatoes,
+994,Amhara region,Awi,Green peppers,
+995,Amhara region,Awi,Red peppers,287479.39
+996,Amhara region,Awi,Swiss chard,
+997,Amhara region,Awi,Carrots,
+998,Amhara region,Awi,Onions,
+999,Amhara region,Awi,Potatoes,358104.08
+1000,Amhara region,Awi,Garlic,14828.08
+1001,Amhara region,Awi,Taro / 'Godere',
+1002,Amhara region,Awi,Sweet potatoes,
+1003,Amhara region,Awi,Avocados,
+1004,Amhara region,Awi,Banana,
+1005,Amhara region,Awi,Guava,3228.39
+1006,Amhara region,Awi,Lemons,136.65
+1007,Amhara region,Awi,Mangoes,
+1008,Amhara region,Awi,Oranges,16466.08
+1009,Amhara region,Awi,Papaya,1865.99
+1010,Amhara region,Awi,Pineapple,
+1011,Amhara region,Awi,Hop,2889.66
+1012,Amhara region,Awi,Enset,
+1013,Amhara region,Awi,Roses,
+1014,Amhara region,Awi,Sorghum,
+1015,Amhara region,Awi,Sesame,
+1016,Amhara region,Awi,Beetroot,
+1017,Amhara region,Awi,Hops,
+1018,Amhara region,Awi,Sugar cane,
+1019,Amhara region,Awi,Enset,
+1020,Amhara region,Oromia nationality zone,Teff,110679.4
+1021,Amhara region,Oromia nationality zone,Barley,
+1022,Amhara region,Oromia nationality zone,wheat,
+1023,Amhara region,Oromia nationality zone,Maize,78664.03
+1024,Amhara region,Oromia nationality zone,Sorghum,934421.18
+1025,Amhara region,Oromia nationality zone,Finger Millet,
+1026,Amhara region,Oromia nationality zone,Oats,
+1027,Amhara region,Oromia nationality zone,Rice,
+1028,Amhara region,Oromia nationality zone,Faba Beans,
+1029,Amhara region,Oromia nationality zone,Field Peas,
+1030,Amhara region,Oromia nationality zone,Haricot beans,
+1031,Amhara region,Oromia nationality zone,Chick-Peas,
+1032,Amhara region,Oromia nationality zone,Lentils,
+1033,Amhara region,Oromia nationality zone,Grass Peas,
+1034,Amhara region,Oromia nationality zone,Soybeans,
+1035,Amhara region,Oromia nationality zone,Fenugreek,
+1036,Amhara region,Oromia nationality zone,Gibto,
+1037,Amhara region,Oromia nationality zone,Niger Seeds,
+1038,Amhara region,Oromia nationality zone,Groundnut,22453.34
+1039,Amhara region,Oromia nationality zone,Sunflower,
+1040,Amhara region,Oromia nationality zone,Sesame Seeds,
+1041,Amhara region,Oromia nationality zone,Lettuce,
+1042,Amhara region,Oromia nationality zone,Head cabbage,
+1043,Amhara region,Oromia nationality zone,Eth. Cabbage,1047.67
+1044,Amhara region,Oromia nationality zone,Tomatoes,
+1045,Amhara region,Oromia nationality zone,Green peppers,519.61
+1046,Amhara region,Oromia nationality zone,Red peppers,2997.49
+1047,Amhara region,Oromia nationality zone,Swiss chard,
+1048,Amhara region,Oromia nationality zone,Carrots,
+1049,Amhara region,Oromia nationality zone,Onions,
+1050,Amhara region,Oromia nationality zone,Potatoes,
+1051,Amhara region,Oromia nationality zone,Garlic,
+1052,Amhara region,Oromia nationality zone,Taro / 'Godere',
+1053,Amhara region,Oromia nationality zone,Sweet potatoes,1478.77
+1054,Amhara region,Oromia nationality zone,Avocados,
+1055,Amhara region,Oromia nationality zone,Banana,
+1056,Amhara region,Oromia nationality zone,Guava,6198.68
+1057,Amhara region,Oromia nationality zone,Lemons,1950
+1058,Amhara region,Oromia nationality zone,Mangoes,
+1059,Amhara region,Oromia nationality zone,Oranges,
+1060,Amhara region,Oromia nationality zone,Papaya,9489.54
+1061,Amhara region,Oromia nationality zone,Pineapple,5884.75
+1062,Amhara region,Oromia nationality zone,Hop,1420.24
+1063,Amhara region,Oromia nationality zone,Enset,
+1064,Amhara region,Oromia nationality zone,Roses,
+1065,Amhara region,Oromia nationality zone,Sorghum,934421.18
+1066,Amhara region,Oromia nationality zone,Sesame,
+1067,Amhara region,Oromia nationality zone,Beetroot,
+1068,Amhara region,Oromia nationality zone,Hops,
+1069,Amhara region,Oromia nationality zone,Sugar cane,
+1070,Amhara region,Oromia nationality zone,Enset,
+1071,Amhara region,Central Gonder Zone,Teff,1793363.23
+1072,Amhara region,Central Gonder Zone,Barley,636533.65
+1073,Amhara region,Central Gonder Zone,wheat,848150.94
+1074,Amhara region,Central Gonder Zone,Maize,3156140.21
+1075,Amhara region,Central Gonder Zone,Sorghum,2612329.01
+1076,Amhara region,Central Gonder Zone,Finger Millet,1321817.62
+1077,Amhara region,Central Gonder Zone,Oats,
+1078,Amhara region,Central Gonder Zone,Rice,
+1079,Amhara region,Central Gonder Zone,Faba Beans,259063.81
+1080,Amhara region,Central Gonder Zone,Field Peas,62031.79
+1081,Amhara region,Central Gonder Zone,Haricot beans,
+1082,Amhara region,Central Gonder Zone,Chick-Peas,633875.5
+1083,Amhara region,Central Gonder Zone,Lentils,
+1084,Amhara region,Central Gonder Zone,Grass Peas,116970.7
+1085,Amhara region,Central Gonder Zone,Soybeans,
+1086,Amhara region,Central Gonder Zone,Fenugreek,
+1087,Amhara region,Central Gonder Zone,Gibto,
+1088,Amhara region,Central Gonder Zone,Niger Seeds,72083.97
+1089,Amhara region,Central Gonder Zone,Groundnut,
+1090,Amhara region,Central Gonder Zone,Sunflower,
+1091,Amhara region,Central Gonder Zone,Sesame Seeds,392078.37
+1092,Amhara region,Central Gonder Zone,Lettuce,
+1093,Amhara region,Central Gonder Zone,Head cabbage,
+1094,Amhara region,Central Gonder Zone,Eth. Cabbage,
+1095,Amhara region,Central Gonder Zone,Tomatoes,
+1096,Amhara region,Central Gonder Zone,Green peppers,
+1097,Amhara region,Central Gonder Zone,Red peppers,116457.86
+1098,Amhara region,Central Gonder Zone,Swiss chard,
+1099,Amhara region,Central Gonder Zone,Carrots,
+1100,Amhara region,Central Gonder Zone,Onions,14770.46
+1101,Amhara region,Central Gonder Zone,Potatoes,779275.05
+1102,Amhara region,Central Gonder Zone,Garlic,65191.28
+1103,Amhara region,Central Gonder Zone,Taro / 'Godere',
+1104,Amhara region,Central Gonder Zone,Sweet potatoes,
+1105,Amhara region,Central Gonder Zone,Avocados,
+1106,Amhara region,Central Gonder Zone,Banana,
+1107,Amhara region,Central Gonder Zone,Guava,
+1108,Amhara region,Central Gonder Zone,Lemons,
+1109,Amhara region,Central Gonder Zone,Mangoes,
+1110,Amhara region,Central Gonder Zone,Oranges,
+1111,Amhara region,Central Gonder Zone,Papaya,
+1112,Amhara region,Central Gonder Zone,Pineapple,
+1113,Amhara region,Central Gonder Zone,Hop,
+1114,Amhara region,Central Gonder Zone,Enset,
+1115,Amhara region,Central Gonder Zone,Roses,
+1116,Amhara region,Central Gonder Zone,Sorghum,2612329.01
+1117,Amhara region,Central Gonder Zone,Sesame,
+1118,Amhara region,Central Gonder Zone,Beetroot,
+1119,Amhara region,Central Gonder Zone,Hops,
+1120,Amhara region,Central Gonder Zone,Sugar cane,
+1121,Amhara region,Central Gonder Zone,Enset,
+1122,Amhara region,West Gonder Zone,Teff,234480.65
+1123,Amhara region,West Gonder Zone,Barley,
+1124,Amhara region,West Gonder Zone,wheat,
+1125,Amhara region,West Gonder Zone,Maize,372888.71
+1126,Amhara region,West Gonder Zone,Sorghum,2624777.14
+1127,Amhara region,West Gonder Zone,Finger Millet,151439.48
+1128,Amhara region,West Gonder Zone,Oats,
+1129,Amhara region,West Gonder Zone,Rice,
+1130,Amhara region,West Gonder Zone,Faba Beans,
+1131,Amhara region,West Gonder Zone,Field Peas,
+1132,Amhara region,West Gonder Zone,Haricot beans,
+1133,Amhara region,West Gonder Zone,Chick-Peas,
+1134,Amhara region,West Gonder Zone,Lentils,
+1135,Amhara region,West Gonder Zone,Grass Peas,
+1136,Amhara region,West Gonder Zone,Soybeans,100228.62
+1137,Amhara region,West Gonder Zone,Fenugreek,
+1138,Amhara region,West Gonder Zone,Gibto,
+1139,Amhara region,West Gonder Zone,Niger Seeds,
+1140,Amhara region,West Gonder Zone,Groundnut,
+1141,Amhara region,West Gonder Zone,Sunflower,
+1142,Amhara region,West Gonder Zone,Sesame Seeds,908145.6
+1143,Amhara region,West Gonder Zone,Lettuce,
+1144,Amhara region,West Gonder Zone,Head cabbage,
+1145,Amhara region,West Gonder Zone,Eth. Cabbage,
+1146,Amhara region,West Gonder Zone,Tomatoes,
+1147,Amhara region,West Gonder Zone,Green peppers,
+1148,Amhara region,West Gonder Zone,Red peppers,9994.36
+1149,Amhara region,West Gonder Zone,Swiss chard,
+1150,Amhara region,West Gonder Zone,Carrots,
+1151,Amhara region,West Gonder Zone,Onions,
+1152,Amhara region,West Gonder Zone,Potatoes,
+1153,Amhara region,West Gonder Zone,Garlic,
+1154,Amhara region,West Gonder Zone,Taro / 'Godere',
+1155,Amhara region,West Gonder Zone,Sweet potatoes,
+1156,Amhara region,West Gonder Zone,Avocados,
+1157,Amhara region,West Gonder Zone,Banana,
+1158,Amhara region,West Gonder Zone,Guava,
+1159,Amhara region,West Gonder Zone,Lemons,
+1160,Amhara region,West Gonder Zone,Mangoes,
+1161,Amhara region,West Gonder Zone,Oranges,
+1162,Amhara region,West Gonder Zone,Papaya,
+1163,Amhara region,West Gonder Zone,Pineapple,
+1164,Amhara region,West Gonder Zone,Hop,
+1165,Amhara region,West Gonder Zone,Enset,
+1166,Amhara region,West Gonder Zone,Roses,
+1167,Amhara region,West Gonder Zone,Sorghum,2624777.14
+1168,Amhara region,West Gonder Zone,Sesame,
+1169,Amhara region,West Gonder Zone,Beetroot,
+1170,Amhara region,West Gonder Zone,Hops,
+1171,Amhara region,West Gonder Zone,Sugar cane,
+1172,Amhara region,West Gonder Zone,Enset,
+1173,Oromia,West Welega,Teff,424842.79
+1174,Oromia,West Welega,Barley,
+1175,Oromia,West Welega,wheat,
+1176,Oromia,West Welega,Maize,4843952.88
+1177,Oromia,West Welega,Sorghum,1600350.83
+1178,Oromia,West Welega,Finger Millet,883322.38
+1179,Oromia,West Welega,Oats,
+1180,Oromia,West Welega,Rice,
+1181,Oromia,West Welega,Faba Beans,
+1182,Oromia,West Welega,Field Peas,
+1183,Oromia,West Welega,Haricot beans,
+1184,Oromia,West Welega,Chick-Peas,
+1185,Oromia,West Welega,Lentils,
+1186,Oromia,West Welega,Grass Peas,
+1187,Oromia,West Welega,Soybeans,
+1188,Oromia,West Welega,Fenugreek,
+1189,Oromia,West Welega,Gibto,
+1190,Oromia,West Welega,Niger Seeds,343896.75
+1191,Oromia,West Welega,Groundnut,
+1192,Oromia,West Welega,Sunflower,
+1193,Oromia,West Welega,Sesame Seeds,
+1194,Oromia,West Welega,Lettuce,
+1195,Oromia,West Welega,Head cabbage,
+1196,Oromia,West Welega,Eth. Cabbage,24739.06
+1197,Oromia,West Welega,Tomatoes,
+1198,Oromia,West Welega,Green peppers,33432.6
+1199,Oromia,West Welega,Red peppers,33491.2
+1200,Oromia,West Welega,Swiss chard,
+1201,Oromia,West Welega,Carrots,
+1202,Oromia,West Welega,Onions,
+1203,Oromia,West Welega,Potatoes,
+1204,Oromia,West Welega,Garlic,
+1205,Oromia,West Welega,Taro / 'Godere',
+1206,Oromia,West Welega,Sweet potatoes,1495936.25
+1207,Oromia,West Welega,Avocados,
+1208,Oromia,West Welega,Banana,84822.24
+1209,Oromia,West Welega,Guava,281145.87
+1210,Oromia,West Welega,Lemons,
+1211,Oromia,West Welega,Mangoes,
+1212,Oromia,West Welega,Oranges,144234.57
+1213,Oromia,West Welega,Papaya,39386.3
+1214,Oromia,West Welega,Pineapple,7805.77
+1215,Oromia,West Welega,Hop,778531.17
+1216,Oromia,West Welega,Enset,778531.17
+1217,Oromia,West Welega,Roses,
+1218,Oromia,West Welega,Sorghum,1600350.83
+1219,Oromia,West Welega,Sesame,
+1220,Oromia,West Welega,Beetroot,
+1221,Oromia,West Welega,Hops,778531.17
+1222,Oromia,West Welega,Sugar cane,9261.89
+1223,Oromia,West Welega,Enset,21096.46
+1224,Oromia,East Welega,Teff,1282300.31
+1225,Oromia,East Welega,Barley,141230.7
+1226,Oromia,East Welega,wheat,
+1227,Oromia,East Welega,Maize,9118041.35
+1228,Oromia,East Welega,Sorghum,1079023.26
+1229,Oromia,East Welega,Finger Millet,533475.07
+1230,Oromia,East Welega,Oats,
+1231,Oromia,East Welega,Rice,
+1232,Oromia,East Welega,Faba Beans,140696.79
+1233,Oromia,East Welega,Field Peas,
+1234,Oromia,East Welega,Haricot beans,
+1235,Oromia,East Welega,Chick-Peas,
+1236,Oromia,East Welega,Lentils,
+1237,Oromia,East Welega,Grass Peas,
+1238,Oromia,East Welega,Soybeans,
+1239,Oromia,East Welega,Fenugreek,487.72
+1240,Oromia,East Welega,Gibto,
+1241,Oromia,East Welega,Niger Seeds,
+1242,Oromia,East Welega,Groundnut,288041.88
+1243,Oromia,East Welega,Sunflower,
+1244,Oromia,East Welega,Sesame Seeds,71953.46
+1245,Oromia,East Welega,Lettuce,
+1246,Oromia,East Welega,Head cabbage,9083.26
+1247,Oromia,East Welega,Eth. Cabbage,7646.48
+1248,Oromia,East Welega,Tomatoes,
+1249,Oromia,East Welega,Green peppers,27800.92
+1250,Oromia,East Welega,Red peppers,119555.82
+1251,Oromia,East Welega,Swiss chard,
+1252,Oromia,East Welega,Carrots,
+1253,Oromia,East Welega,Onions,
+1254,Oromia,East Welega,Potatoes,
+1255,Oromia,East Welega,Garlic,6763.48
+1256,Oromia,East Welega,Taro / 'Godere',27654.79
+1257,Oromia,East Welega,Sweet potatoes,
+1258,Oromia,East Welega,Avocados,
+1259,Oromia,East Welega,Banana,
+1260,Oromia,East Welega,Guava,65050.26
+1261,Oromia,East Welega,Lemons,
+1262,Oromia,East Welega,Mangoes,
+1263,Oromia,East Welega,Oranges,54242.07
+1264,Oromia,East Welega,Papaya,
+1265,Oromia,East Welega,Pineapple,49137.99
+1266,Oromia,East Welega,Hop,86430.54
+1267,Oromia,East Welega,Enset,
+1268,Oromia,East Welega,Roses,
+1269,Oromia,East Welega,Sorghum,1079023.26
+1270,Oromia,East Welega,Sesame,71953.46
+1271,Oromia,East Welega,Beetroot,
+1272,Oromia,East Welega,Hops,86430.54
+1273,Oromia,East Welega,Sugar cane,7031.59
+1274,Oromia,East Welega,Enset,874.68
+1275,Oromia,Illu Ababora,Teff,198269.51
+1276,Oromia,Illu Ababora,Barley,29814.52
+1277,Oromia,Illu Ababora,wheat,
+1278,Oromia,Illu Ababora,Maize,2893408.86
+1279,Oromia,Illu Ababora,Sorghum,457147.21
+1280,Oromia,Illu Ababora,Finger Millet,152359.06
+1281,Oromia,Illu Ababora,Oats,
+1282,Oromia,Illu Ababora,Rice,
+1283,Oromia,Illu Ababora,Faba Beans,58424.97
+1284,Oromia,Illu Ababora,Field Peas,
+1285,Oromia,Illu Ababora,Haricot beans,116797.26
+1286,Oromia,Illu Ababora,Chick-Peas,
+1287,Oromia,Illu Ababora,Lentils,
+1288,Oromia,Illu Ababora,Grass Peas,
+1289,Oromia,Illu Ababora,Soybeans,
+1290,Oromia,Illu Ababora,Fenugreek,
+1291,Oromia,Illu Ababora,Gibto,
+1292,Oromia,Illu Ababora,Niger Seeds,
+1293,Oromia,Illu Ababora,Groundnut,
+1294,Oromia,Illu Ababora,Sunflower,
+1295,Oromia,Illu Ababora,Sesame Seeds,
+1296,Oromia,Illu Ababora,Lettuce,
+1297,Oromia,Illu Ababora,Head cabbage,16916.21
+1298,Oromia,Illu Ababora,Eth. Cabbage,23750.71
+1299,Oromia,Illu Ababora,Tomatoes,
+1300,Oromia,Illu Ababora,Green peppers,12718.82
+1301,Oromia,Illu Ababora,Red peppers,71570.76
+1302,Oromia,Illu Ababora,Swiss chard,
+1303,Oromia,Illu Ababora,Carrots,
+1304,Oromia,Illu Ababora,Onions,2538.53
+1305,Oromia,Illu Ababora,Potatoes,
+1306,Oromia,Illu Ababora,Garlic,510.27
+1307,Oromia,Illu Ababora,Taro / 'Godere',163912.91
+1308,Oromia,Illu Ababora,Sweet potatoes,119772.34
+1309,Oromia,Illu Ababora,Avocados,
+1310,Oromia,Illu Ababora,Banana,100601.02
+1311,Oromia,Illu Ababora,Guava,116203.99
+1312,Oromia,Illu Ababora,Lemons,141.06
+1313,Oromia,Illu Ababora,Mangoes,463.12
+1314,Oromia,Illu Ababora,Oranges,26045.19
+1315,Oromia,Illu Ababora,Papaya,3158.66
+1316,Oromia,Illu Ababora,Pineapple,21023.33
+1317,Oromia,Illu Ababora,Hop,613635.41
+1318,Oromia,Illu Ababora,Enset,258333.94
+1319,Oromia,Illu Ababora,Roses,
+1320,Oromia,Illu Ababora,Sorghum,457147.21
+1321,Oromia,Illu Ababora,Sesame,
+1322,Oromia,Illu Ababora,Beetroot,
+1323,Oromia,Illu Ababora,Hops,
+1324,Oromia,Illu Ababora,Sugar cane,
+1325,Oromia,Illu Ababora,Enset,
+1326,Oromia,Jimma,Teff,2266304.58
+1327,Oromia,Jimma,Barley,447174.56
+1328,Oromia,Jimma,wheat,918793.83
+1329,Oromia,Jimma,Maize,8785490.03
+1330,Oromia,Jimma,Sorghum,1899716.78
+1331,Oromia,Jimma,Finger Millet,
+1332,Oromia,Jimma,Oats,
+1333,Oromia,Jimma,Rice,
+1334,Oromia,Jimma,Faba Beans,452334.24
+1335,Oromia,Jimma,Field Peas,199935.8
+1336,Oromia,Jimma,Haricot beans,7958.55
+1337,Oromia,Jimma,Chick-Peas,
+1338,Oromia,Jimma,Lentils,
+1339,Oromia,Jimma,Grass Peas,
+1340,Oromia,Jimma,Soybeans,
+1341,Oromia,Jimma,Fenugreek,
+1342,Oromia,Jimma,Gibto,
+1343,Oromia,Jimma,Niger Seeds,98818.48
+1344,Oromia,Jimma,Groundnut,
+1345,Oromia,Jimma,Sunflower,
+1346,Oromia,Jimma,Sesame Seeds,
+1347,Oromia,Jimma,Lettuce,
+1348,Oromia,Jimma,Head cabbage,51416.54
+1349,Oromia,Jimma,Eth. Cabbage,189311.74
+1350,Oromia,Jimma,Tomatoes,
+1351,Oromia,Jimma,Green peppers,29498.58
+1352,Oromia,Jimma,Red peppers,195430.07
+1353,Oromia,Jimma,Swiss chard,
+1354,Oromia,Jimma,Carrots,
+1355,Oromia,Jimma,Onions,
+1356,Oromia,Jimma,Potatoes,111021.26
+1357,Oromia,Jimma,Garlic,
+1358,Oromia,Jimma,Taro / 'Godere',1157358.59
+1359,Oromia,Jimma,Sweet potatoes,
+1360,Oromia,Jimma,Avocados,
+1361,Oromia,Jimma,Banana,356807.62
+1362,Oromia,Jimma,Guava,340611.03
+1363,Oromia,Jimma,Lemons,3123.72
+1364,Oromia,Jimma,Mangoes,521.47
+1365,Oromia,Jimma,Oranges,106983.09
+1366,Oromia,Jimma,Papaya,25758.27
+1367,Oromia,Jimma,Pineapple,21917.04
+1368,Oromia,Jimma,Hop,996955.34
+1369,Oromia,Jimma,Enset,3178213.67
+1370,Oromia,Jimma,Roses,
+1371,Oromia,Jimma,Sorghum,
+1372,Oromia,Jimma,Sesame,
+1373,Oromia,Jimma,Beetroot,
+1374,Oromia,Jimma,Hops,
+1375,Oromia,Jimma,Sugar cane,
+1376,Oromia,Jimma,Enset,
+1377,Oromia,West Shewa,Teff,4221438.94
+1378,Oromia,West Shewa,Barley,1837436.9
+1379,Oromia,West Shewa,wheat,2362113.8
+1380,Oromia,West Shewa,Maize,5040554.89
+1381,Oromia,West Shewa,Sorghum,1594545.14
+1382,Oromia,West Shewa,Finger Millet,
+1383,Oromia,West Shewa,Oats,
+1384,Oromia,West Shewa,Rice,
+1385,Oromia,West Shewa,Faba Beans,772590.47
+1386,Oromia,West Shewa,Field Peas,197611.2
+1387,Oromia,West Shewa,Haricot beans,
+1388,Oromia,West Shewa,Chick-Peas,
+1389,Oromia,West Shewa,Lentils,
+1390,Oromia,West Shewa,Grass Peas,
+1391,Oromia,West Shewa,Soybeans,
+1392,Oromia,West Shewa,Fenugreek,
+1393,Oromia,West Shewa,Gibto,
+1394,Oromia,West Shewa,Niger Seeds,165711.37
+1395,Oromia,West Shewa,Groundnut,
+1396,Oromia,West Shewa,Sunflower,
+1397,Oromia,West Shewa,Sesame Seeds,
+1398,Oromia,West Shewa,Lettuce,
+1399,Oromia,West Shewa,Head cabbage,33780.49
+1400,Oromia,West Shewa,Eth. Cabbage,100770.05
+1401,Oromia,West Shewa,Tomatoes,
+1402,Oromia,West Shewa,Green peppers,22247.21
+1403,Oromia,West Shewa,Red peppers,
+1404,Oromia,West Shewa,Swiss chard,467.44
+1405,Oromia,West Shewa,Carrots,1062.47
+1406,Oromia,West Shewa,Onions,
+1407,Oromia,West Shewa,Potatoes,
+1408,Oromia,West Shewa,Garlic,107867.64
+1409,Oromia,West Shewa,Taro / 'Godere',
+1410,Oromia,West Shewa,Sweet potatoes,
+1411,Oromia,West Shewa,Avocados,
+1412,Oromia,West Shewa,Banana,
+1413,Oromia,West Shewa,Guava,
+1414,Oromia,West Shewa,Lemons,
+1415,Oromia,West Shewa,Mangoes,
+1416,Oromia,West Shewa,Oranges,5594.44
+1417,Oromia,West Shewa,Papaya,
+1418,Oromia,West Shewa,Pineapple,
+1419,Oromia,West Shewa,Hop,
+1420,Oromia,West Shewa,Enset,711007.9
+1421,Oromia,West Shewa,Roses,
+1422,Oromia,West Shewa,Sorghum,
+1423,Oromia,West Shewa,Sesame,
+1424,Oromia,West Shewa,Beetroot,
+1425,Oromia,West Shewa,Hops,
+1426,Oromia,West Shewa,Sugar cane,
+1427,Oromia,West Shewa,Enset,
+1428,Oromia,North Shewa,Teff,3525213.08
+1429,Oromia,North Shewa,Barley,1225335.44
+1430,Oromia,North Shewa,wheat,3920778.54
+1431,Oromia,North Shewa,Maize,232991.95
+1432,Oromia,North Shewa,Sorghum,2686552.87
+1433,Oromia,North Shewa,Finger Millet,1147.42
+1434,Oromia,North Shewa,Oats,
+1435,Oromia,North Shewa,Rice,
+1436,Oromia,North Shewa,Faba Beans,1002280.37
+1437,Oromia,North Shewa,Field Peas,195584.56
+1438,Oromia,North Shewa,Haricot beans,
+1439,Oromia,North Shewa,Chick-Peas,180827.12
+1440,Oromia,North Shewa,Lentils,242043.57
+1441,Oromia,North Shewa,Grass Peas,
+1442,Oromia,North Shewa,Soybeans,
+1443,Oromia,North Shewa,Fenugreek,
+1444,Oromia,North Shewa,Gibto,
+1445,Oromia,North Shewa,Niger Seeds,
+1446,Oromia,North Shewa,Groundnut,
+1447,Oromia,North Shewa,Sunflower,
+1448,Oromia,North Shewa,Sesame Seeds,
+1449,Oromia,North Shewa,Lettuce,
+1450,Oromia,North Shewa,Head cabbage,471.77
+1451,Oromia,North Shewa,Eth. Cabbage,35851.03
+1452,Oromia,North Shewa,Tomatoes,
+1453,Oromia,North Shewa,Green peppers,
+1454,Oromia,North Shewa,Red peppers,8159.75
+1455,Oromia,North Shewa,Swiss chard,
+1456,Oromia,North Shewa,Carrots,
+1457,Oromia,North Shewa,Onions,
+1458,Oromia,North Shewa,Potatoes,
+1459,Oromia,North Shewa,Garlic,132499.31
+1460,Oromia,North Shewa,Taro / 'Godere',
+1461,Oromia,North Shewa,Sweet potatoes,
+1462,Oromia,North Shewa,Avocados,
+1463,Oromia,North Shewa,Banana,
+1464,Oromia,North Shewa,Guava,1749.47
+1465,Oromia,North Shewa,Lemons,
+1466,Oromia,North Shewa,Mangoes,
+1467,Oromia,North Shewa,Oranges,
+1468,Oromia,North Shewa,Papaya,2054.18
+1469,Oromia,North Shewa,Pineapple,
+1470,Oromia,North Shewa,Hop,
+1471,Oromia,North Shewa,Enset,
+1472,Oromia,North Shewa,Roses,
+1473,Oromia,North Shewa,Sorghum,2686552.87
+1474,Oromia,North Shewa,Sesame,
+1475,Oromia,North Shewa,Beetroot,
+1476,Oromia,North Shewa,Hops,
+1477,Oromia,North Shewa,Sugar cane,
+1478,Oromia,North Shewa,Enset,
+1479,Oromia,East Shewa,Teff,3889071.63
+1480,Oromia,East Shewa,Barley,
+1481,Oromia,East Shewa,wheat,3751494.28
+1482,Oromia,East Shewa,Maize,3992765.46
+1483,Oromia,East Shewa,Sorghum,
+1484,Oromia,East Shewa,Finger Millet,
+1485,Oromia,East Shewa,Oats,
+1486,Oromia,East Shewa,Rice,
+1487,Oromia,East Shewa,Faba Beans,213766.41
+1488,Oromia,East Shewa,Field Peas,
+1489,Oromia,East Shewa,Haricot beans,
+1490,Oromia,East Shewa,Chick-Peas,333208.91
+1491,Oromia,East Shewa,Lentils,141197.32
+1492,Oromia,East Shewa,Grass Peas,114693.39
+1493,Oromia,East Shewa,Soybeans,
+1494,Oromia,East Shewa,Fenugreek,
+1495,Oromia,East Shewa,Gibto,
+1496,Oromia,East Shewa,Niger Seeds,
+1497,Oromia,East Shewa,Groundnut,
+1498,Oromia,East Shewa,Sunflower,
+1499,Oromia,East Shewa,Sesame Seeds,
+1500,Oromia,East Shewa,Lettuce,
+1501,Oromia,East Shewa,Head cabbage,
+1502,Oromia,East Shewa,Eth. Cabbage,
+1503,Oromia,East Shewa,Tomatoes,
+1504,Oromia,East Shewa,Green peppers,
+1505,Oromia,East Shewa,Red peppers,
+1506,Oromia,East Shewa,Swiss chard,
+1507,Oromia,East Shewa,Carrots,
+1508,Oromia,East Shewa,Onions,
+1509,Oromia,East Shewa,Potatoes,
+1510,Oromia,East Shewa,Garlic,
+1511,Oromia,East Shewa,Taro / 'Godere',
+1512,Oromia,East Shewa,Sweet potatoes,
+1513,Oromia,East Shewa,Avocados,
+1514,Oromia,East Shewa,Banana,
+1515,Oromia,East Shewa,Guava,
+1516,Oromia,East Shewa,Lemons,
+1517,Oromia,East Shewa,Mangoes,
+1518,Oromia,East Shewa,Oranges,
+1519,Oromia,East Shewa,Papaya,
+1520,Oromia,East Shewa,Pineapple,
+1521,Oromia,East Shewa,Hop,
+1522,Oromia,East Shewa,Enset,
+1523,Oromia,East Shewa,Roses,
+1524,Oromia,East Shewa,Sorghum,
+1525,Oromia,East Shewa,Sesame,
+1526,Oromia,East Shewa,Beetroot,
+1527,Oromia,East Shewa,Hops,
+1528,Oromia,East Shewa,Sugar cane,
+1529,Oromia,East Shewa,Enset,
+1530,Oromia,Arsi,Teff,1715981.18
+1531,Oromia,Arsi,Barley,3039954.65
+1532,Oromia,Arsi,wheat,7200170.94
+1533,Oromia,Arsi,Maize,2992061.73
+1534,Oromia,Arsi,Sorghum,1478371.52
+1535,Oromia,Arsi,Finger Millet,
+1536,Oromia,Arsi,Oats,
+1537,Oromia,Arsi,Rice,
+1538,Oromia,Arsi,Faba Beans,1101324.7
+1539,Oromia,Arsi,Field Peas,364175.92
+1540,Oromia,Arsi,Haricot beans,
+1541,Oromia,Arsi,Chick-Peas,
+1542,Oromia,Arsi,Lentils,
+1543,Oromia,Arsi,Grass Peas,
+1544,Oromia,Arsi,Soybeans,
+1545,Oromia,Arsi,Fenugreek,
+1546,Oromia,Arsi,Gibto,
+1547,Oromia,Arsi,Niger Seeds,
+1548,Oromia,Arsi,Groundnut,
+1549,Oromia,Arsi,Sunflower,
+1550,Oromia,Arsi,Sesame Seeds,
+1551,Oromia,Arsi,Lettuce,
+1552,Oromia,Arsi,Head cabbage,
+1553,Oromia,Arsi,Eth. Cabbage,62145.61
+1554,Oromia,Arsi,Tomatoes,
+1555,Oromia,Arsi,Green peppers,6131.24
+1556,Oromia,Arsi,Red peppers,
+1557,Oromia,Arsi,Swiss chard,
+1558,Oromia,Arsi,Carrots,
+1559,Oromia,Arsi,Onions,461858.66
+1560,Oromia,Arsi,Potatoes,
+1561,Oromia,Arsi,Garlic,98141.27
+1562,Oromia,Arsi,Taro / 'Godere',
+1563,Oromia,Arsi,Sweet potatoes,
+1564,Oromia,Arsi,Avocados,
+1565,Oromia,Arsi,Banana,
+1566,Oromia,Arsi,Guava,
+1567,Oromia,Arsi,Lemons,
+1568,Oromia,Arsi,Mangoes,
+1569,Oromia,Arsi,Oranges,
+1570,Oromia,Arsi,Papaya,
+1571,Oromia,Arsi,Pineapple,
+1572,Oromia,Arsi,Hop,
+1573,Oromia,Arsi,Enset,33653.53
+1574,Oromia,Arsi,Roses,
+1575,Oromia,Arsi,Sorghum,
+1576,Oromia,Arsi,Sesame,
+1577,Oromia,Arsi,Beetroot,
+1578,Oromia,Arsi,Hops,
+1579,Oromia,Arsi,Sugar cane,
+1580,Oromia,Arsi,Enset,
+1581,Oromia,West Harerge,Teff,
+1582,Oromia,West Harerge,Barley,55609.33
+1583,Oromia,West Harerge,wheat,23988.93
+1584,Oromia,West Harerge,Maize,1710317.55
+1585,Oromia,West Harerge,Sorghum,3141178.1
+1586,Oromia,West Harerge,Finger Millet,19810.83
+1587,Oromia,West Harerge,Oats,
+1588,Oromia,West Harerge,Rice,
+1589,Oromia,West Harerge,Faba Beans,5916.12
+1590,Oromia,West Harerge,Field Peas,
+1591,Oromia,West Harerge,Haricot beans,138045.77
+1592,Oromia,West Harerge,Chick-Peas,
+1593,Oromia,West Harerge,Lentils,
+1594,Oromia,West Harerge,Grass Peas,
+1595,Oromia,West Harerge,Soybeans,
+1596,Oromia,West Harerge,Fenugreek,2018.92
+1597,Oromia,West Harerge,Gibto,
+1598,Oromia,West Harerge,Niger Seeds,
+1599,Oromia,West Harerge,Groundnut,137433.12
+1600,Oromia,West Harerge,Sunflower,
+1601,Oromia,West Harerge,Sesame Seeds,
+1602,Oromia,West Harerge,Lettuce,
+1603,Oromia,West Harerge,Head cabbage,
+1604,Oromia,West Harerge,Eth. Cabbage,
+1605,Oromia,West Harerge,Tomatoes,15351.79
+1606,Oromia,West Harerge,Green peppers,
+1607,Oromia,West Harerge,Red peppers,221690.08
+1608,Oromia,West Harerge,Swiss chard,
+1609,Oromia,West Harerge,Carrots,
+1610,Oromia,West Harerge,Onions,12261.05
+1611,Oromia,West Harerge,Potatoes,
+1612,Oromia,West Harerge,Garlic,
+1613,Oromia,West Harerge,Taro / 'Godere',
+1614,Oromia,West Harerge,Sweet potatoes,1017462.89
+1615,Oromia,West Harerge,Avocados,
+1616,Oromia,West Harerge,Banana,
+1617,Oromia,West Harerge,Guava,65655.09
+1618,Oromia,West Harerge,Lemons,
+1619,Oromia,West Harerge,Mangoes,
+1620,Oromia,West Harerge,Oranges,
+1621,Oromia,West Harerge,Papaya,
+1622,Oromia,West Harerge,Pineapple,
+1623,Oromia,West Harerge,Hop,74620.15
+1624,Oromia,West Harerge,Enset,
+1625,Oromia,West Harerge,Roses,
+1626,Oromia,West Harerge,Sorghum,
+1627,Oromia,West Harerge,Sesame,
+1628,Oromia,West Harerge,Beetroot,
+1629,Oromia,West Harerge,Hops,
+1630,Oromia,West Harerge,Sugar cane,
+1631,Oromia,West Harerge,Enset,
+1632,Oromia,East Harerge,Teff,
+1633,Oromia,East Harerge,Barley,81840.95
+1634,Oromia,East Harerge,wheat,245775.18
+1635,Oromia,East Harerge,Maize,2199279.46
+1636,Oromia,East Harerge,Sorghum,2789427.63
+1637,Oromia,East Harerge,Finger Millet,
+1638,Oromia,East Harerge,Oats,
+1639,Oromia,East Harerge,Rice,
+1640,Oromia,East Harerge,Faba Beans,44605.61
+1641,Oromia,East Harerge,Field Peas,
+1642,Oromia,East Harerge,Haricot beans,6877.21
+1643,Oromia,East Harerge,Chick-Peas,
+1644,Oromia,East Harerge,Lentils,
+1645,Oromia,East Harerge,Grass Peas,
+1646,Oromia,East Harerge,Soybeans,
+1647,Oromia,East Harerge,Fenugreek,
+1648,Oromia,East Harerge,Gibto,
+1649,Oromia,East Harerge,Niger Seeds,
+1650,Oromia,East Harerge,Groundnut,344177.53
+1651,Oromia,East Harerge,Sunflower,
+1652,Oromia,East Harerge,Sesame Seeds,
+1653,Oromia,East Harerge,Lettuce,
+1654,Oromia,East Harerge,Head cabbage,
+1655,Oromia,East Harerge,Eth. Cabbage,
+1656,Oromia,East Harerge,Tomatoes,
+1657,Oromia,East Harerge,Green peppers,
+1658,Oromia,East Harerge,Red peppers,
+1659,Oromia,East Harerge,Swiss chard,
+1660,Oromia,East Harerge,Carrots,
+1661,Oromia,East Harerge,Onions,76059.04
+1662,Oromia,East Harerge,Potatoes,150589.47
+1663,Oromia,East Harerge,Garlic,
+1664,Oromia,East Harerge,Taro / 'Godere',
+1665,Oromia,East Harerge,Sweet potatoes,3366476.63
+1666,Oromia,East Harerge,Avocados,
+1667,Oromia,East Harerge,Banana,
+1668,Oromia,East Harerge,Guava,112085.44
+1669,Oromia,East Harerge,Lemons,
+1670,Oromia,East Harerge,Mangoes,
+1671,Oromia,East Harerge,Oranges,
+1672,Oromia,East Harerge,Papaya,
+1673,Oromia,East Harerge,Pineapple,
+1674,Oromia,East Harerge,Hop,32919.29
+1675,Oromia,East Harerge,Enset,
+1676,Oromia,East Harerge,Roses,
+1677,Oromia,East Harerge,Sorghum,
+1678,Oromia,East Harerge,Sesame,
+1679,Oromia,East Harerge,Beetroot,
+1680,Oromia,East Harerge,Hops,
+1681,Oromia,East Harerge,Sugar cane,
+1682,Oromia,East Harerge,Enset,
+1683,Oromia,Bale,Teff,850550.18
+1684,Oromia,Bale,Barley,655989.82
+1685,Oromia,Bale,wheat,4561911.12
+1686,Oromia,Bale,Maize,647834.76
+1687,Oromia,Bale,Sorghum,183563.53
+1688,Oromia,Bale,Finger Millet,
+1689,Oromia,Bale,Oats,126672.42
+1690,Oromia,Bale,Rice,
+1691,Oromia,Bale,Faba Beans,213727.49
+1692,Oromia,Bale,Field Peas,99663.73
+1693,Oromia,Bale,Haricot beans,
+1694,Oromia,Bale,Chick-Peas,
+1695,Oromia,Bale,Lentils,
+1696,Oromia,Bale,Grass Peas,
+1697,Oromia,Bale,Soybeans,
+1698,Oromia,Bale,Fenugreek,
+1699,Oromia,Bale,Gibto,
+1700,Oromia,Bale,Niger Seeds,
+1701,Oromia,Bale,Groundnut,
+1702,Oromia,Bale,Sunflower,
+1703,Oromia,Bale,Sesame Seeds,
+1704,Oromia,Bale,Lettuce,
+1705,Oromia,Bale,Head cabbage,
+1706,Oromia,Bale,Eth. Cabbage,36524.67
+1707,Oromia,Bale,Tomatoes,
+1708,Oromia,Bale,Green peppers,
+1709,Oromia,Bale,Red peppers,
+1710,Oromia,Bale,Swiss chard,
+1711,Oromia,Bale,Carrots,
+1712,Oromia,Bale,Onions,
+1713,Oromia,Bale,Potatoes,
+1714,Oromia,Bale,Garlic,
+1715,Oromia,Bale,Taro / 'Godere',
+1716,Oromia,Bale,Sweet potatoes,
+1717,Oromia,Bale,Avocados,
+1718,Oromia,Bale,Banana,23883.94
+1719,Oromia,Bale,Guava,88909.22
+1720,Oromia,Bale,Lemons,
+1721,Oromia,Bale,Mangoes,
+1722,Oromia,Bale,Oranges,31240.78
+1723,Oromia,Bale,Papaya,
+1724,Oromia,Bale,Pineapple,
+1725,Oromia,Bale,Hop,127874.43
+1726,Oromia,Bale,Enset,1162211
+1727,Oromia,Bale,Roses,
+1728,Oromia,Bale,Sorghum,
+1729,Oromia,Bale,Sesame,
+1730,Oromia,Bale,Beetroot,
+1731,Oromia,Bale,Hops,
+1732,Oromia,Bale,Sugar cane,
+1733,Oromia,Bale,Enset,
+1734,Oromia,Borena,Teff,
+1735,Oromia,Borena,Barley,
+1736,Oromia,Borena,wheat,
+1737,Oromia,Borena,Maize,89120.89
+1738,Oromia,Borena,Sorghum,
+1739,Oromia,Borena,Finger Millet,
+1740,Oromia,Borena,Oats,
+1741,Oromia,Borena,Rice,
+1742,Oromia,Borena,Faba Beans,
+1743,Oromia,Borena,Field Peas,
+1744,Oromia,Borena,Haricot beans,57716.15
+1745,Oromia,Borena,Chick-Peas,
+1746,Oromia,Borena,Lentils,
+1747,Oromia,Borena,Grass Peas,
+1748,Oromia,Borena,Soybeans,
+1749,Oromia,Borena,Fenugreek,
+1750,Oromia,Borena,Gibto,
+1751,Oromia,Borena,Niger Seeds,
+1752,Oromia,Borena,Groundnut,
+1753,Oromia,Borena,Sunflower,
+1754,Oromia,Borena,Sesame Seeds,
+1755,Oromia,Borena,Lettuce,
+1756,Oromia,Borena,Head cabbage,
+1757,Oromia,Borena,Eth. Cabbage,
+1758,Oromia,Borena,Tomatoes,
+1759,Oromia,Borena,Green peppers,
+1760,Oromia,Borena,Red peppers,
+1761,Oromia,Borena,Swiss chard,
+1762,Oromia,Borena,Carrots,
+1763,Oromia,Borena,Onions,
+1764,Oromia,Borena,Potatoes,
+1765,Oromia,Borena,Garlic,
+1766,Oromia,Borena,Taro / 'Godere',
+1767,Oromia,Borena,Sweet potatoes,
+1768,Oromia,Borena,Avocados,
+1769,Oromia,Borena,Banana,
+1770,Oromia,Borena,Guava,
+1771,Oromia,Borena,Lemons,
+1772,Oromia,Borena,Mangoes,
+1773,Oromia,Borena,Oranges,
+1774,Oromia,Borena,Papaya,
+1775,Oromia,Borena,Pineapple,
+1776,Oromia,Borena,Hop,
+1777,Oromia,Borena,Enset,
+1778,Oromia,Borena,Roses,
+1779,Oromia,Borena,Sorghum,
+1780,Oromia,Borena,Sesame,
+1781,Oromia,Borena,Beetroot,
+1782,Oromia,Borena,Hops,
+1783,Oromia,Borena,Sugar cane,
+1784,Oromia,Borena,Enset,
+1785,Oromia,South-West Shewa,Teff,3575194.23
+1786,Oromia,South-West Shewa,Barley,799085.92
+1787,Oromia,South-West Shewa,wheat,2291792.78
+1788,Oromia,South-West Shewa,Maize,1335147.71
+1789,Oromia,South-West Shewa,Sorghum,107069.24
+1790,Oromia,South-West Shewa,Finger Millet,
+1791,Oromia,South-West Shewa,Oats,
+1792,Oromia,South-West Shewa,Rice,
+1793,Oromia,South-West Shewa,Faba Beans,551683.41
+1794,Oromia,South-West Shewa,Field Peas,107665.65
+1795,Oromia,South-West Shewa,Haricot beans,
+1796,Oromia,South-West Shewa,Chick-Peas,765012.94
+1797,Oromia,South-West Shewa,Lentils,
+1798,Oromia,South-West Shewa,Grass Peas,
+1799,Oromia,South-West Shewa,Soybeans,
+1800,Oromia,South-West Shewa,Fenugreek,
+1801,Oromia,South-West Shewa,Gibto,
+1802,Oromia,South-West Shewa,Niger Seeds,
+1803,Oromia,South-West Shewa,Groundnut,
+1804,Oromia,South-West Shewa,Sunflower,
+1805,Oromia,South-West Shewa,Sesame Seeds,
+1806,Oromia,South-West Shewa,Lettuce,
+1807,Oromia,South-West Shewa,Head cabbage,
+1808,Oromia,South-West Shewa,Eth. Cabbage,60435.98
+1809,Oromia,South-West Shewa,Tomatoes,
+1810,Oromia,South-West Shewa,Green peppers,6995.09
+1811,Oromia,South-West Shewa,Red peppers,
+1812,Oromia,South-West Shewa,Swiss chard,
+1813,Oromia,South-West Shewa,Carrots,
+1814,Oromia,South-West Shewa,Onions,
+1815,Oromia,South-West Shewa,Potatoes,
+1816,Oromia,South-West Shewa,Garlic,5342.11
+1817,Oromia,South-West Shewa,Taro / 'Godere',
+1818,Oromia,South-West Shewa,Sweet potatoes,
+1819,Oromia,South-West Shewa,Avocados,
+1820,Oromia,South-West Shewa,Banana,16370.04
+1821,Oromia,South-West Shewa,Guava,17786.91
+1822,Oromia,South-West Shewa,Lemons,
+1823,Oromia,South-West Shewa,Mangoes,
+1824,Oromia,South-West Shewa,Oranges,6354.67
+1825,Oromia,South-West Shewa,Papaya,4473.84
+1826,Oromia,South-West Shewa,Pineapple,2701.98
+1827,Oromia,South-West Shewa,Hop,3396.95
+1828,Oromia,South-West Shewa,Enset,969188.6
+1829,Oromia,South-West Shewa,Roses,
+1830,Oromia,South-West Shewa,Sorghum,
+1831,Oromia,South-West Shewa,Sesame,
+1832,Oromia,South-West Shewa,Beetroot,
+1833,Oromia,South-West Shewa,Hops,
+1834,Oromia,South-West Shewa,Sugar cane,
+1835,Oromia,South-West Shewa,Enset,
+1836,Oromia,Guji,Teff,717973.16
+1837,Oromia,Guji,Barley,434649.54
+1838,Oromia,Guji,wheat,
+1839,Oromia,Guji,Maize,1431660.82
+1840,Oromia,Guji,Sorghum,
+1841,Oromia,Guji,Finger Millet,
+1842,Oromia,Guji,Oats,
+1843,Oromia,Guji,Rice,
+1844,Oromia,Guji,Faba Beans,250731.58
+1845,Oromia,Guji,Field Peas,
+1846,Oromia,Guji,Haricot beans,235293.67
+1847,Oromia,Guji,Chick-Peas,
+1848,Oromia,Guji,Lentils,
+1849,Oromia,Guji,Grass Peas,
+1850,Oromia,Guji,Soybeans,
+1851,Oromia,Guji,Fenugreek,
+1852,Oromia,Guji,Gibto,
+1853,Oromia,Guji,Niger Seeds,
+1854,Oromia,Guji,Groundnut,
+1855,Oromia,Guji,Sunflower,
+1856,Oromia,Guji,Sesame Seeds,
+1857,Oromia,Guji,Lettuce,
+1858,Oromia,Guji,Head cabbage,
+1859,Oromia,Guji,Eth. Cabbage,141670.52
+1860,Oromia,Guji,Tomatoes,
+1861,Oromia,Guji,Green peppers,
+1862,Oromia,Guji,Red peppers,
+1863,Oromia,Guji,Swiss chard,
+1864,Oromia,Guji,Carrots,
+1865,Oromia,Guji,Onions,
+1866,Oromia,Guji,Potatoes,
+1867,Oromia,Guji,Garlic,
+1868,Oromia,Guji,Taro / 'Godere',
+1869,Oromia,Guji,Sweet potatoes,
+1870,Oromia,Guji,Avocados,
+1871,Oromia,Guji,Banana,80670.25
+1872,Oromia,Guji,Guava,178020.5
+1873,Oromia,Guji,Lemons,
+1874,Oromia,Guji,Mangoes,
+1875,Oromia,Guji,Oranges,
+1876,Oromia,Guji,Papaya,
+1877,Oromia,Guji,Pineapple,
+1878,Oromia,Guji,Hop,231443.94
+1879,Oromia,Guji,Enset,7641662.29
+1880,Oromia,Guji,Roses,
+1881,Oromia,Guji,Sorghum,
+1882,Oromia,Guji,Sesame,
+1883,Oromia,Guji,Beetroot,
+1884,Oromia,Guji,Hops,
+1885,Oromia,Guji,Sugar cane,
+1886,Oromia,Guji,Enset,
+1887,Oromia,West Guji,Teff,
+1888,Oromia,West Guji,Barley,
+1889,Oromia,West Guji,wheat,
+1890,Oromia,West Guji,Maize,378800.07
+1891,Oromia,West Guji,Sorghum,
+1892,Oromia,West Guji,Finger Millet,
+1893,Oromia,West Guji,Oats,
+1894,Oromia,West Guji,Rice,
+1895,Oromia,West Guji,Faba Beans,
+1896,Oromia,West Guji,Field Peas,
+1897,Oromia,West Guji,Haricot beans,93251.49
+1898,Oromia,West Guji,Chick-Peas,
+1899,Oromia,West Guji,Lentils,
+1900,Oromia,West Guji,Grass Peas,
+1901,Oromia,West Guji,Soybeans,
+1902,Oromia,West Guji,Fenugreek,
+1903,Oromia,West Guji,Gibto,
+1904,Oromia,West Guji,Niger Seeds,
+1905,Oromia,West Guji,Groundnut,
+1906,Oromia,West Guji,Sunflower,
+1907,Oromia,West Guji,Sesame Seeds,
+1908,Oromia,West Guji,Lettuce,
+1909,Oromia,West Guji,Head cabbage,
+1910,Oromia,West Guji,Eth. Cabbage,323950
+1911,Oromia,West Guji,Tomatoes,
+1912,Oromia,West Guji,Green peppers,
+1913,Oromia,West Guji,Red peppers,
+1914,Oromia,West Guji,Swiss chard,
+1915,Oromia,West Guji,Carrots,
+1916,Oromia,West Guji,Onions,
+1917,Oromia,West Guji,Potatoes,
+1918,Oromia,West Guji,Garlic,
+1919,Oromia,West Guji,Taro / 'Godere',
+1920,Oromia,West Guji,Sweet potatoes,
+1921,Oromia,West Guji,Avocados,
+1922,Oromia,West Guji,Banana,
+1923,Oromia,West Guji,Guava,168274.04
+1924,Oromia,West Guji,Lemons,
+1925,Oromia,West Guji,Mangoes,
+1926,Oromia,West Guji,Oranges,
+1927,Oromia,West Guji,Papaya,
+1928,Oromia,West Guji,Pineapple,
+1929,Oromia,West Guji,Hop,458249.12
+1930,Oromia,West Guji,Enset,12812789.11
+1931,Oromia,West Guji,Roses,
+1932,Oromia,West Guji,Sorghum,
+1933,Oromia,West Guji,Sesame,
+1934,Oromia,West Guji,Beetroot,
+1935,Oromia,West Guji,Hops,
+1936,Oromia,West Guji,Sugar cane,
+1937,Oromia,West Guji,Enset,
+1938,Oromia,Kelem Welega,Teff,
+1939,Oromia,Kelem Welega,Barley,
+1940,Oromia,Kelem Welega,wheat,
+1941,Oromia,Kelem Welega,Maize,2985884.25
+1942,Oromia,Kelem Welega,Sorghum,1115179.01
+1943,Oromia,Kelem Welega,Finger Millet,640967.25
+1944,Oromia,Kelem Welega,Oats,
+1945,Oromia,Kelem Welega,Rice,
+1946,Oromia,Kelem Welega,Faba Beans,
+1947,Oromia,Kelem Welega,Field Peas,
+1948,Oromia,Kelem Welega,Haricot beans,184480.49
+1949,Oromia,Kelem Welega,Chick-Peas,
+1950,Oromia,Kelem Welega,Lentils,
+1951,Oromia,Kelem Welega,Grass Peas,
+1952,Oromia,Kelem Welega,Soybeans,
+1953,Oromia,Kelem Welega,Fenugreek,
+1954,Oromia,Kelem Welega,Gibto,
+1955,Oromia,Kelem Welega,Niger Seeds,
+1956,Oromia,Kelem Welega,Groundnut,
+1957,Oromia,Kelem Welega,Sunflower,
+1958,Oromia,Kelem Welega,Sesame Seeds,
+1959,Oromia,Kelem Welega,Lettuce,
+1960,Oromia,Kelem Welega,Head cabbage,4706.64
+1961,Oromia,Kelem Welega,Eth. Cabbage,
+1962,Oromia,Kelem Welega,Tomatoes,
+1963,Oromia,Kelem Welega,Green peppers,
+1964,Oromia,Kelem Welega,Red peppers,
+1965,Oromia,Kelem Welega,Swiss chard,
+1966,Oromia,Kelem Welega,Carrots,
+1967,Oromia,Kelem Welega,Onions,
+1968,Oromia,Kelem Welega,Potatoes,
+1969,Oromia,Kelem Welega,Garlic,
+1970,Oromia,Kelem Welega,Taro / 'Godere',37834.96
+1971,Oromia,Kelem Welega,Sweet potatoes,
+1972,Oromia,Kelem Welega,Avocados,
+1973,Oromia,Kelem Welega,Banana,14261.74
+1974,Oromia,Kelem Welega,Guava,113405.85
+1975,Oromia,Kelem Welega,Lemons,519.31
+1976,Oromia,Kelem Welega,Mangoes,
+1977,Oromia,Kelem Welega,Oranges,38290.43
+1978,Oromia,Kelem Welega,Papaya,
+1979,Oromia,Kelem Welega,Pineapple,40895.81
+1980,Oromia,Kelem Welega,Hop,293891.73
+1981,Oromia,Kelem Welega,Enset,28886.22
+1982,Oromia,Kelem Welega,Roses,
+1983,Oromia,Kelem Welega,Sorghum,
+1984,Oromia,Kelem Welega,Sesame,
+1985,Oromia,Kelem Welega,Beetroot,
+1986,Oromia,Kelem Welega,Hops,
+1987,Oromia,Kelem Welega,Sugar cane,
+1988,Oromia,Kelem Welega,Enset,
+1989,Oromia,Horo Guduru Welega,Teff,1710963.61
+1990,Oromia,Horo Guduru Welega,Barley,356626.28
+1991,Oromia,Horo Guduru Welega,wheat,891584.57
+1992,Oromia,Horo Guduru Welega,Maize,3756036.92
+1993,Oromia,Horo Guduru Welega,Sorghum,
+1994,Oromia,Horo Guduru Welega,Finger Millet,
+1995,Oromia,Horo Guduru Welega,Oats,
+1996,Oromia,Horo Guduru Welega,Rice,
+1997,Oromia,Horo Guduru Welega,Faba Beans,150941.79
+1998,Oromia,Horo Guduru Welega,Field Peas,161178.73
+1999,Oromia,Horo Guduru Welega,Haricot beans,
+2000,Oromia,Horo Guduru Welega,Chick-Peas,
+2001,Oromia,Horo Guduru Welega,Lentils,
+2002,Oromia,Horo Guduru Welega,Grass Peas,
+2003,Oromia,Horo Guduru Welega,Soybeans,
+2004,Oromia,Horo Guduru Welega,Fenugreek,968.72
+2005,Oromia,Horo Guduru Welega,Gibto,
+2006,Oromia,Horo Guduru Welega,Niger Seeds,388095.44
+2007,Oromia,Horo Guduru Welega,Groundnut,
+2008,Oromia,Horo Guduru Welega,Sunflower,
+2009,Oromia,Horo Guduru Welega,Sesame Seeds,
+2010,Oromia,Horo Guduru Welega,Lettuce,
+2011,Oromia,Horo Guduru Welega,Head cabbage,
+2012,Oromia,Horo Guduru Welega,Eth. Cabbage,11590.93
+2013,Oromia,Horo Guduru Welega,Tomatoes,
+2014,Oromia,Horo Guduru Welega,Green peppers,7273
+2015,Oromia,Horo Guduru Welega,Red peppers,
+2016,Oromia,Horo Guduru Welega,Swiss chard,58.93
+2017,Oromia,Horo Guduru Welega,Carrots,375.63
+2018,Oromia,Horo Guduru Welega,Onions,3154.72
+2019,Oromia,Horo Guduru Welega,Potatoes,35465.63
+2020,Oromia,Horo Guduru Welega,Garlic,5102.8
+2021,Oromia,Horo Guduru Welega,Taro / 'Godere',
+2022,Oromia,Horo Guduru Welega,Sweet potatoes,
+2023,Oromia,Horo Guduru Welega,Avocados,
+2024,Oromia,Horo Guduru Welega,Banana,
+2025,Oromia,Horo Guduru Welega,Guava,5192.87
+2026,Oromia,Horo Guduru Welega,Lemons,
+2027,Oromia,Horo Guduru Welega,Mangoes,426.81
+2028,Oromia,Horo Guduru Welega,Oranges,
+2029,Oromia,Horo Guduru Welega,Papaya,
+2030,Oromia,Horo Guduru Welega,Pineapple,
+2031,Oromia,Horo Guduru Welega,Hop,
+2032,Oromia,Horo Guduru Welega,Enset,
+2033,Oromia,Horo Guduru Welega,Roses,
+2034,Oromia,Horo Guduru Welega,Sorghum,
+2035,Oromia,Horo Guduru Welega,Sesame,
+2036,Oromia,Horo Guduru Welega,Beetroot,
+2037,Oromia,Horo Guduru Welega,Hops,
+2038,Oromia,Horo Guduru Welega,Sugar cane,
+2039,Oromia,Horo Guduru Welega,Enset,
+2040,Oromia,West Arsi,Teff,328493.4
+2041,Oromia,West Arsi,Barley,2219882.39
+2042,Oromia,West Arsi,wheat,4183076.57
+2043,Oromia,West Arsi,Maize,3202208.08
+2044,Oromia,West Arsi,Sorghum,
+2045,Oromia,West Arsi,Finger Millet,113523.56
+2046,Oromia,West Arsi,Oats,
+2047,Oromia,West Arsi,Rice,
+2048,Oromia,West Arsi,Faba Beans,
+2049,Oromia,West Arsi,Field Peas,
+2050,Oromia,West Arsi,Haricot beans,278446.44
+2051,Oromia,West Arsi,Chick-Peas,
+2052,Oromia,West Arsi,Lentils,
+2053,Oromia,West Arsi,Grass Peas,
+2054,Oromia,West Arsi,Soybeans,
+2055,Oromia,West Arsi,Fenugreek,
+2056,Oromia,West Arsi,Gibto,
+2057,Oromia,West Arsi,Niger Seeds,
+2058,Oromia,West Arsi,Groundnut,
+2059,Oromia,West Arsi,Sunflower,
+2060,Oromia,West Arsi,Sesame Seeds,
+2061,Oromia,West Arsi,Lettuce,
+2062,Oromia,West Arsi,Head cabbage,
+2063,Oromia,West Arsi,Eth. Cabbage,207541.84
+2064,Oromia,West Arsi,Tomatoes,
+2065,Oromia,West Arsi,Green peppers,
+2066,Oromia,West Arsi,Red peppers,
+2067,Oromia,West Arsi,Swiss chard,
+2068,Oromia,West Arsi,Carrots,
+2069,Oromia,West Arsi,Onions,
+2070,Oromia,West Arsi,Potatoes,2458790.81
+2071,Oromia,West Arsi,Garlic,53887.64
+2072,Oromia,West Arsi,Taro / 'Godere',
+2073,Oromia,West Arsi,Sweet potatoes,
+2074,Oromia,West Arsi,Avocados,
+2075,Oromia,West Arsi,Banana,
+2076,Oromia,West Arsi,Guava,
+2077,Oromia,West Arsi,Lemons,
+2078,Oromia,West Arsi,Mangoes,
+2079,Oromia,West Arsi,Oranges,
+2080,Oromia,West Arsi,Papaya,
+2081,Oromia,West Arsi,Pineapple,
+2082,Oromia,West Arsi,Hop,
+2083,Oromia,West Arsi,Enset,12291504.98
+2084,Oromia,West Arsi,Roses,
+2085,Oromia,West Arsi,Sorghum,
+2086,Oromia,West Arsi,Sesame,
+2087,Oromia,West Arsi,Beetroot,
+2088,Oromia,West Arsi,Hops,
+2089,Oromia,West Arsi,Sugar cane,
+2090,Oromia,West Arsi,Enset,
+2091,Oromia,Buno Bedele,Teff,1151170.16
+2092,Oromia,Buno Bedele,Barley,115186.8
+2093,Oromia,Buno Bedele,wheat,49907.88
+2094,Oromia,Buno Bedele,Maize,2673906.42
+2095,Oromia,Buno Bedele,Sorghum,460123.76
+2096,Oromia,Buno Bedele,Finger Millet,84542.7
+2097,Oromia,Buno Bedele,Oats,
+2098,Oromia,Buno Bedele,Rice,49149.91
+2099,Oromia,Buno Bedele,Faba Beans,69886.97
+2100,Oromia,Buno Bedele,Field Peas,
+2101,Oromia,Buno Bedele,Haricot beans,17358.92
+2102,Oromia,Buno Bedele,Chick-Peas,
+2103,Oromia,Buno Bedele,Lentils,
+2104,Oromia,Buno Bedele,Grass Peas,
+2105,Oromia,Buno Bedele,Soybeans,
+2106,Oromia,Buno Bedele,Fenugreek,563.76
+2107,Oromia,Buno Bedele,Gibto,
+2108,Oromia,Buno Bedele,Niger Seeds,44654.1
+2109,Oromia,Buno Bedele,Groundnut,
+2110,Oromia,Buno Bedele,Sunflower,
+2111,Oromia,Buno Bedele,Sesame Seeds,
+2112,Oromia,Buno Bedele,Lettuce,
+2113,Oromia,Buno Bedele,Head cabbage,4205.28
+2114,Oromia,Buno Bedele,Eth. Cabbage,
+2115,Oromia,Buno Bedele,Tomatoes,
+2116,Oromia,Buno Bedele,Green peppers,
+2117,Oromia,Buno Bedele,Red peppers,
+2118,Oromia,Buno Bedele,Swiss chard,
+2119,Oromia,Buno Bedele,Carrots,
+2120,Oromia,Buno Bedele,Onions,
+2121,Oromia,Buno Bedele,Potatoes,
+2122,Oromia,Buno Bedele,Garlic,981.87
+2123,Oromia,Buno Bedele,Taro / 'Godere',27173.21
+2124,Oromia,Buno Bedele,Sweet potatoes,273780.99
+2125,Oromia,Buno Bedele,Avocados,
+2126,Oromia,Buno Bedele,Banana,21995.22
+2127,Oromia,Buno Bedele,Guava,159527.77
+2128,Oromia,Buno Bedele,Lemons,
+2129,Oromia,Buno Bedele,Mangoes,
+2130,Oromia,Buno Bedele,Oranges,28787.27
+2131,Oromia,Buno Bedele,Papaya,2753.76
+2132,Oromia,Buno Bedele,Pineapple,6892.58
+2133,Oromia,Buno Bedele,Hop,177769.9
+2134,Oromia,Buno Bedele,Enset,103186.67
+2135,Oromia,Buno Bedele,Roses,
+2136,Oromia,Buno Bedele,Sorghum,
+2137,Oromia,Buno Bedele,Sesame,
+2138,Oromia,Buno Bedele,Beetroot,
+2139,Oromia,Buno Bedele,Hops,
+2140,Oromia,Buno Bedele,Sugar cane,
+2141,Oromia,Buno Bedele,Enset,
+2142,Oromia,Finfinne Zuria Special Zone,Teff,886987.43
+2143,Oromia,Finfinne Zuria Special Zone,Barley,610470.07
+2144,Oromia,Finfinne Zuria Special Zone,wheat,1075243.73
+2145,Oromia,Finfinne Zuria Special Zone,Maize,
+2146,Oromia,Finfinne Zuria Special Zone,Sorghum,
+2147,Oromia,Finfinne Zuria Special Zone,Finger Millet,
+2148,Oromia,Finfinne Zuria Special Zone,Oats,
+2149,Oromia,Finfinne Zuria Special Zone,Rice,
+2150,Oromia,Finfinne Zuria Special Zone,Faba Beans,105129.44
+2151,Oromia,Finfinne Zuria Special Zone,Field Peas,33410.53
+2152,Oromia,Finfinne Zuria Special Zone,Haricot beans,
+2153,Oromia,Finfinne Zuria Special Zone,Chick-Peas,170903.46
+2154,Oromia,Finfinne Zuria Special Zone,Lentils,
+2155,Oromia,Finfinne Zuria Special Zone,Grass Peas,178540.27
+2156,Oromia,Finfinne Zuria Special Zone,Soybeans,
+2157,Oromia,Finfinne Zuria Special Zone,Fenugreek,
+2158,Oromia,Finfinne Zuria Special Zone,Gibto,
+2159,Oromia,Finfinne Zuria Special Zone,Niger Seeds,
+2160,Oromia,Finfinne Zuria Special Zone,Groundnut,
+2161,Oromia,Finfinne Zuria Special Zone,Sunflower,
+2162,Oromia,Finfinne Zuria Special Zone,Sesame Seeds,
+2163,Oromia,Finfinne Zuria Special Zone,Lettuce,
+2164,Oromia,Finfinne Zuria Special Zone,Head cabbage,
+2165,Oromia,Finfinne Zuria Special Zone,Eth. Cabbage,59005.8
+2166,Oromia,Finfinne Zuria Special Zone,Tomatoes,
+2167,Oromia,Finfinne Zuria Special Zone,Green peppers,241.48
+2168,Oromia,Finfinne Zuria Special Zone,Red peppers,
+2169,Oromia,Finfinne Zuria Special Zone,Swiss chard,
+2170,Oromia,Finfinne Zuria Special Zone,Carrots,
+2171,Oromia,Finfinne Zuria Special Zone,Onions,
+2172,Oromia,Finfinne Zuria Special Zone,Potatoes,
+2173,Oromia,Finfinne Zuria Special Zone,Garlic,17945.93
+2174,Oromia,Finfinne Zuria Special Zone,Taro / 'Godere',
+2175,Oromia,Finfinne Zuria Special Zone,Sweet potatoes,
+2176,Oromia,Finfinne Zuria Special Zone,Avocados,
+2177,Oromia,Finfinne Zuria Special Zone,Banana,
+2178,Oromia,Finfinne Zuria Special Zone,Guava,
+2179,Oromia,Finfinne Zuria Special Zone,Lemons,
+2180,Oromia,Finfinne Zuria Special Zone,Mangoes,
+2181,Oromia,Finfinne Zuria Special Zone,Oranges,
+2182,Oromia,Finfinne Zuria Special Zone,Papaya,
+2183,Oromia,Finfinne Zuria Special Zone,Pineapple,
+2184,Oromia,Finfinne Zuria Special Zone,Hop,
+2185,Oromia,Finfinne Zuria Special Zone,Enset,63665.03
+2186,Oromia,Finfinne Zuria Special Zone,Roses,
+2187,Oromia,Finfinne Zuria Special Zone,Sorghum,
+2188,Oromia,Finfinne Zuria Special Zone,Sesame,
+2189,Oromia,Finfinne Zuria Special Zone,Beetroot,
+2190,Oromia,Finfinne Zuria Special Zone,Hops,
+2191,Oromia,Finfinne Zuria Special Zone,Sugar cane,
+2192,Oromia,Finfinne Zuria Special Zone,Enset,
+2193,Oromia,East Bale,Teff,228773.75
+2194,Oromia,East Bale,Barley,96568.52
+2195,Oromia,East Bale,wheat,2340444.76
+2196,Oromia,East Bale,Maize,461159.12
+2197,Oromia,East Bale,Sorghum,172974.15
+2198,Oromia,East Bale,Finger Millet,
+2199,Oromia,East Bale,Oats,
+2200,Oromia,East Bale,Rice,
+2201,Oromia,East Bale,Faba Beans,
+2202,Oromia,East Bale,Field Peas,30498.65
+2203,Oromia,East Bale,Haricot beans,
+2204,Oromia,East Bale,Chick-Peas,
+2205,Oromia,East Bale,Lentils,
+2206,Oromia,East Bale,Grass Peas,
+2207,Oromia,East Bale,Soybeans,
+2208,Oromia,East Bale,Fenugreek,
+2209,Oromia,East Bale,Gibto,
+2210,Oromia,East Bale,Niger Seeds,
+2211,Oromia,East Bale,Groundnut,
+2212,Oromia,East Bale,Sunflower,
+2213,Oromia,East Bale,Sesame Seeds,
+2214,Oromia,East Bale,Lettuce,
+2215,Oromia,East Bale,Head cabbage,
+2216,Oromia,East Bale,Eth. Cabbage,
+2217,Oromia,East Bale,Tomatoes,
+2218,Oromia,East Bale,Green peppers,
+2219,Oromia,East Bale,Red peppers,
+2220,Oromia,East Bale,Swiss chard,
+2221,Oromia,East Bale,Carrots,
+2222,Oromia,East Bale,Onions,
+2223,Oromia,East Bale,Potatoes,
+2224,Oromia,East Bale,Garlic,
+2225,Oromia,East Bale,Taro / 'Godere',
+2226,Oromia,East Bale,Sweet potatoes,
+2227,Oromia,East Bale,Avocados,
+2228,Oromia,East Bale,Banana,
+2229,Oromia,East Bale,Guava,
+2230,Oromia,East Bale,Lemons,
+2231,Oromia,East Bale,Mangoes,
+2232,Oromia,East Bale,Oranges,
+2233,Oromia,East Bale,Papaya,
+2234,Oromia,East Bale,Pineapple,
+2235,Oromia,East Bale,Hop,
+2236,Oromia,East Bale,Enset,
+2237,Oromia,East Bale,Roses,
+2238,Oromia,East Bale,Sorghum,
+2239,Oromia,East Bale,Sesame,
+2240,Oromia,East Bale,Beetroot,
+2241,Oromia,East Bale,Hops,
+2242,Oromia,East Bale,Sugar cane,
+2243,Oromia,East Bale,Enset,
+2244,Somali Region,Afdear,Teff,
+2245,Somali Region,Afdear,Barley,
+2246,Somali Region,Afdear,wheat,
+2247,Somali Region,Afdear,Maize,
+2248,Somali Region,Afdear,Sorghum,
+2249,Somali Region,Afdear,Finger Millet,
+2250,Somali Region,Afdear,Oats,
+2251,Somali Region,Afdear,Rice,
+2252,Somali Region,Afdear,Faba Beans,
+2253,Somali Region,Afdear,Field Peas,
+2254,Somali Region,Afdear,Haricot beans,
+2255,Somali Region,Afdear,Chick-Peas,
+2256,Somali Region,Afdear,Lentils,
+2257,Somali Region,Afdear,Grass Peas,
+2258,Somali Region,Afdear,Soybeans,
+2259,Somali Region,Afdear,Fenugreek,
+2260,Somali Region,Afdear,Gibto,
+2261,Somali Region,Afdear,Niger Seeds,
+2262,Somali Region,Afdear,Groundnut,
+2263,Somali Region,Afdear,Sunflower,
+2264,Somali Region,Afdear,Sesame Seeds,
+2265,Somali Region,Afdear,Lettuce,
+2266,Somali Region,Afdear,Head cabbage,
+2267,Somali Region,Afdear,Eth. Cabbage,
+2268,Somali Region,Afdear,Tomatoes,
+2269,Somali Region,Afdear,Green peppers,
+2270,Somali Region,Afdear,Red peppers,
+2271,Somali Region,Afdear,Swiss chard,
+2272,Somali Region,Afdear,Carrots,
+2273,Somali Region,Afdear,Onions,
+2274,Somali Region,Afdear,Potatoes,
+2275,Somali Region,Afdear,Garlic,
+2276,Somali Region,Afdear,Taro / 'Godere',
+2277,Somali Region,Afdear,Sweet potatoes,
+2278,Somali Region,Afdear,Avocados,
+2279,Somali Region,Afdear,Banana,
+2280,Somali Region,Afdear,Guava,
+2281,Somali Region,Afdear,Lemons,
+2282,Somali Region,Afdear,Mangoes,
+2283,Somali Region,Afdear,Oranges,
+2284,Somali Region,Afdear,Papaya,
+2285,Somali Region,Afdear,Pineapple,
+2286,Somali Region,Afdear,Hop,
+2287,Somali Region,Afdear,Enset,
+2288,Somali Region,Afdear,Roses,
+2289,Somali Region,Afdear,Sorghum,
+2290,Somali Region,Afdear,Sesame,
+2291,Somali Region,Afdear,Beetroot,
+2292,Somali Region,Afdear,Hops,
+2293,Somali Region,Afdear,Sugar cane,
+2294,Somali Region,Afdear,Enset,
+2295,Somali Region,Nogob,Teff,
+2296,Somali Region,Nogob,Barley,
+2297,Somali Region,Nogob,wheat,
+2298,Somali Region,Nogob,Maize,
+2299,Somali Region,Nogob,Sorghum,
+2300,Somali Region,Nogob,Finger Millet,
+2301,Somali Region,Nogob,Oats,
+2302,Somali Region,Nogob,Rice,
+2303,Somali Region,Nogob,Faba Beans,
+2304,Somali Region,Nogob,Field Peas,
+2305,Somali Region,Nogob,Haricot beans,
+2306,Somali Region,Nogob,Chick-Peas,
+2307,Somali Region,Nogob,Lentils,
+2308,Somali Region,Nogob,Grass Peas,
+2309,Somali Region,Nogob,Soybeans,
+2310,Somali Region,Nogob,Fenugreek,
+2311,Somali Region,Nogob,Gibto,
+2312,Somali Region,Nogob,Niger Seeds,
+2313,Somali Region,Nogob,Groundnut,
+2314,Somali Region,Nogob,Sunflower,
+2315,Somali Region,Nogob,Sesame Seeds,
+2316,Somali Region,Nogob,Lettuce,
+2317,Somali Region,Nogob,Head cabbage,
+2318,Somali Region,Nogob,Eth. Cabbage,
+2319,Somali Region,Nogob,Tomatoes,
+2320,Somali Region,Nogob,Green peppers,
+2321,Somali Region,Nogob,Red peppers,
+2322,Somali Region,Nogob,Swiss chard,
+2323,Somali Region,Nogob,Carrots,
+2324,Somali Region,Nogob,Onions,
+2325,Somali Region,Nogob,Potatoes,
+2326,Somali Region,Nogob,Garlic,
+2327,Somali Region,Nogob,Taro / 'Godere',
+2328,Somali Region,Nogob,Sweet potatoes,
+2329,Somali Region,Nogob,Avocados,
+2330,Somali Region,Nogob,Banana,
+2331,Somali Region,Nogob,Guava,
+2332,Somali Region,Nogob,Lemons,
+2333,Somali Region,Nogob,Mangoes,
+2334,Somali Region,Nogob,Oranges,
+2335,Somali Region,Nogob,Papaya,
+2336,Somali Region,Nogob,Pineapple,
+2337,Somali Region,Nogob,Hop,
+2338,Somali Region,Nogob,Enset,
+2339,Somali Region,Nogob,Roses,
+2340,Somali Region,Nogob,Sorghum,
+2341,Somali Region,Nogob,Sesame,
+2342,Somali Region,Nogob,Beetroot,
+2343,Somali Region,Nogob,Hops,
+2344,Somali Region,Nogob,Sugar cane,
+2345,Somali Region,Nogob,Enset,
+2346,Somali Region,Dollo,Teff,
+2347,Somali Region,Dollo,Barley,
+2348,Somali Region,Dollo,wheat,
+2349,Somali Region,Dollo,Maize,
+2350,Somali Region,Dollo,Sorghum,
+2351,Somali Region,Dollo,Finger Millet,
+2352,Somali Region,Dollo,Oats,
+2353,Somali Region,Dollo,Rice,
+2354,Somali Region,Dollo,Faba Beans,
+2355,Somali Region,Dollo,Field Peas,
+2356,Somali Region,Dollo,Haricot beans,
+2357,Somali Region,Dollo,Chick-Peas,
+2358,Somali Region,Dollo,Lentils,
+2359,Somali Region,Dollo,Grass Peas,
+2360,Somali Region,Dollo,Soybeans,
+2361,Somali Region,Dollo,Fenugreek,
+2362,Somali Region,Dollo,Gibto,
+2363,Somali Region,Dollo,Niger Seeds,
+2364,Somali Region,Dollo,Groundnut,
+2365,Somali Region,Dollo,Sunflower,
+2366,Somali Region,Dollo,Sesame Seeds,
+2367,Somali Region,Dollo,Lettuce,
+2368,Somali Region,Dollo,Head cabbage,
+2369,Somali Region,Dollo,Eth. Cabbage,
+2370,Somali Region,Dollo,Tomatoes,
+2371,Somali Region,Dollo,Green peppers,
+2372,Somali Region,Dollo,Red peppers,
+2373,Somali Region,Dollo,Swiss chard,
+2374,Somali Region,Dollo,Carrots,
+2375,Somali Region,Dollo,Onions,
+2376,Somali Region,Dollo,Potatoes,
+2377,Somali Region,Dollo,Garlic,
+2378,Somali Region,Dollo,Taro / 'Godere',
+2379,Somali Region,Dollo,Sweet potatoes,
+2380,Somali Region,Dollo,Avocados,
+2381,Somali Region,Dollo,Banana,
+2382,Somali Region,Dollo,Guava,
+2383,Somali Region,Dollo,Lemons,
+2384,Somali Region,Dollo,Mangoes,
+2385,Somali Region,Dollo,Oranges,
+2386,Somali Region,Dollo,Papaya,
+2387,Somali Region,Dollo,Pineapple,
+2388,Somali Region,Dollo,Hop,
+2389,Somali Region,Dollo,Enset,
+2390,Somali Region,Dollo,Roses,
+2391,Somali Region,Dollo,Sorghum,
+2392,Somali Region,Dollo,Sesame,
+2393,Somali Region,Dollo,Beetroot,
+2394,Somali Region,Dollo,Hops,
+2395,Somali Region,Dollo,Sugar cane,
+2396,Somali Region,Dollo,Enset,
+2397,Somali Region,Dawa,Teff,
+2398,Somali Region,Dawa,Barley,
+2399,Somali Region,Dawa,wheat,
+2400,Somali Region,Dawa,Maize,
+2401,Somali Region,Dawa,Sorghum,
+2402,Somali Region,Dawa,Finger Millet,
+2403,Somali Region,Dawa,Oats,
+2404,Somali Region,Dawa,Rice,
+2405,Somali Region,Dawa,Faba Beans,
+2406,Somali Region,Dawa,Field Peas,
+2407,Somali Region,Dawa,Haricot beans,
+2408,Somali Region,Dawa,Chick-Peas,
+2409,Somali Region,Dawa,Lentils,
+2410,Somali Region,Dawa,Grass Peas,
+2411,Somali Region,Dawa,Soybeans,
+2412,Somali Region,Dawa,Fenugreek,
+2413,Somali Region,Dawa,Gibto,
+2414,Somali Region,Dawa,Niger Seeds,
+2415,Somali Region,Dawa,Groundnut,
+2416,Somali Region,Dawa,Sunflower,
+2417,Somali Region,Dawa,Sesame Seeds,
+2418,Somali Region,Dawa,Lettuce,
+2419,Somali Region,Dawa,Head cabbage,
+2420,Somali Region,Dawa,Eth. Cabbage,
+2421,Somali Region,Dawa,Tomatoes,
+2422,Somali Region,Dawa,Green peppers,
+2423,Somali Region,Dawa,Red peppers,
+2424,Somali Region,Dawa,Swiss chard,
+2425,Somali Region,Dawa,Carrots,
+2426,Somali Region,Dawa,Onions,
+2427,Somali Region,Dawa,Potatoes,
+2428,Somali Region,Dawa,Garlic,
+2429,Somali Region,Dawa,Taro / 'Godere',
+2430,Somali Region,Dawa,Sweet potatoes,
+2431,Somali Region,Dawa,Avocados,
+2432,Somali Region,Dawa,Banana,
+2433,Somali Region,Dawa,Guava,
+2434,Somali Region,Dawa,Lemons,
+2435,Somali Region,Dawa,Mangoes,
+2436,Somali Region,Dawa,Oranges,
+2437,Somali Region,Dawa,Papaya,
+2438,Somali Region,Dawa,Pineapple,
+2439,Somali Region,Dawa,Hop,
+2440,Somali Region,Dawa,Enset,
+2441,Somali Region,Dawa,Roses,
+2442,Somali Region,Dawa,Sorghum,
+2443,Somali Region,Dawa,Sesame,
+2444,Somali Region,Dawa,Beetroot,
+2445,Somali Region,Dawa,Hops,
+2446,Somali Region,Dawa,Sugar cane,
+2447,Somali Region,Dawa,Enset,
+2448,Somali Region,Liben,Teff,
+2449,Somali Region,Liben,Barley,
+2450,Somali Region,Liben,wheat,
+2451,Somali Region,Liben,Maize,
+2452,Somali Region,Liben,Sorghum,
+2453,Somali Region,Liben,Finger Millet,
+2454,Somali Region,Liben,Oats,
+2455,Somali Region,Liben,Rice,
+2456,Somali Region,Liben,Faba Beans,
+2457,Somali Region,Liben,Field Peas,
+2458,Somali Region,Liben,Haricot beans,
+2459,Somali Region,Liben,Chick-Peas,
+2460,Somali Region,Liben,Lentils,
+2461,Somali Region,Liben,Grass Peas,
+2462,Somali Region,Liben,Soybeans,
+2463,Somali Region,Liben,Fenugreek,
+2464,Somali Region,Liben,Gibto,
+2465,Somali Region,Liben,Niger Seeds,
+2466,Somali Region,Liben,Groundnut,
+2467,Somali Region,Liben,Sunflower,
+2468,Somali Region,Liben,Sesame Seeds,
+2469,Somali Region,Liben,Lettuce,
+2470,Somali Region,Liben,Head cabbage,
+2471,Somali Region,Liben,Eth. Cabbage,
+2472,Somali Region,Liben,Tomatoes,
+2473,Somali Region,Liben,Green peppers,
+2474,Somali Region,Liben,Red peppers,
+2475,Somali Region,Liben,Swiss chard,
+2476,Somali Region,Liben,Carrots,
+2477,Somali Region,Liben,Onions,
+2478,Somali Region,Liben,Potatoes,
+2479,Somali Region,Liben,Garlic,
+2480,Somali Region,Liben,Taro / 'Godere',
+2481,Somali Region,Liben,Sweet potatoes,
+2482,Somali Region,Liben,Avocados,
+2483,Somali Region,Liben,Banana,
+2484,Somali Region,Liben,Guava,
+2485,Somali Region,Liben,Lemons,
+2486,Somali Region,Liben,Mangoes,
+2487,Somali Region,Liben,Oranges,
+2488,Somali Region,Liben,Papaya,
+2489,Somali Region,Liben,Pineapple,
+2490,Somali Region,Liben,Hop,
+2491,Somali Region,Liben,Enset,
+2492,Somali Region,Liben,Roses,
+2493,Somali Region,Liben,Sorghum,
+2494,Somali Region,Liben,Sesame,
+2495,Somali Region,Liben,Beetroot,
+2496,Somali Region,Liben,Hops,
+2497,Somali Region,Liben,Sugar cane,
+2498,Somali Region,Liben,Enset,
+2499,Somali Region,Shebele,Teff,
+2500,Somali Region,Shebele,Barley,
+2501,Somali Region,Shebele,wheat,
+2502,Somali Region,Shebele,Maize,387498.3
+2503,Somali Region,Shebele,Sorghum,
+2504,Somali Region,Shebele,Finger Millet,
+2505,Somali Region,Shebele,Oats,
+2506,Somali Region,Shebele,Rice,
+2507,Somali Region,Shebele,Faba Beans,
+2508,Somali Region,Shebele,Field Peas,
+2509,Somali Region,Shebele,Haricot beans,
+2510,Somali Region,Shebele,Chick-Peas,
+2511,Somali Region,Shebele,Lentils,
+2512,Somali Region,Shebele,Grass Peas,
+2513,Somali Region,Shebele,Soybeans,
+2514,Somali Region,Shebele,Fenugreek,
+2515,Somali Region,Shebele,Gibto,
+2516,Somali Region,Shebele,Niger Seeds,
+2517,Somali Region,Shebele,Groundnut,
+2518,Somali Region,Shebele,Sunflower,
+2519,Somali Region,Shebele,Sesame Seeds,
+2520,Somali Region,Shebele,Lettuce,
+2521,Somali Region,Shebele,Head cabbage,
+2522,Somali Region,Shebele,Eth. Cabbage,
+2523,Somali Region,Shebele,Tomatoes,
+2524,Somali Region,Shebele,Green peppers,
+2525,Somali Region,Shebele,Red peppers,
+2526,Somali Region,Shebele,Swiss chard,
+2527,Somali Region,Shebele,Carrots,
+2528,Somali Region,Shebele,Onions,
+2529,Somali Region,Shebele,Potatoes,
+2530,Somali Region,Shebele,Garlic,
+2531,Somali Region,Shebele,Taro / 'Godere',
+2532,Somali Region,Shebele,Sweet potatoes,
+2533,Somali Region,Shebele,Avocados,
+2534,Somali Region,Shebele,Banana,
+2535,Somali Region,Shebele,Guava,
+2536,Somali Region,Shebele,Lemons,
+2537,Somali Region,Shebele,Mangoes,
+2538,Somali Region,Shebele,Oranges,
+2539,Somali Region,Shebele,Papaya,
+2540,Somali Region,Shebele,Pineapple,
+2541,Somali Region,Shebele,Hop,
+2542,Somali Region,Shebele,Enset,
+2543,Somali Region,Shebele,Roses,
+2544,Somali Region,Shebele,Sorghum,
+2545,Somali Region,Shebele,Sesame,
+2546,Somali Region,Shebele,Beetroot,
+2547,Somali Region,Shebele,Hops,
+2548,Somali Region,Shebele,Sugar cane,
+2549,Somali Region,Shebele,Enset,
+2550,Somali Region,Korahe,Teff,
+2551,Somali Region,Korahe,Barley,
+2552,Somali Region,Korahe,wheat,
+2553,Somali Region,Korahe,Maize,
+2554,Somali Region,Korahe,Sorghum,
+2555,Somali Region,Korahe,Finger Millet,
+2556,Somali Region,Korahe,Oats,
+2557,Somali Region,Korahe,Rice,
+2558,Somali Region,Korahe,Faba Beans,
+2559,Somali Region,Korahe,Field Peas,
+2560,Somali Region,Korahe,Haricot beans,
+2561,Somali Region,Korahe,Chick-Peas,
+2562,Somali Region,Korahe,Lentils,
+2563,Somali Region,Korahe,Grass Peas,
+2564,Somali Region,Korahe,Soybeans,
+2565,Somali Region,Korahe,Fenugreek,
+2566,Somali Region,Korahe,Gibto,
+2567,Somali Region,Korahe,Niger Seeds,
+2568,Somali Region,Korahe,Groundnut,
+2569,Somali Region,Korahe,Sunflower,
+2570,Somali Region,Korahe,Sesame Seeds,
+2571,Somali Region,Korahe,Lettuce,
+2572,Somali Region,Korahe,Head cabbage,
+2573,Somali Region,Korahe,Eth. Cabbage,
+2574,Somali Region,Korahe,Tomatoes,
+2575,Somali Region,Korahe,Green peppers,
+2576,Somali Region,Korahe,Red peppers,
+2577,Somali Region,Korahe,Swiss chard,
+2578,Somali Region,Korahe,Carrots,
+2579,Somali Region,Korahe,Onions,
+2580,Somali Region,Korahe,Potatoes,
+2581,Somali Region,Korahe,Garlic,
+2582,Somali Region,Korahe,Taro / 'Godere',
+2583,Somali Region,Korahe,Sweet potatoes,
+2584,Somali Region,Korahe,Avocados,
+2585,Somali Region,Korahe,Banana,
+2586,Somali Region,Korahe,Guava,
+2587,Somali Region,Korahe,Lemons,
+2588,Somali Region,Korahe,Mangoes,
+2589,Somali Region,Korahe,Oranges,
+2590,Somali Region,Korahe,Papaya,
+2591,Somali Region,Korahe,Pineapple,
+2592,Somali Region,Korahe,Hop,
+2593,Somali Region,Korahe,Enset,
+2594,Somali Region,Korahe,Roses,
+2595,Somali Region,Korahe,Sorghum,
+2596,Somali Region,Korahe,Sesame,
+2597,Somali Region,Korahe,Beetroot,
+2598,Somali Region,Korahe,Hops,
+2599,Somali Region,Korahe,Sugar cane,
+2600,Somali Region,Korahe,Enset,
+2601,Somali Region,Erer,Teff,
+2602,Somali Region,Erer,Barley,
+2603,Somali Region,Erer,wheat,
+2604,Somali Region,Erer,Maize,
+2605,Somali Region,Erer,Sorghum,
+2606,Somali Region,Erer,Finger Millet,
+2607,Somali Region,Erer,Oats,
+2608,Somali Region,Erer,Rice,
+2609,Somali Region,Erer,Faba Beans,
+2610,Somali Region,Erer,Field Peas,
+2611,Somali Region,Erer,Haricot beans,
+2612,Somali Region,Erer,Chick-Peas,
+2613,Somali Region,Erer,Lentils,
+2614,Somali Region,Erer,Grass Peas,
+2615,Somali Region,Erer,Soybeans,
+2616,Somali Region,Erer,Fenugreek,
+2617,Somali Region,Erer,Gibto,
+2618,Somali Region,Erer,Niger Seeds,
+2619,Somali Region,Erer,Groundnut,
+2620,Somali Region,Erer,Sunflower,
+2621,Somali Region,Erer,Sesame Seeds,
+2622,Somali Region,Erer,Lettuce,
+2623,Somali Region,Erer,Head cabbage,
+2624,Somali Region,Erer,Eth. Cabbage,
+2625,Somali Region,Erer,Tomatoes,
+2626,Somali Region,Erer,Green peppers,
+2627,Somali Region,Erer,Red peppers,
+2628,Somali Region,Erer,Swiss chard,
+2629,Somali Region,Erer,Carrots,
+2630,Somali Region,Erer,Onions,
+2631,Somali Region,Erer,Potatoes,
+2632,Somali Region,Erer,Garlic,
+2633,Somali Region,Erer,Taro / 'Godere',
+2634,Somali Region,Erer,Sweet potatoes,
+2635,Somali Region,Erer,Avocados,
+2636,Somali Region,Erer,Banana,
+2637,Somali Region,Erer,Guava,
+2638,Somali Region,Erer,Lemons,
+2639,Somali Region,Erer,Mangoes,
+2640,Somali Region,Erer,Oranges,
+2641,Somali Region,Erer,Papaya,
+2642,Somali Region,Erer,Pineapple,
+2643,Somali Region,Erer,Hop,
+2644,Somali Region,Erer,Enset,
+2645,Somali Region,Erer,Roses,
+2646,Somali Region,Erer,Sorghum,
+2647,Somali Region,Erer,Sesame,
+2648,Somali Region,Erer,Beetroot,
+2649,Somali Region,Erer,Hops,
+2650,Somali Region,Erer,Sugar cane,
+2651,Somali Region,Erer,Enset,
+2652,Somali Region,Jerer,Teff,
+2653,Somali Region,Jerer,Barley,
+2654,Somali Region,Jerer,wheat,
+2655,Somali Region,Jerer,Maize,29215.78
+2656,Somali Region,Jerer,Sorghum,
+2657,Somali Region,Jerer,Finger Millet,
+2658,Somali Region,Jerer,Oats,
+2659,Somali Region,Jerer,Rice,
+2660,Somali Region,Jerer,Faba Beans,
+2661,Somali Region,Jerer,Field Peas,
+2662,Somali Region,Jerer,Haricot beans,
+2663,Somali Region,Jerer,Chick-Peas,
+2664,Somali Region,Jerer,Lentils,
+2665,Somali Region,Jerer,Grass Peas,
+2666,Somali Region,Jerer,Soybeans,
+2667,Somali Region,Jerer,Fenugreek,
+2668,Somali Region,Jerer,Gibto,
+2669,Somali Region,Jerer,Niger Seeds,
+2670,Somali Region,Jerer,Groundnut,
+2671,Somali Region,Jerer,Sunflower,
+2672,Somali Region,Jerer,Sesame Seeds,
+2673,Somali Region,Jerer,Lettuce,
+2674,Somali Region,Jerer,Head cabbage,
+2675,Somali Region,Jerer,Eth. Cabbage,
+2676,Somali Region,Jerer,Tomatoes,
+2677,Somali Region,Jerer,Green peppers,
+2678,Somali Region,Jerer,Red peppers,
+2679,Somali Region,Jerer,Swiss chard,
+2680,Somali Region,Jerer,Carrots,
+2681,Somali Region,Jerer,Onions,
+2682,Somali Region,Jerer,Potatoes,
+2683,Somali Region,Jerer,Garlic,
+2684,Somali Region,Jerer,Taro / 'Godere',
+2685,Somali Region,Jerer,Sweet potatoes,
+2686,Somali Region,Jerer,Avocados,
+2687,Somali Region,Jerer,Banana,
+2688,Somali Region,Jerer,Guava,
+2689,Somali Region,Jerer,Lemons,
+2690,Somali Region,Jerer,Mangoes,
+2691,Somali Region,Jerer,Oranges,
+2692,Somali Region,Jerer,Papaya,
+2693,Somali Region,Jerer,Pineapple,
+2694,Somali Region,Jerer,Hop,
+2695,Somali Region,Jerer,Enset,
+2696,Somali Region,Jerer,Roses,
+2697,Somali Region,Jerer,Sorghum,
+2698,Somali Region,Jerer,Sesame,
+2699,Somali Region,Jerer,Beetroot,
+2700,Somali Region,Jerer,Hops,
+2701,Somali Region,Jerer,Sugar cane,
+2702,Somali Region,Jerer,Enset,
+2703,Somali Region,Fafan,Teff,
+2704,Somali Region,Fafan,Barley,
+2705,Somali Region,Fafan,wheat,
+2706,Somali Region,Fafan,Maize,615310.91
+2707,Somali Region,Fafan,Sorghum,541330.52
+2708,Somali Region,Fafan,Finger Millet,
+2709,Somali Region,Fafan,Oats,
+2710,Somali Region,Fafan,Rice,
+2711,Somali Region,Fafan,Faba Beans,
+2712,Somali Region,Fafan,Field Peas,
+2713,Somali Region,Fafan,Haricot beans,
+2714,Somali Region,Fafan,Chick-Peas,
+2715,Somali Region,Fafan,Lentils,
+2716,Somali Region,Fafan,Grass Peas,
+2717,Somali Region,Fafan,Soybeans,
+2718,Somali Region,Fafan,Fenugreek,
+2719,Somali Region,Fafan,Gibto,
+2720,Somali Region,Fafan,Niger Seeds,
+2721,Somali Region,Fafan,Groundnut,
+2722,Somali Region,Fafan,Sunflower,
+2723,Somali Region,Fafan,Sesame Seeds,
+2724,Somali Region,Fafan,Lettuce,
+2725,Somali Region,Fafan,Head cabbage,
+2726,Somali Region,Fafan,Eth. Cabbage,
+2727,Somali Region,Fafan,Tomatoes,
+2728,Somali Region,Fafan,Green peppers,
+2729,Somali Region,Fafan,Red peppers,
+2730,Somali Region,Fafan,Swiss chard,
+2731,Somali Region,Fafan,Carrots,
+2732,Somali Region,Fafan,Onions,
+2733,Somali Region,Fafan,Potatoes,
+2734,Somali Region,Fafan,Garlic,
+2735,Somali Region,Fafan,Taro / 'Godere',
+2736,Somali Region,Fafan,Sweet potatoes,
+2737,Somali Region,Fafan,Avocados,
+2738,Somali Region,Fafan,Banana,
+2739,Somali Region,Fafan,Guava,
+2740,Somali Region,Fafan,Lemons,
+2741,Somali Region,Fafan,Mangoes,
+2742,Somali Region,Fafan,Oranges,
+2743,Somali Region,Fafan,Papaya,
+2744,Somali Region,Fafan,Pineapple,
+2745,Somali Region,Fafan,Hop,
+2746,Somali Region,Fafan,Enset,
+2747,Somali Region,Fafan,Roses,
+2748,Somali Region,Fafan,Sorghum,541330.52
+2749,Somali Region,Fafan,Sesame,
+2750,Somali Region,Fafan,Beetroot,
+2751,Somali Region,Fafan,Hops,
+2752,Somali Region,Fafan,Sugar cane,
+2753,Somali Region,Fafan,Enset,
+2754,Somali Region,Siti,Teff,
+2755,Somali Region,Siti,Barley,
+2756,Somali Region,Siti,wheat,
+2757,Somali Region,Siti,Maize,
+2758,Somali Region,Siti,Sorghum,18542.36
+2759,Somali Region,Siti,Finger Millet,
+2760,Somali Region,Siti,Oats,
+2761,Somali Region,Siti,Rice,
+2762,Somali Region,Siti,Faba Beans,
+2763,Somali Region,Siti,Field Peas,
+2764,Somali Region,Siti,Haricot beans,
+2765,Somali Region,Siti,Chick-Peas,
+2766,Somali Region,Siti,Lentils,
+2767,Somali Region,Siti,Grass Peas,
+2768,Somali Region,Siti,Soybeans,
+2769,Somali Region,Siti,Fenugreek,
+2770,Somali Region,Siti,Gibto,
+2771,Somali Region,Siti,Niger Seeds,
+2772,Somali Region,Siti,Groundnut,
+2773,Somali Region,Siti,Sunflower,
+2774,Somali Region,Siti,Sesame Seeds,
+2775,Somali Region,Siti,Lettuce,
+2776,Somali Region,Siti,Head cabbage,
+2777,Somali Region,Siti,Eth. Cabbage,
+2778,Somali Region,Siti,Tomatoes,-
+2779,Somali Region,Siti,Green peppers,
+2780,Somali Region,Siti,Red peppers,
+2781,Somali Region,Siti,Swiss chard,
+2782,Somali Region,Siti,Carrots,
+2783,Somali Region,Siti,Onions,-
+2784,Somali Region,Siti,Potatoes,-
+2785,Somali Region,Siti,Garlic,
+2786,Somali Region,Siti,Taro / 'Godere',
+2787,Somali Region,Siti,Sweet potatoes,
+2788,Somali Region,Siti,Avocados,
+2789,Somali Region,Siti,Banana,
+2790,Somali Region,Siti,Guava,
+2791,Somali Region,Siti,Lemons,
+2792,Somali Region,Siti,Mangoes,
+2793,Somali Region,Siti,Oranges,
+2794,Somali Region,Siti,Papaya,
+2795,Somali Region,Siti,Pineapple,
+2796,Somali Region,Siti,Hop,
+2797,Somali Region,Siti,Enset,
+2798,Somali Region,Siti,Roses,
+2799,Somali Region,Siti,Sorghum,18542.36
+2800,Somali Region,Siti,Sesame,
+2801,Somali Region,Siti,Beetroot,
+2802,Somali Region,Siti,Hops,
+2803,Somali Region,Siti,Sugar cane,
+2804,Somali Region,Siti,Enset,
+2805,Benishangul-Gumuz Region,Metekel,Teff,263817
+2806,Benishangul-Gumuz Region,Metekel,Barley,
+2807,Benishangul-Gumuz Region,Metekel,wheat,
+2808,Benishangul-Gumuz Region,Metekel,Maize,1699528.25
+2809,Benishangul-Gumuz Region,Metekel,Sorghum,
+2810,Benishangul-Gumuz Region,Metekel,Finger Millet,495721.87
+2811,Benishangul-Gumuz Region,Metekel,Oats,
+2812,Benishangul-Gumuz Region,Metekel,Rice,
+2813,Benishangul-Gumuz Region,Metekel,Faba Beans,12647.66
+2814,Benishangul-Gumuz Region,Metekel,Field Peas,12196.43
+2815,Benishangul-Gumuz Region,Metekel,Haricot beans,
+2816,Benishangul-Gumuz Region,Metekel,Chick-Peas,
+2817,Benishangul-Gumuz Region,Metekel,Lentils,
+2818,Benishangul-Gumuz Region,Metekel,Grass Peas,
+2819,Benishangul-Gumuz Region,Metekel,Soybeans,511047.1
+2820,Benishangul-Gumuz Region,Metekel,Fenugreek,
+2821,Benishangul-Gumuz Region,Metekel,Gibto,
+2822,Benishangul-Gumuz Region,Metekel,Niger Seeds,21787.51
+2823,Benishangul-Gumuz Region,Metekel,Groundnut,476482.66
+2824,Benishangul-Gumuz Region,Metekel,Sunflower,
+2825,Benishangul-Gumuz Region,Metekel,Sesame Seeds,18098.45
+2826,Benishangul-Gumuz Region,Metekel,Lettuce,
+2827,Benishangul-Gumuz Region,Metekel,Head cabbage,
+2828,Benishangul-Gumuz Region,Metekel,Eth. Cabbage,
+2829,Benishangul-Gumuz Region,Metekel,Tomatoes,
+2830,Benishangul-Gumuz Region,Metekel,Green peppers,
+2831,Benishangul-Gumuz Region,Metekel,Red peppers,
+2832,Benishangul-Gumuz Region,Metekel,Swiss chard,
+2833,Benishangul-Gumuz Region,Metekel,Carrots,
+2834,Benishangul-Gumuz Region,Metekel,Onions,
+2835,Benishangul-Gumuz Region,Metekel,Potatoes,
+2836,Benishangul-Gumuz Region,Metekel,Garlic,
+2837,Benishangul-Gumuz Region,Metekel,Taro / 'Godere',
+2838,Benishangul-Gumuz Region,Metekel,Sweet potatoes,5467.31
+2839,Benishangul-Gumuz Region,Metekel,Avocados,
+2840,Benishangul-Gumuz Region,Metekel,Banana,
+2841,Benishangul-Gumuz Region,Metekel,Guava,
+2842,Benishangul-Gumuz Region,Metekel,Lemons,
+2843,Benishangul-Gumuz Region,Metekel,Mangoes,
+2844,Benishangul-Gumuz Region,Metekel,Oranges,63146.16
+2845,Benishangul-Gumuz Region,Metekel,Papaya,
+2846,Benishangul-Gumuz Region,Metekel,Pineapple,3012.07
+2847,Benishangul-Gumuz Region,Metekel,Hop,
+2848,Benishangul-Gumuz Region,Metekel,Enset,
+2849,Benishangul-Gumuz Region,Metekel,Roses,
+2850,Benishangul-Gumuz Region,Metekel,Sorghum,
+2851,Benishangul-Gumuz Region,Metekel,Sesame,
+2852,Benishangul-Gumuz Region,Metekel,Beetroot,
+2853,Benishangul-Gumuz Region,Metekel,Hops,
+2854,Benishangul-Gumuz Region,Metekel,Sugar cane,
+2855,Benishangul-Gumuz Region,Metekel,Enset,
+2856,Benishangul-Gumuz Region,Assosa,Teff,351961.68
+2857,Benishangul-Gumuz Region,Assosa,Barley,
+2858,Benishangul-Gumuz Region,Assosa,wheat,
+2859,Benishangul-Gumuz Region,Assosa,Maize,
+2860,Benishangul-Gumuz Region,Assosa,Sorghum,
+2861,Benishangul-Gumuz Region,Assosa,Finger Millet,
+2862,Benishangul-Gumuz Region,Assosa,Oats,
+2863,Benishangul-Gumuz Region,Assosa,Rice,
+2864,Benishangul-Gumuz Region,Assosa,Faba Beans,
+2865,Benishangul-Gumuz Region,Assosa,Field Peas,
+2866,Benishangul-Gumuz Region,Assosa,Haricot beans,
+2867,Benishangul-Gumuz Region,Assosa,Chick-Peas,
+2868,Benishangul-Gumuz Region,Assosa,Lentils,
+2869,Benishangul-Gumuz Region,Assosa,Grass Peas,
+2870,Benishangul-Gumuz Region,Assosa,Soybeans,99238.95
+2871,Benishangul-Gumuz Region,Assosa,Fenugreek,
+2872,Benishangul-Gumuz Region,Assosa,Gibto,
+2873,Benishangul-Gumuz Region,Assosa,Niger Seeds,
+2874,Benishangul-Gumuz Region,Assosa,Groundnut,23656.39
+2875,Benishangul-Gumuz Region,Assosa,Sunflower,
+2876,Benishangul-Gumuz Region,Assosa,Sesame Seeds,
+2877,Benishangul-Gumuz Region,Assosa,Lettuce,
+2878,Benishangul-Gumuz Region,Assosa,Head cabbage,
+2879,Benishangul-Gumuz Region,Assosa,Eth. Cabbage,
+2880,Benishangul-Gumuz Region,Assosa,Tomatoes,
+2881,Benishangul-Gumuz Region,Assosa,Green peppers,
+2882,Benishangul-Gumuz Region,Assosa,Red peppers,14714.29
+2883,Benishangul-Gumuz Region,Assosa,Swiss chard,
+2884,Benishangul-Gumuz Region,Assosa,Carrots,
+2885,Benishangul-Gumuz Region,Assosa,Onions,
+2886,Benishangul-Gumuz Region,Assosa,Potatoes,
+2887,Benishangul-Gumuz Region,Assosa,Garlic,
+2888,Benishangul-Gumuz Region,Assosa,Taro / 'Godere',
+2889,Benishangul-Gumuz Region,Assosa,Sweet potatoes,
+2890,Benishangul-Gumuz Region,Assosa,Avocados,
+2891,Benishangul-Gumuz Region,Assosa,Banana,
+2892,Benishangul-Gumuz Region,Assosa,Guava,9355.6
+2893,Benishangul-Gumuz Region,Assosa,Lemons,
+2894,Benishangul-Gumuz Region,Assosa,Mangoes,678.62
+2895,Benishangul-Gumuz Region,Assosa,Oranges,17723.66
+2896,Benishangul-Gumuz Region,Assosa,Papaya,937.84
+2897,Benishangul-Gumuz Region,Assosa,Pineapple,1885.78
+2898,Benishangul-Gumuz Region,Assosa,Hop,148.69
+2899,Benishangul-Gumuz Region,Assosa,Enset,
+2900,Benishangul-Gumuz Region,Assosa,Roses,
+2901,Benishangul-Gumuz Region,Assosa,Sorghum,
+2902,Benishangul-Gumuz Region,Assosa,Sesame,
+2903,Benishangul-Gumuz Region,Assosa,Beetroot,
+2904,Benishangul-Gumuz Region,Assosa,Hops,
+2905,Benishangul-Gumuz Region,Assosa,Sugar cane,
+2906,Benishangul-Gumuz Region,Assosa,Enset,
+2907,Benishangul-Gumuz Region,Kemashi,Teff,
+2908,Benishangul-Gumuz Region,Kemashi,Barley,
+2909,Benishangul-Gumuz Region,Kemashi,wheat,
+2910,Benishangul-Gumuz Region,Kemashi,Maize,
+2911,Benishangul-Gumuz Region,Kemashi,Sorghum,175251.01
+2912,Benishangul-Gumuz Region,Kemashi,Finger Millet,
+2913,Benishangul-Gumuz Region,Kemashi,Oats,
+2914,Benishangul-Gumuz Region,Kemashi,Rice,
+2915,Benishangul-Gumuz Region,Kemashi,Faba Beans,
+2916,Benishangul-Gumuz Region,Kemashi,Field Peas,
+2917,Benishangul-Gumuz Region,Kemashi,Haricot beans,
+2918,Benishangul-Gumuz Region,Kemashi,Chick-Peas,
+2919,Benishangul-Gumuz Region,Kemashi,Lentils,
+2920,Benishangul-Gumuz Region,Kemashi,Grass Peas,
+2921,Benishangul-Gumuz Region,Kemashi,Soybeans,
+2922,Benishangul-Gumuz Region,Kemashi,Fenugreek,
+2923,Benishangul-Gumuz Region,Kemashi,Gibto,
+2924,Benishangul-Gumuz Region,Kemashi,Niger Seeds,
+2925,Benishangul-Gumuz Region,Kemashi,Groundnut,
+2926,Benishangul-Gumuz Region,Kemashi,Sunflower,
+2927,Benishangul-Gumuz Region,Kemashi,Sesame Seeds,17702.85
+2928,Benishangul-Gumuz Region,Kemashi,Lettuce,
+2929,Benishangul-Gumuz Region,Kemashi,Head cabbage,
+2930,Benishangul-Gumuz Region,Kemashi,Eth. Cabbage,
+2931,Benishangul-Gumuz Region,Kemashi,Tomatoes,
+2932,Benishangul-Gumuz Region,Kemashi,Green peppers,
+2933,Benishangul-Gumuz Region,Kemashi,Red peppers,
+2934,Benishangul-Gumuz Region,Kemashi,Swiss chard,
+2935,Benishangul-Gumuz Region,Kemashi,Carrots,
+2936,Benishangul-Gumuz Region,Kemashi,Onions,
+2937,Benishangul-Gumuz Region,Kemashi,Potatoes,
+2938,Benishangul-Gumuz Region,Kemashi,Garlic,
+2939,Benishangul-Gumuz Region,Kemashi,Taro / 'Godere',
+2940,Benishangul-Gumuz Region,Kemashi,Sweet potatoes,1906.28
+2941,Benishangul-Gumuz Region,Kemashi,Avocados,
+2942,Benishangul-Gumuz Region,Kemashi,Banana,
+2943,Benishangul-Gumuz Region,Kemashi,Guava,1906.28
+2944,Benishangul-Gumuz Region,Kemashi,Lemons,
+2945,Benishangul-Gumuz Region,Kemashi,Mangoes,
+2946,Benishangul-Gumuz Region,Kemashi,Oranges,
+2947,Benishangul-Gumuz Region,Kemashi,Papaya,647.27
+2948,Benishangul-Gumuz Region,Kemashi,Pineapple,
+2949,Benishangul-Gumuz Region,Kemashi,Hop,
+2950,Benishangul-Gumuz Region,Kemashi,Enset,
+2951,Benishangul-Gumuz Region,Kemashi,Roses,
+2952,Benishangul-Gumuz Region,Kemashi,Sorghum,
+2953,Benishangul-Gumuz Region,Kemashi,Sesame,
+2954,Benishangul-Gumuz Region,Kemashi,Beetroot,
+2955,Benishangul-Gumuz Region,Kemashi,Hops,
+2956,Benishangul-Gumuz Region,Kemashi,Sugar cane,
+2957,Benishangul-Gumuz Region,Kemashi,Enset,
+2958,Benishangul-Gumuz Region,Mao Komo,Teff,9246.42
+2959,Benishangul-Gumuz Region,Mao Komo,Barley,
+2960,Benishangul-Gumuz Region,Mao Komo,wheat,13886.21
+2961,Benishangul-Gumuz Region,Mao Komo,Maize,112012.3
+2962,Benishangul-Gumuz Region,Mao Komo,Sorghum,66429.99
+2963,Benishangul-Gumuz Region,Mao Komo,Finger Millet,6523.02
+2964,Benishangul-Gumuz Region,Mao Komo,Oats,
+2965,Benishangul-Gumuz Region,Mao Komo,Rice,
+2966,Benishangul-Gumuz Region,Mao Komo,Faba Beans,579.09
+2967,Benishangul-Gumuz Region,Mao Komo,Field Peas,
+2968,Benishangul-Gumuz Region,Mao Komo,Haricot beans,8096.36
+2969,Benishangul-Gumuz Region,Mao Komo,Chick-Peas,
+2970,Benishangul-Gumuz Region,Mao Komo,Lentils,
+2971,Benishangul-Gumuz Region,Mao Komo,Grass Peas,
+2972,Benishangul-Gumuz Region,Mao Komo,Soybeans,
+2973,Benishangul-Gumuz Region,Mao Komo,Fenugreek,
+2974,Benishangul-Gumuz Region,Mao Komo,Gibto,
+2975,Benishangul-Gumuz Region,Mao Komo,Niger Seeds,12352.45
+2976,Benishangul-Gumuz Region,Mao Komo,Groundnut,7368.19
+2977,Benishangul-Gumuz Region,Mao Komo,Sunflower,
+2978,Benishangul-Gumuz Region,Mao Komo,Sesame Seeds,985.47
+2979,Benishangul-Gumuz Region,Mao Komo,Lettuce,
+2980,Benishangul-Gumuz Region,Mao Komo,Head cabbage,49.14
+2981,Benishangul-Gumuz Region,Mao Komo,Eth. Cabbage,
+2982,Benishangul-Gumuz Region,Mao Komo,Tomatoes,
+2983,Benishangul-Gumuz Region,Mao Komo,Green peppers,
+2984,Benishangul-Gumuz Region,Mao Komo,Red peppers,42.79
+2985,Benishangul-Gumuz Region,Mao Komo,Swiss chard,
+2986,Benishangul-Gumuz Region,Mao Komo,Carrots,
+2987,Benishangul-Gumuz Region,Mao Komo,Onions,
+2988,Benishangul-Gumuz Region,Mao Komo,Potatoes,
+2989,Benishangul-Gumuz Region,Mao Komo,Garlic,
+2990,Benishangul-Gumuz Region,Mao Komo,Taro / 'Godere',6513.82
+2991,Benishangul-Gumuz Region,Mao Komo,Sweet potatoes,10029.74
+2992,Benishangul-Gumuz Region,Mao Komo,Avocados,
+2993,Benishangul-Gumuz Region,Mao Komo,Banana,
+2994,Benishangul-Gumuz Region,Mao Komo,Guava,3947.14
+2995,Benishangul-Gumuz Region,Mao Komo,Lemons,
+2996,Benishangul-Gumuz Region,Mao Komo,Mangoes,32.24
+2997,Benishangul-Gumuz Region,Mao Komo,Oranges,3490.53
+2998,Benishangul-Gumuz Region,Mao Komo,Papaya,925.78
+2999,Benishangul-Gumuz Region,Mao Komo,Pineapple,
+3000,Benishangul-Gumuz Region,Mao Komo,Hop,3329.94
+3001,Benishangul-Gumuz Region,Mao Komo,Enset,
+3002,Benishangul-Gumuz Region,Mao Komo,Roses,
+3003,Benishangul-Gumuz Region,Mao Komo,Sorghum,
+3004,Benishangul-Gumuz Region,Mao Komo,Sesame,
+3005,Benishangul-Gumuz Region,Mao Komo,Beetroot,
+3006,Benishangul-Gumuz Region,Mao Komo,Hops,
+3007,Benishangul-Gumuz Region,Mao Komo,Sugar cane,
+3008,Benishangul-Gumuz Region,Mao Komo,Enset,
+3009,Gambella Region,Agnuwak,Teff,
+3010,Gambella Region,Agnuwak,Barley,
+3011,Gambella Region,Agnuwak,wheat,
+3012,Gambella Region,Agnuwak,Maize,18530.37
+3013,Gambella Region,Agnuwak,Sorghum,
+3014,Gambella Region,Agnuwak,Finger Millet,
+3015,Gambella Region,Agnuwak,Oats,
+3016,Gambella Region,Agnuwak,Rice,
+3017,Gambella Region,Agnuwak,Faba Beans,
+3018,Gambella Region,Agnuwak,Field Peas,
+3019,Gambella Region,Agnuwak,Haricot beans,
+3020,Gambella Region,Agnuwak,Chick-Peas,
+3021,Gambella Region,Agnuwak,Lentils,
+3022,Gambella Region,Agnuwak,Grass Peas,
+3023,Gambella Region,Agnuwak,Soybeans,
+3024,Gambella Region,Agnuwak,Fenugreek,
+3025,Gambella Region,Agnuwak,Gibto,
+3026,Gambella Region,Agnuwak,Niger Seeds,
+3027,Gambella Region,Agnuwak,Groundnut,
+3028,Gambella Region,Agnuwak,Sunflower,
+3029,Gambella Region,Agnuwak,Sesame Seeds,
+3030,Gambella Region,Agnuwak,Lettuce,
+3031,Gambella Region,Agnuwak,Head cabbage,
+3032,Gambella Region,Agnuwak,Eth. Cabbage,
+3033,Gambella Region,Agnuwak,Tomatoes,
+3034,Gambella Region,Agnuwak,Green peppers,
+3035,Gambella Region,Agnuwak,Red peppers,
+3036,Gambella Region,Agnuwak,Swiss chard,
+3037,Gambella Region,Agnuwak,Carrots,
+3038,Gambella Region,Agnuwak,Onions,
+3039,Gambella Region,Agnuwak,Potatoes,
+3040,Gambella Region,Agnuwak,Garlic,
+3041,Gambella Region,Agnuwak,Taro / 'Godere',
+3042,Gambella Region,Agnuwak,Sweet potatoes,
+3043,Gambella Region,Agnuwak,Avocados,
+3044,Gambella Region,Agnuwak,Banana,
+3045,Gambella Region,Agnuwak,Guava,
+3046,Gambella Region,Agnuwak,Lemons,
+3047,Gambella Region,Agnuwak,Mangoes,
+3048,Gambella Region,Agnuwak,Oranges,
+3049,Gambella Region,Agnuwak,Papaya,
+3050,Gambella Region,Agnuwak,Pineapple,
+3051,Gambella Region,Agnuwak,Hop,
+3052,Gambella Region,Agnuwak,Enset,
+3053,Gambella Region,Agnuwak,Roses,
+3054,Gambella Region,Agnuwak,Sorghum,
+3055,Gambella Region,Agnuwak,Sesame,
+3056,Gambella Region,Agnuwak,Beetroot,
+3057,Gambella Region,Agnuwak,Hops,
+3058,Gambella Region,Agnuwak,Sugar cane,
+3059,Gambella Region,Agnuwak,Enset,
+3060,Gambella Region,Nuware,Teff,
+3061,Gambella Region,Nuware,Barley,
+3062,Gambella Region,Nuware,wheat,
+3063,Gambella Region,Nuware,Maize,68061.47
+3064,Gambella Region,Nuware,Sorghum,
+3065,Gambella Region,Nuware,Finger Millet,
+3066,Gambella Region,Nuware,Oats,
+3067,Gambella Region,Nuware,Rice,
+3068,Gambella Region,Nuware,Faba Beans,
+3069,Gambella Region,Nuware,Field Peas,
+3070,Gambella Region,Nuware,Haricot beans,
+3071,Gambella Region,Nuware,Chick-Peas,
+3072,Gambella Region,Nuware,Lentils,
+3073,Gambella Region,Nuware,Grass Peas,
+3074,Gambella Region,Nuware,Soybeans,
+3075,Gambella Region,Nuware,Fenugreek,
+3076,Gambella Region,Nuware,Gibto,
+3077,Gambella Region,Nuware,Niger Seeds,
+3078,Gambella Region,Nuware,Groundnut,
+3079,Gambella Region,Nuware,Sunflower,
+3080,Gambella Region,Nuware,Sesame Seeds,
+3081,Gambella Region,Nuware,Lettuce,
+3082,Gambella Region,Nuware,Head cabbage,
+3083,Gambella Region,Nuware,Eth. Cabbage,
+3084,Gambella Region,Nuware,Tomatoes,
+3085,Gambella Region,Nuware,Green peppers,
+3086,Gambella Region,Nuware,Red peppers,
+3087,Gambella Region,Nuware,Swiss chard,
+3088,Gambella Region,Nuware,Carrots,
+3089,Gambella Region,Nuware,Onions,
+3090,Gambella Region,Nuware,Potatoes,
+3091,Gambella Region,Nuware,Garlic,
+3092,Gambella Region,Nuware,Taro / 'Godere',
+3093,Gambella Region,Nuware,Sweet potatoes,
+3094,Gambella Region,Nuware,Avocados,
+3095,Gambella Region,Nuware,Banana,
+3096,Gambella Region,Nuware,Guava,
+3097,Gambella Region,Nuware,Lemons,
+3098,Gambella Region,Nuware,Mangoes,
+3099,Gambella Region,Nuware,Oranges,
+3100,Gambella Region,Nuware,Papaya,
+3101,Gambella Region,Nuware,Pineapple,
+3102,Gambella Region,Nuware,Hop,
+3103,Gambella Region,Nuware,Enset,
+3104,Gambella Region,Nuware,Roses,
+3105,Gambella Region,Nuware,Sorghum,
+3106,Gambella Region,Nuware,Sesame,
+3107,Gambella Region,Nuware,Beetroot,
+3108,Gambella Region,Nuware,Hops,
+3109,Gambella Region,Nuware,Sugar cane,
+3110,Gambella Region,Nuware,Enset,
+3111,Gambella Region,Mejenger,Teff,
+3112,Gambella Region,Mejenger,Barley,
+3113,Gambella Region,Mejenger,wheat,
+3114,Gambella Region,Mejenger,Maize,12661.65
+3115,Gambella Region,Mejenger,Sorghum,35993.17
+3116,Gambella Region,Mejenger,Finger Millet,
+3117,Gambella Region,Mejenger,Oats,
+3118,Gambella Region,Mejenger,Rice,
+3119,Gambella Region,Mejenger,Faba Beans,
+3120,Gambella Region,Mejenger,Field Peas,
+3121,Gambella Region,Mejenger,Haricot beans,
+3122,Gambella Region,Mejenger,Chick-Peas,
+3123,Gambella Region,Mejenger,Lentils,
+3124,Gambella Region,Mejenger,Grass Peas,
+3125,Gambella Region,Mejenger,Soybeans,
+3126,Gambella Region,Mejenger,Fenugreek,
+3127,Gambella Region,Mejenger,Gibto,
+3128,Gambella Region,Mejenger,Niger Seeds,
+3129,Gambella Region,Mejenger,Groundnut,
+3130,Gambella Region,Mejenger,Sunflower,
+3131,Gambella Region,Mejenger,Sesame Seeds,
+3132,Gambella Region,Mejenger,Lettuce,
+3133,Gambella Region,Mejenger,Head cabbage,
+3134,Gambella Region,Mejenger,Eth. Cabbage,
+3135,Gambella Region,Mejenger,Tomatoes,
+3136,Gambella Region,Mejenger,Green peppers,
+3137,Gambella Region,Mejenger,Red peppers,
+3138,Gambella Region,Mejenger,Swiss chard,
+3139,Gambella Region,Mejenger,Carrots,
+3140,Gambella Region,Mejenger,Onions,
+3141,Gambella Region,Mejenger,Potatoes,
+3142,Gambella Region,Mejenger,Garlic,
+3143,Gambella Region,Mejenger,Taro / 'Godere',
+3144,Gambella Region,Mejenger,Sweet potatoes,
+3145,Gambella Region,Mejenger,Avocados,
+3146,Gambella Region,Mejenger,Banana,
+3147,Gambella Region,Mejenger,Guava,
+3148,Gambella Region,Mejenger,Lemons,
+3149,Gambella Region,Mejenger,Mangoes,
+3150,Gambella Region,Mejenger,Oranges,
+3151,Gambella Region,Mejenger,Papaya,
+3152,Gambella Region,Mejenger,Pineapple,
+3153,Gambella Region,Mejenger,Hop,
+3154,Gambella Region,Mejenger,Enset,
+3155,Gambella Region,Mejenger,Roses,
+3156,Gambella Region,Mejenger,Sorghum,
+3157,Gambella Region,Mejenger,Sesame,
+3158,Gambella Region,Mejenger,Beetroot,
+3159,Gambella Region,Mejenger,Hops,
+3160,Gambella Region,Mejenger,Sugar cane,
+3161,Gambella Region,Mejenger,Enset,
+3162,Gambella Region,Itang Special Woreda,Teff,
+3163,Gambella Region,Itang Special Woreda,Barley,
+3164,Gambella Region,Itang Special Woreda,wheat,
+3165,Gambella Region,Itang Special Woreda,Maize,17137.65
+3166,Gambella Region,Itang Special Woreda,Sorghum,
+3167,Gambella Region,Itang Special Woreda,Finger Millet,
+3168,Gambella Region,Itang Special Woreda,Oats,
+3169,Gambella Region,Itang Special Woreda,Rice,
+3170,Gambella Region,Itang Special Woreda,Faba Beans,
+3171,Gambella Region,Itang Special Woreda,Field Peas,
+3172,Gambella Region,Itang Special Woreda,Haricot beans,
+3173,Gambella Region,Itang Special Woreda,Chick-Peas,
+3174,Gambella Region,Itang Special Woreda,Lentils,
+3175,Gambella Region,Itang Special Woreda,Grass Peas,
+3176,Gambella Region,Itang Special Woreda,Soybeans,
+3177,Gambella Region,Itang Special Woreda,Fenugreek,
+3178,Gambella Region,Itang Special Woreda,Gibto,
+3179,Gambella Region,Itang Special Woreda,Niger Seeds,
+3180,Gambella Region,Itang Special Woreda,Groundnut,
+3181,Gambella Region,Itang Special Woreda,Sunflower,
+3182,Gambella Region,Itang Special Woreda,Sesame Seeds,
+3183,Gambella Region,Itang Special Woreda,Lettuce,
+3184,Gambella Region,Itang Special Woreda,Head cabbage,
+3185,Gambella Region,Itang Special Woreda,Eth. Cabbage,
+3186,Gambella Region,Itang Special Woreda,Tomatoes,
+3187,Gambella Region,Itang Special Woreda,Green peppers,
+3188,Gambella Region,Itang Special Woreda,Red peppers,
+3189,Gambella Region,Itang Special Woreda,Swiss chard,
+3190,Gambella Region,Itang Special Woreda,Carrots,
+3191,Gambella Region,Itang Special Woreda,Onions,
+3192,Gambella Region,Itang Special Woreda,Potatoes,
+3193,Gambella Region,Itang Special Woreda,Garlic,
+3194,Gambella Region,Itang Special Woreda,Taro / 'Godere',
+3195,Gambella Region,Itang Special Woreda,Sweet potatoes,
+3196,Gambella Region,Itang Special Woreda,Avocados,
+3197,Gambella Region,Itang Special Woreda,Banana,
+3198,Gambella Region,Itang Special Woreda,Guava,
+3199,Gambella Region,Itang Special Woreda,Lemons,
+3200,Gambella Region,Itang Special Woreda,Mangoes,
+3201,Gambella Region,Itang Special Woreda,Oranges,
+3202,Gambella Region,Itang Special Woreda,Papaya,
+3203,Gambella Region,Itang Special Woreda,Pineapple,
+3204,Gambella Region,Itang Special Woreda,Hop,
+3205,Gambella Region,Itang Special Woreda,Enset,
+3206,Gambella Region,Itang Special Woreda,Roses,
+3207,Gambella Region,Itang Special Woreda,Sorghum,
+3208,Gambella Region,Itang Special Woreda,Sesame,
+3209,Gambella Region,Itang Special Woreda,Beetroot,
+3210,Gambella Region,Itang Special Woreda,Hops,
+3211,Gambella Region,Itang Special Woreda,Sugar cane,
+3212,Gambella Region,Itang Special Woreda,Enset,
+3213,Harari,Harari,Teff,
+3214,Harari,Harari,Barley,
+3215,Harari,Harari,wheat,
+3216,Harari,Harari,Maize,
+3217,Harari,Harari,Sorghum,
+3218,Harari,Harari,Finger Millet,
+3219,Harari,Harari,Oats,
+3220,Harari,Harari,Rice,
+3221,Harari,Harari,Faba Beans,
+3222,Harari,Harari,Field Peas,
+3223,Harari,Harari,Haricot beans,
+3224,Harari,Harari,Chick-Peas,
+3225,Harari,Harari,Lentils,
+3226,Harari,Harari,Grass Peas,
+3227,Harari,Harari,Soybeans,
+3228,Harari,Harari,Fenugreek,
+3229,Harari,Harari,Gibto,
+3230,Harari,Harari,Niger Seeds,
+3231,Harari,Harari,Groundnut,
+3232,Harari,Harari,Sunflower,
+3233,Harari,Harari,Sesame Seeds,
+3234,Harari,Harari,Lettuce,
+3235,Harari,Harari,Head cabbage,
+3236,Harari,Harari,Eth. Cabbage,
+3237,Harari,Harari,Tomatoes,
+3238,Harari,Harari,Green peppers,
+3239,Harari,Harari,Red peppers,
+3240,Harari,Harari,Swiss chard,
+3241,Harari,Harari,Carrots,
+3242,Harari,Harari,Onions,
+3243,Harari,Harari,Potatoes,
+3244,Harari,Harari,Garlic,
+3245,Harari,Harari,Taro / 'Godere',
+3246,Harari,Harari,Sweet potatoes,
+3247,Harari,Harari,Avocados,
+3248,Harari,Harari,Banana,
+3249,Harari,Harari,Guava,
+3250,Harari,Harari,Lemons,
+3251,Harari,Harari,Mangoes,
+3252,Harari,Harari,Oranges,
+3253,Harari,Harari,Papaya,
+3254,Harari,Harari,Pineapple,
+3255,Harari,Harari,Hop,
+3256,Harari,Harari,Enset,
+3257,Harari,Harari,Roses,
+3258,Harari,Harari,Sorghum,
+3259,Harari,Harari,Sesame,
+3260,Harari,Harari,Beetroot,
+3261,Harari,Harari,Hops,
+3262,Harari,Harari,Sugar cane,
+3263,Harari,Harari,Enset,
+3264,Dire Dawa,Dire Dawa,Teff,
+3265,Dire Dawa,Dire Dawa,Barley,
+3266,Dire Dawa,Dire Dawa,wheat,
+3267,Dire Dawa,Dire Dawa,Maize,
+3268,Dire Dawa,Dire Dawa,Sorghum,
+3269,Dire Dawa,Dire Dawa,Finger Millet,
+3270,Dire Dawa,Dire Dawa,Oats,
+3271,Dire Dawa,Dire Dawa,Rice,
+3272,Dire Dawa,Dire Dawa,Faba Beans,
+3273,Dire Dawa,Dire Dawa,Field Peas,
+3274,Dire Dawa,Dire Dawa,Haricot beans,
+3275,Dire Dawa,Dire Dawa,Chick-Peas,
+3276,Dire Dawa,Dire Dawa,Lentils,
+3277,Dire Dawa,Dire Dawa,Grass Peas,
+3278,Dire Dawa,Dire Dawa,Soybeans,
+3279,Dire Dawa,Dire Dawa,Fenugreek,
+3280,Dire Dawa,Dire Dawa,Gibto,
+3281,Dire Dawa,Dire Dawa,Niger Seeds,
+3282,Dire Dawa,Dire Dawa,Groundnut,
+3283,Dire Dawa,Dire Dawa,Sunflower,
+3284,Dire Dawa,Dire Dawa,Sesame Seeds,
+3285,Dire Dawa,Dire Dawa,Lettuce,
+3286,Dire Dawa,Dire Dawa,Head cabbage,
+3287,Dire Dawa,Dire Dawa,Eth. Cabbage,
+3288,Dire Dawa,Dire Dawa,Tomatoes,
+3289,Dire Dawa,Dire Dawa,Green peppers,
+3290,Dire Dawa,Dire Dawa,Red peppers,
+3291,Dire Dawa,Dire Dawa,Swiss chard,
+3292,Dire Dawa,Dire Dawa,Carrots,
+3293,Dire Dawa,Dire Dawa,Onions,
+3294,Dire Dawa,Dire Dawa,Potatoes,
+3295,Dire Dawa,Dire Dawa,Garlic,
+3296,Dire Dawa,Dire Dawa,Taro / 'Godere',
+3297,Dire Dawa,Dire Dawa,Sweet potatoes,
+3298,Dire Dawa,Dire Dawa,Avocados,
+3299,Dire Dawa,Dire Dawa,Banana,
+3300,Dire Dawa,Dire Dawa,Guava,
+3301,Dire Dawa,Dire Dawa,Lemons,
+3302,Dire Dawa,Dire Dawa,Mangoes,
+3303,Dire Dawa,Dire Dawa,Oranges,
+3304,Dire Dawa,Dire Dawa,Papaya,
+3305,Dire Dawa,Dire Dawa,Pineapple,
+3306,Dire Dawa,Dire Dawa,Hop,
+3307,Dire Dawa,Dire Dawa,Enset,
+3308,Dire Dawa,Dire Dawa,Roses,
+3309,Dire Dawa,Dire Dawa,Sorghum,
+3310,Dire Dawa,Dire Dawa,Sesame,
+3311,Dire Dawa,Dire Dawa,Beetroot,
+3312,Dire Dawa,Dire Dawa,Hops,
+3313,Dire Dawa,Dire Dawa,Sugar cane,
+3314,Dire Dawa,Dire Dawa,Enset,
+3315,S.N.N.P. Region,Guraghe,Teff,416918.9
+3316,S.N.N.P. Region,Guraghe,Barley,449443.48
+3317,S.N.N.P. Region,Guraghe,wheat,887908.62
+3318,S.N.N.P. Region,Guraghe,Maize,1397888.42
+3319,S.N.N.P. Region,Guraghe,Sorghum,9544.24
+3320,S.N.N.P. Region,Guraghe,Finger Millet,
+3321,S.N.N.P. Region,Guraghe,Oats,
+3322,S.N.N.P. Region,Guraghe,Rice,
+3323,S.N.N.P. Region,Guraghe,Faba Beans,89840.97
+3324,S.N.N.P. Region,Guraghe,Field Peas,58192.69
+3325,S.N.N.P. Region,Guraghe,Haricot beans,
+3326,S.N.N.P. Region,Guraghe,Chick-Peas,
+3327,S.N.N.P. Region,Guraghe,Lentils,
+3328,S.N.N.P. Region,Guraghe,Grass Peas,
+3329,S.N.N.P. Region,Guraghe,Soybeans,
+3330,S.N.N.P. Region,Guraghe,Fenugreek,
+3331,S.N.N.P. Region,Guraghe,Gibto,
+3332,S.N.N.P. Region,Guraghe,Niger Seeds,
+3333,S.N.N.P. Region,Guraghe,Groundnut,
+3334,S.N.N.P. Region,Guraghe,Sunflower,
+3335,S.N.N.P. Region,Guraghe,Sesame Seeds,
+3336,S.N.N.P. Region,Guraghe,Lettuce,
+3337,S.N.N.P. Region,Guraghe,Head cabbage,
+3338,S.N.N.P. Region,Guraghe,Eth. Cabbage,355454.44
+3339,S.N.N.P. Region,Guraghe,Tomatoes,
+3340,S.N.N.P. Region,Guraghe,Green peppers,
+3341,S.N.N.P. Region,Guraghe,Red peppers,
+3342,S.N.N.P. Region,Guraghe,Swiss chard,
+3343,S.N.N.P. Region,Guraghe,Carrots,
+3344,S.N.N.P. Region,Guraghe,Onions,
+3345,S.N.N.P. Region,Guraghe,Potatoes,
+3346,S.N.N.P. Region,Guraghe,Garlic,21242.16
+3347,S.N.N.P. Region,Guraghe,Taro / 'Godere',139365.93
+3348,S.N.N.P. Region,Guraghe,Sweet potatoes,
+3349,S.N.N.P. Region,Guraghe,Avocados,
+3350,S.N.N.P. Region,Guraghe,Banana,53766.95
+3351,S.N.N.P. Region,Guraghe,Guava,32265.29
+3352,S.N.N.P. Region,Guraghe,Lemons,
+3353,S.N.N.P. Region,Guraghe,Mangoes,
+3354,S.N.N.P. Region,Guraghe,Oranges,9979.46
+3355,S.N.N.P. Region,Guraghe,Papaya,43860.14
+3356,S.N.N.P. Region,Guraghe,Pineapple,
+3357,S.N.N.P. Region,Guraghe,Hop,19922.16
+3358,S.N.N.P. Region,Guraghe,Enset,4392295.35
+3359,S.N.N.P. Region,Guraghe,Roses,
+3360,S.N.N.P. Region,Guraghe,Sorghum,
+3361,S.N.N.P. Region,Guraghe,Sesame,
+3362,S.N.N.P. Region,Guraghe,Beetroot,
+3363,S.N.N.P. Region,Guraghe,Hops,
+3364,S.N.N.P. Region,Guraghe,Sugar cane,
+3365,S.N.N.P. Region,Guraghe,Enset,
+3366,S.N.N.P. Region,Hadiya,Teff,697945.13
+3367,S.N.N.P. Region,Hadiya,Barley,204055.85
+3368,S.N.N.P. Region,Hadiya,wheat,1085579.81
+3369,S.N.N.P. Region,Hadiya,Maize,718967.19
+3370,S.N.N.P. Region,Hadiya,Sorghum,131601.75
+3371,S.N.N.P. Region,Hadiya,Finger Millet,
+3372,S.N.N.P. Region,Hadiya,Oats,
+3373,S.N.N.P. Region,Hadiya,Rice,
+3374,S.N.N.P. Region,Hadiya,Faba Beans,232251.36
+3375,S.N.N.P. Region,Hadiya,Field Peas,45577.71
+3376,S.N.N.P. Region,Hadiya,Haricot beans,52832.35
+3377,S.N.N.P. Region,Hadiya,Chick-Peas,
+3378,S.N.N.P. Region,Hadiya,Lentils,
+3379,S.N.N.P. Region,Hadiya,Grass Peas,
+3380,S.N.N.P. Region,Hadiya,Soybeans,
+3381,S.N.N.P. Region,Hadiya,Fenugreek,
+3382,S.N.N.P. Region,Hadiya,Gibto,
+3383,S.N.N.P. Region,Hadiya,Niger Seeds,
+3384,S.N.N.P. Region,Hadiya,Groundnut,
+3385,S.N.N.P. Region,Hadiya,Sunflower,
+3386,S.N.N.P. Region,Hadiya,Sesame Seeds,
+3387,S.N.N.P. Region,Hadiya,Lettuce,
+3388,S.N.N.P. Region,Hadiya,Head cabbage,
+3389,S.N.N.P. Region,Hadiya,Eth. Cabbage,261439.99
+3390,S.N.N.P. Region,Hadiya,Tomatoes,12866.42
+3391,S.N.N.P. Region,Hadiya,Green peppers,18880.08
+3392,S.N.N.P. Region,Hadiya,Red peppers,
+3393,S.N.N.P. Region,Hadiya,Swiss chard,
+3394,S.N.N.P. Region,Hadiya,Carrots,
+3395,S.N.N.P. Region,Hadiya,Onions,5152.26
+3396,S.N.N.P. Region,Hadiya,Potatoes,246875.68
+3397,S.N.N.P. Region,Hadiya,Garlic,
+3398,S.N.N.P. Region,Hadiya,Taro / 'Godere',516024.41
+3399,S.N.N.P. Region,Hadiya,Sweet potatoes,69560.85
+3400,S.N.N.P. Region,Hadiya,Avocados,
+3401,S.N.N.P. Region,Hadiya,Banana,68349.02
+3402,S.N.N.P. Region,Hadiya,Guava,227356.81
+3403,S.N.N.P. Region,Hadiya,Lemons,296.63
+3404,S.N.N.P. Region,Hadiya,Mangoes,
+3405,S.N.N.P. Region,Hadiya,Oranges,22505.68
+3406,S.N.N.P. Region,Hadiya,Papaya,2043.47
+3407,S.N.N.P. Region,Hadiya,Pineapple,5481.94
+3408,S.N.N.P. Region,Hadiya,Hop,48787.17
+3409,S.N.N.P. Region,Hadiya,Enset,2410294.53
+3410,S.N.N.P. Region,Hadiya,Roses,
+3411,S.N.N.P. Region,Hadiya,Sorghum,
+3412,S.N.N.P. Region,Hadiya,Sesame,
+3413,S.N.N.P. Region,Hadiya,Beetroot,
+3414,S.N.N.P. Region,Hadiya,Hops,
+3415,S.N.N.P. Region,Hadiya,Sugar cane,
+3416,S.N.N.P. Region,Hadiya,Enset,
+3417,S.N.N.P. Region,Kembata - Tembaro,Teff,200128.12
+3418,S.N.N.P. Region,Kembata - Tembaro,Barley,28499.99
+3419,S.N.N.P. Region,Kembata - Tembaro,wheat,386115.98
+3420,S.N.N.P. Region,Kembata - Tembaro,Maize,
+3421,S.N.N.P. Region,Kembata - Tembaro,Sorghum,42416.01
+3422,S.N.N.P. Region,Kembata - Tembaro,Finger Millet,
+3423,S.N.N.P. Region,Kembata - Tembaro,Oats,
+3424,S.N.N.P. Region,Kembata - Tembaro,Rice,
+3425,S.N.N.P. Region,Kembata - Tembaro,Faba Beans,90594.05
+3426,S.N.N.P. Region,Kembata - Tembaro,Field Peas,19276.07
+3427,S.N.N.P. Region,Kembata - Tembaro,Haricot beans,20666.13
+3428,S.N.N.P. Region,Kembata - Tembaro,Chick-Peas,
+3429,S.N.N.P. Region,Kembata - Tembaro,Lentils,
+3430,S.N.N.P. Region,Kembata - Tembaro,Grass Peas,
+3431,S.N.N.P. Region,Kembata - Tembaro,Soybeans,4864.93
+3432,S.N.N.P. Region,Kembata - Tembaro,Fenugreek,
+3433,S.N.N.P. Region,Kembata - Tembaro,Gibto,
+3434,S.N.N.P. Region,Kembata - Tembaro,Niger Seeds,
+3435,S.N.N.P. Region,Kembata - Tembaro,Groundnut,
+3436,S.N.N.P. Region,Kembata - Tembaro,Sunflower,
+3437,S.N.N.P. Region,Kembata - Tembaro,Sesame Seeds,
+3438,S.N.N.P. Region,Kembata - Tembaro,Lettuce,
+3439,S.N.N.P. Region,Kembata - Tembaro,Head cabbage,7000.9
+3440,S.N.N.P. Region,Kembata - Tembaro,Eth. Cabbage,116670.18
+3441,S.N.N.P. Region,Kembata - Tembaro,Tomatoes,5609.66
+3442,S.N.N.P. Region,Kembata - Tembaro,Green peppers,
+3443,S.N.N.P. Region,Kembata - Tembaro,Red peppers,
+3444,S.N.N.P. Region,Kembata - Tembaro,Swiss chard,
+3445,S.N.N.P. Region,Kembata - Tembaro,Carrots,
+3446,S.N.N.P. Region,Kembata - Tembaro,Onions,
+3447,S.N.N.P. Region,Kembata - Tembaro,Potatoes,217120.4
+3448,S.N.N.P. Region,Kembata - Tembaro,Garlic,
+3449,S.N.N.P. Region,Kembata - Tembaro,Taro / 'Godere',650458.59
+3450,S.N.N.P. Region,Kembata - Tembaro,Sweet potatoes,83058.02
+3451,S.N.N.P. Region,Kembata - Tembaro,Avocados,
+3452,S.N.N.P. Region,Kembata - Tembaro,Banana,65136.52
+3453,S.N.N.P. Region,Kembata - Tembaro,Guava,308125.07
+3454,S.N.N.P. Region,Kembata - Tembaro,Lemons,
+3455,S.N.N.P. Region,Kembata - Tembaro,Mangoes,1336.82
+3456,S.N.N.P. Region,Kembata - Tembaro,Oranges,22448.5
+3457,S.N.N.P. Region,Kembata - Tembaro,Papaya,1717.8
+3458,S.N.N.P. Region,Kembata - Tembaro,Pineapple,4998.42
+3459,S.N.N.P. Region,Kembata - Tembaro,Hop,19860.85
+3460,S.N.N.P. Region,Kembata - Tembaro,Enset,1139213.76
+3461,S.N.N.P. Region,Kembata - Tembaro,Roses,
+3462,S.N.N.P. Region,Kembata - Tembaro,Sorghum,
+3463,S.N.N.P. Region,Kembata - Tembaro,Sesame,
+3464,S.N.N.P. Region,Kembata - Tembaro,Beetroot,
+3465,S.N.N.P. Region,Kembata - Tembaro,Hops,
+3466,S.N.N.P. Region,Kembata - Tembaro,Sugar cane,
+3467,S.N.N.P. Region,Kembata - Tembaro,Enset,
+3468,S.N.N.P. Region,Gedio,Teff,
+3469,S.N.N.P. Region,Gedio,Barley,133374.98
+3470,S.N.N.P. Region,Gedio,wheat,
+3471,S.N.N.P. Region,Gedio,Maize,
+3472,S.N.N.P. Region,Gedio,Sorghum,
+3473,S.N.N.P. Region,Gedio,Finger Millet,
+3474,S.N.N.P. Region,Gedio,Oats,
+3475,S.N.N.P. Region,Gedio,Rice,
+3476,S.N.N.P. Region,Gedio,Faba Beans,50760.66
+3477,S.N.N.P. Region,Gedio,Field Peas,29950.87
+3478,S.N.N.P. Region,Gedio,Haricot beans,
+3479,S.N.N.P. Region,Gedio,Chick-Peas,
+3480,S.N.N.P. Region,Gedio,Lentils,
+3481,S.N.N.P. Region,Gedio,Grass Peas,
+3482,S.N.N.P. Region,Gedio,Soybeans,
+3483,S.N.N.P. Region,Gedio,Fenugreek,
+3484,S.N.N.P. Region,Gedio,Gibto,
+3485,S.N.N.P. Region,Gedio,Niger Seeds,
+3486,S.N.N.P. Region,Gedio,Groundnut,
+3487,S.N.N.P. Region,Gedio,Sunflower,
+3488,S.N.N.P. Region,Gedio,Sesame Seeds,
+3489,S.N.N.P. Region,Gedio,Lettuce,
+3490,S.N.N.P. Region,Gedio,Head cabbage,
+3491,S.N.N.P. Region,Gedio,Eth. Cabbage,339491.44
+3492,S.N.N.P. Region,Gedio,Tomatoes,
+3493,S.N.N.P. Region,Gedio,Green peppers,1541.14
+3494,S.N.N.P. Region,Gedio,Red peppers,
+3495,S.N.N.P. Region,Gedio,Swiss chard,
+3496,S.N.N.P. Region,Gedio,Carrots,
+3497,S.N.N.P. Region,Gedio,Onions,
+3498,S.N.N.P. Region,Gedio,Potatoes,
+3499,S.N.N.P. Region,Gedio,Garlic,
+3500,S.N.N.P. Region,Gedio,Taro / 'Godere',532414.37
+3501,S.N.N.P. Region,Gedio,Sweet potatoes,79833
+3502,S.N.N.P. Region,Gedio,Avocados,
+3503,S.N.N.P. Region,Gedio,Banana,58749.7
+3504,S.N.N.P. Region,Gedio,Guava,166748.36
+3505,S.N.N.P. Region,Gedio,Lemons,
+3506,S.N.N.P. Region,Gedio,Mangoes,
+3507,S.N.N.P. Region,Gedio,Oranges,
+3508,S.N.N.P. Region,Gedio,Papaya,
+3509,S.N.N.P. Region,Gedio,Pineapple,
+3510,S.N.N.P. Region,Gedio,Hop,202648.57
+3511,S.N.N.P. Region,Gedio,Enset,8493947.95
+3512,S.N.N.P. Region,Gedio,Roses,
+3513,S.N.N.P. Region,Gedio,Sorghum,
+3514,S.N.N.P. Region,Gedio,Sesame,
+3515,S.N.N.P. Region,Gedio,Beetroot,
+3516,S.N.N.P. Region,Gedio,Hops,
+3517,S.N.N.P. Region,Gedio,Sugar cane,
+3518,S.N.N.P. Region,Gedio,Enset,
+3519,S.N.N.P. Region,Wolayita,Teff,415373.61
+3520,S.N.N.P. Region,Wolayita,Barley,6187.18
+3521,S.N.N.P. Region,Wolayita,wheat,71556.81
+3522,S.N.N.P. Region,Wolayita,Maize,
+3523,S.N.N.P. Region,Wolayita,Sorghum,30899.47
+3524,S.N.N.P. Region,Wolayita,Finger Millet,
+3525,S.N.N.P. Region,Wolayita,Oats,
+3526,S.N.N.P. Region,Wolayita,Rice,
+3527,S.N.N.P. Region,Wolayita,Faba Beans,42033.46
+3528,S.N.N.P. Region,Wolayita,Field Peas,47307.85
+3529,S.N.N.P. Region,Wolayita,Haricot beans,327923.3
+3530,S.N.N.P. Region,Wolayita,Chick-Peas,28817.19
+3531,S.N.N.P. Region,Wolayita,Lentils,
+3532,S.N.N.P. Region,Wolayita,Grass Peas,
+3533,S.N.N.P. Region,Wolayita,Soybeans,
+3534,S.N.N.P. Region,Wolayita,Fenugreek,
+3535,S.N.N.P. Region,Wolayita,Gibto,
+3536,S.N.N.P. Region,Wolayita,Niger Seeds,
+3537,S.N.N.P. Region,Wolayita,Groundnut,
+3538,S.N.N.P. Region,Wolayita,Sunflower,
+3539,S.N.N.P. Region,Wolayita,Sesame Seeds,
+3540,S.N.N.P. Region,Wolayita,Lettuce,
+3541,S.N.N.P. Region,Wolayita,Head cabbage,
+3542,S.N.N.P. Region,Wolayita,Eth. Cabbage,140628.2
+3543,S.N.N.P. Region,Wolayita,Tomatoes,
+3544,S.N.N.P. Region,Wolayita,Green peppers,38713.67
+3545,S.N.N.P. Region,Wolayita,Red peppers,831.13
+3546,S.N.N.P. Region,Wolayita,Swiss chard,
+3547,S.N.N.P. Region,Wolayita,Carrots,
+3548,S.N.N.P. Region,Wolayita,Onions,
+3549,S.N.N.P. Region,Wolayita,Potatoes,471665.92
+3550,S.N.N.P. Region,Wolayita,Garlic,
+3551,S.N.N.P. Region,Wolayita,Taro / 'Godere',4248672.07
+3552,S.N.N.P. Region,Wolayita,Sweet potatoes,3719804.9
+3553,S.N.N.P. Region,Wolayita,Avocados,
+3554,S.N.N.P. Region,Wolayita,Banana,190298.66
+3555,S.N.N.P. Region,Wolayita,Guava,692557.47
+3556,S.N.N.P. Region,Wolayita,Lemons,
+3557,S.N.N.P. Region,Wolayita,Mangoes,
+3558,S.N.N.P. Region,Wolayita,Oranges,217411.18
+3559,S.N.N.P. Region,Wolayita,Papaya,1909.03
+3560,S.N.N.P. Region,Wolayita,Pineapple,72886.21
+3561,S.N.N.P. Region,Wolayita,Hop,56709.55
+3562,S.N.N.P. Region,Wolayita,Enset,1723966.59
+3563,S.N.N.P. Region,Wolayita,Roses,
+3564,S.N.N.P. Region,Wolayita,Sorghum,
+3565,S.N.N.P. Region,Wolayita,Sesame,
+3566,S.N.N.P. Region,Wolayita,Beetroot,
+3567,S.N.N.P. Region,Wolayita,Hops,
+3568,S.N.N.P. Region,Wolayita,Sugar cane,
+3569,S.N.N.P. Region,Wolayita,Enset,
+3570,S.N.N.P. Region,South Omo,Teff,
+3571,S.N.N.P. Region,South Omo,Barley,
+3572,S.N.N.P. Region,South Omo,wheat,
+3573,S.N.N.P. Region,South Omo,Maize,1301851.03
+3574,S.N.N.P. Region,South Omo,Sorghum,205117.07
+3575,S.N.N.P. Region,South Omo,Finger Millet,
+3576,S.N.N.P. Region,South Omo,Oats,
+3577,S.N.N.P. Region,South Omo,Rice,
+3578,S.N.N.P. Region,South Omo,Faba Beans,39285.86
+3579,S.N.N.P. Region,South Omo,Field Peas,
+3580,S.N.N.P. Region,South Omo,Haricot beans,51217.9
+3581,S.N.N.P. Region,South Omo,Chick-Peas,
+3582,S.N.N.P. Region,South Omo,Lentils,
+3583,S.N.N.P. Region,South Omo,Grass Peas,
+3584,S.N.N.P. Region,South Omo,Soybeans,
+3585,S.N.N.P. Region,South Omo,Fenugreek,
+3586,S.N.N.P. Region,South Omo,Gibto,
+3587,S.N.N.P. Region,South Omo,Niger Seeds,
+3588,S.N.N.P. Region,South Omo,Groundnut,
+3589,S.N.N.P. Region,South Omo,Sunflower,
+3590,S.N.N.P. Region,South Omo,Sesame Seeds,
+3591,S.N.N.P. Region,South Omo,Lettuce,
+3592,S.N.N.P. Region,South Omo,Head cabbage,
+3593,S.N.N.P. Region,South Omo,Eth. Cabbage,
+3594,S.N.N.P. Region,South Omo,Tomatoes,35429.89
+3595,S.N.N.P. Region,South Omo,Green peppers,
+3596,S.N.N.P. Region,South Omo,Red peppers,
+3597,S.N.N.P. Region,South Omo,Swiss chard,
+3598,S.N.N.P. Region,South Omo,Carrots,
+3599,S.N.N.P. Region,South Omo,Onions,
+3600,S.N.N.P. Region,South Omo,Potatoes,
+3601,S.N.N.P. Region,South Omo,Garlic,
+3602,S.N.N.P. Region,South Omo,Taro / 'Godere',
+3603,S.N.N.P. Region,South Omo,Sweet potatoes,558234.37
+3604,S.N.N.P. Region,South Omo,Avocados,262917.69
+3605,S.N.N.P. Region,South Omo,Banana,
+3606,S.N.N.P. Region,South Omo,Guava,41102.26
+3607,S.N.N.P. Region,South Omo,Lemons,264777.23
+3608,S.N.N.P. Region,South Omo,Mangoes,
+3609,S.N.N.P. Region,South Omo,Oranges,
+3610,S.N.N.P. Region,South Omo,Papaya,29493.53
+3611,S.N.N.P. Region,South Omo,Pineapple,
+3612,S.N.N.P. Region,South Omo,Hop,28959.83
+3613,S.N.N.P. Region,South Omo,Enset,1235890.22
+3614,S.N.N.P. Region,South Omo,Roses,
+3615,S.N.N.P. Region,South Omo,Sorghum,
+3616,S.N.N.P. Region,South Omo,Sesame,
+3617,S.N.N.P. Region,South Omo,Beetroot,
+3618,S.N.N.P. Region,South Omo,Hops,
+3619,S.N.N.P. Region,South Omo,Sugar cane,
+3620,S.N.N.P. Region,South Omo,Enset,
+3621,S.N.N.P. Region,Shaka,Teff,34679.95
+3622,S.N.N.P. Region,Shaka,Barley,
+3623,S.N.N.P. Region,Shaka,wheat,
+3624,S.N.N.P. Region,Shaka,Maize,
+3625,S.N.N.P. Region,Shaka,Sorghum,
+3626,S.N.N.P. Region,Shaka,Finger Millet,
+3627,S.N.N.P. Region,Shaka,Oats,
+3628,S.N.N.P. Region,Shaka,Rice,
+3629,S.N.N.P. Region,Shaka,Faba Beans,81136
+3630,S.N.N.P. Region,Shaka,Field Peas,155407.83
+3631,S.N.N.P. Region,Shaka,Haricot beans,
+3632,S.N.N.P. Region,Shaka,Chick-Peas,
+3633,S.N.N.P. Region,Shaka,Lentils,
+3634,S.N.N.P. Region,Shaka,Grass Peas,
+3635,S.N.N.P. Region,Shaka,Soybeans,
+3636,S.N.N.P. Region,Shaka,Fenugreek,
+3637,S.N.N.P. Region,Shaka,Gibto,
+3638,S.N.N.P. Region,Shaka,Niger Seeds,
+3639,S.N.N.P. Region,Shaka,Groundnut,
+3640,S.N.N.P. Region,Shaka,Sunflower,
+3641,S.N.N.P. Region,Shaka,Sesame Seeds,
+3642,S.N.N.P. Region,Shaka,Lettuce,
+3643,S.N.N.P. Region,Shaka,Head cabbage,
+3644,S.N.N.P. Region,Shaka,Eth. Cabbage,75860.55
+3645,S.N.N.P. Region,Shaka,Tomatoes,
+3646,S.N.N.P. Region,Shaka,Green peppers,
+3647,S.N.N.P. Region,Shaka,Red peppers,
+3648,S.N.N.P. Region,Shaka,Swiss chard,
+3649,S.N.N.P. Region,Shaka,Carrots,
+3650,S.N.N.P. Region,Shaka,Onions,
+3651,S.N.N.P. Region,Shaka,Potatoes,
+3652,S.N.N.P. Region,Shaka,Garlic,
+3653,S.N.N.P. Region,Shaka,Taro / 'Godere',108657.29
+3654,S.N.N.P. Region,Shaka,Sweet potatoes,
+3655,S.N.N.P. Region,Shaka,Avocados,
+3656,S.N.N.P. Region,Shaka,Banana,125634.06
+3657,S.N.N.P. Region,Shaka,Guava,
+3658,S.N.N.P. Region,Shaka,Lemons,
+3659,S.N.N.P. Region,Shaka,Mangoes,
+3660,S.N.N.P. Region,Shaka,Oranges,
+3661,S.N.N.P. Region,Shaka,Papaya,
+3662,S.N.N.P. Region,Shaka,Pineapple,
+3663,S.N.N.P. Region,Shaka,Hop,186419.03
+3664,S.N.N.P. Region,Shaka,Enset,2820851.23
+3665,S.N.N.P. Region,Shaka,Roses,
+3666,S.N.N.P. Region,Shaka,Sorghum,
+3667,S.N.N.P. Region,Shaka,Sesame,
+3668,S.N.N.P. Region,Shaka,Beetroot,
+3669,S.N.N.P. Region,Shaka,Hops,
+3670,S.N.N.P. Region,Shaka,Sugar cane,
+3671,S.N.N.P. Region,Shaka,Enset,
+3672,S.N.N.P. Region,Keffa,Teff,406472.18
+3673,S.N.N.P. Region,Keffa,Barley,238535.72
+3674,S.N.N.P. Region,Keffa,wheat,214147.49
+3675,S.N.N.P. Region,Keffa,Maize,
+3676,S.N.N.P. Region,Keffa,Sorghum,368402.77
+3677,S.N.N.P. Region,Keffa,Finger Millet,
+3678,S.N.N.P. Region,Keffa,Oats,
+3679,S.N.N.P. Region,Keffa,Rice,
+3680,S.N.N.P. Region,Keffa,Faba Beans,449838.92
+3681,S.N.N.P. Region,Keffa,Field Peas,339174.79
+3682,S.N.N.P. Region,Keffa,Haricot beans,112289.79
+3683,S.N.N.P. Region,Keffa,Chick-Peas,
+3684,S.N.N.P. Region,Keffa,Lentils,
+3685,S.N.N.P. Region,Keffa,Grass Peas,
+3686,S.N.N.P. Region,Keffa,Soybeans,
+3687,S.N.N.P. Region,Keffa,Fenugreek,
+3688,S.N.N.P. Region,Keffa,Gibto,
+3689,S.N.N.P. Region,Keffa,Niger Seeds,
+3690,S.N.N.P. Region,Keffa,Groundnut,
+3691,S.N.N.P. Region,Keffa,Sunflower,
+3692,S.N.N.P. Region,Keffa,Sesame Seeds,
+3693,S.N.N.P. Region,Keffa,Lettuce,
+3694,S.N.N.P. Region,Keffa,Head cabbage,
+3695,S.N.N.P. Region,Keffa,Eth. Cabbage,158798.85
+3696,S.N.N.P. Region,Keffa,Tomatoes,
+3697,S.N.N.P. Region,Keffa,Green peppers,6530.88
+3698,S.N.N.P. Region,Keffa,Red peppers,
+3699,S.N.N.P. Region,Keffa,Swiss chard,
+3700,S.N.N.P. Region,Keffa,Carrots,
+3701,S.N.N.P. Region,Keffa,Onions,2722.74
+3702,S.N.N.P. Region,Keffa,Potatoes,
+3703,S.N.N.P. Region,Keffa,Garlic,4492.41
+3704,S.N.N.P. Region,Keffa,Taro / 'Godere',1319782.95
+3705,S.N.N.P. Region,Keffa,Sweet potatoes,15767.37
+3706,S.N.N.P. Region,Keffa,Avocados,
+3707,S.N.N.P. Region,Keffa,Banana,170135.97
+3708,S.N.N.P. Region,Keffa,Guava,289754.32
+3709,S.N.N.P. Region,Keffa,Lemons,
+3710,S.N.N.P. Region,Keffa,Mangoes,
+3711,S.N.N.P. Region,Keffa,Oranges,
+3712,S.N.N.P. Region,Keffa,Papaya,
+3713,S.N.N.P. Region,Keffa,Pineapple,31852.07
+3714,S.N.N.P. Region,Keffa,Hop,216811.87
+3715,S.N.N.P. Region,Keffa,Enset,8742380.97
+3716,S.N.N.P. Region,Keffa,Roses,
+3717,S.N.N.P. Region,Keffa,Sorghum,
+3718,S.N.N.P. Region,Keffa,Sesame,
+3719,S.N.N.P. Region,Keffa,Beetroot,
+3720,S.N.N.P. Region,Keffa,Hops,
+3721,S.N.N.P. Region,Keffa,Sugar cane,
+3722,S.N.N.P. Region,Keffa,Enset,
+3723,S.N.N.P. Region,Gamo Gofa,Teff,541791.83
+3724,S.N.N.P. Region,Gamo Gofa,Barley,337993.81
+3725,S.N.N.P. Region,Gamo Gofa,wheat,509884.13
+3726,S.N.N.P. Region,Gamo Gofa,Maize,2299412.75
+3727,S.N.N.P. Region,Gamo Gofa,Sorghum,36783.43
+3728,S.N.N.P. Region,Gamo Gofa,Finger Millet,
+3729,S.N.N.P. Region,Gamo Gofa,Oats,
+3730,S.N.N.P. Region,Gamo Gofa,Rice,
+3731,S.N.N.P. Region,Gamo Gofa,Faba Beans,103907.57
+3732,S.N.N.P. Region,Gamo Gofa,Field Peas,41791.88
+3733,S.N.N.P. Region,Gamo Gofa,Haricot beans,156561.81
+3734,S.N.N.P. Region,Gamo Gofa,Chick-Peas,
+3735,S.N.N.P. Region,Gamo Gofa,Lentils,
+3736,S.N.N.P. Region,Gamo Gofa,Grass Peas,
+3737,S.N.N.P. Region,Gamo Gofa,Soybeans,
+3738,S.N.N.P. Region,Gamo Gofa,Fenugreek,
+3739,S.N.N.P. Region,Gamo Gofa,Gibto,
+3740,S.N.N.P. Region,Gamo Gofa,Niger Seeds,
+3741,S.N.N.P. Region,Gamo Gofa,Groundnut,
+3742,S.N.N.P. Region,Gamo Gofa,Sunflower,
+3743,S.N.N.P. Region,Gamo Gofa,Sesame Seeds,
+3744,S.N.N.P. Region,Gamo Gofa,Lettuce,
+3745,S.N.N.P. Region,Gamo Gofa,Head cabbage,
+3746,S.N.N.P. Region,Gamo Gofa,Eth. Cabbage,136505.29
+3747,S.N.N.P. Region,Gamo Gofa,Tomatoes,
+3748,S.N.N.P. Region,Gamo Gofa,Green peppers,
+3749,S.N.N.P. Region,Gamo Gofa,Red peppers,
+3750,S.N.N.P. Region,Gamo Gofa,Swiss chard,
+3751,S.N.N.P. Region,Gamo Gofa,Carrots,
+3752,S.N.N.P. Region,Gamo Gofa,Onions,
+3753,S.N.N.P. Region,Gamo Gofa,Potatoes,940248.27
+3754,S.N.N.P. Region,Gamo Gofa,Garlic,2189.01
+3755,S.N.N.P. Region,Gamo Gofa,Taro / 'Godere',1277590.24
+3756,S.N.N.P. Region,Gamo Gofa,Sweet potatoes,1447638.43
+3757,S.N.N.P. Region,Gamo Gofa,Avocados,
+3758,S.N.N.P. Region,Gamo Gofa,Banana,123454.34
+3759,S.N.N.P. Region,Gamo Gofa,Guava,1482428.7
+3760,S.N.N.P. Region,Gamo Gofa,Lemons,
+3761,S.N.N.P. Region,Gamo Gofa,Mangoes,4083.25
+3762,S.N.N.P. Region,Gamo Gofa,Oranges,
+3763,S.N.N.P. Region,Gamo Gofa,Papaya,
+3764,S.N.N.P. Region,Gamo Gofa,Pineapple,33655.19
+3765,S.N.N.P. Region,Gamo Gofa,Hop,40668.78
+3766,S.N.N.P. Region,Gamo Gofa,Enset,1841672.27
+3767,S.N.N.P. Region,Gamo Gofa,Roses,
+3768,S.N.N.P. Region,Gamo Gofa,Sorghum,
+3769,S.N.N.P. Region,Gamo Gofa,Sesame,
+3770,S.N.N.P. Region,Gamo Gofa,Beetroot,
+3771,S.N.N.P. Region,Gamo Gofa,Hops,
+3772,S.N.N.P. Region,Gamo Gofa,Sugar cane,
+3773,S.N.N.P. Region,Gamo Gofa,Enset,
+3774,S.N.N.P. Region,Bench - Maji,Teff,106892.47
+3775,S.N.N.P. Region,Bench - Maji,Barley,15186.6
+3776,S.N.N.P. Region,Bench - Maji,wheat,
+3777,S.N.N.P. Region,Bench - Maji,Maize,624700.11
+3778,S.N.N.P. Region,Bench - Maji,Sorghum,301252.65
+3779,S.N.N.P. Region,Bench - Maji,Finger Millet,
+3780,S.N.N.P. Region,Bench - Maji,Oats,
+3781,S.N.N.P. Region,Bench - Maji,Rice,
+3782,S.N.N.P. Region,Bench - Maji,Faba Beans,51224.59
+3783,S.N.N.P. Region,Bench - Maji,Field Peas,83428.82
+3784,S.N.N.P. Region,Bench - Maji,Haricot beans,
+3785,S.N.N.P. Region,Bench - Maji,Chick-Peas,
+3786,S.N.N.P. Region,Bench - Maji,Lentils,
+3787,S.N.N.P. Region,Bench - Maji,Grass Peas,
+3788,S.N.N.P. Region,Bench - Maji,Soybeans,
+3789,S.N.N.P. Region,Bench - Maji,Fenugreek,
+3790,S.N.N.P. Region,Bench - Maji,Gibto,
+3791,S.N.N.P. Region,Bench - Maji,Niger Seeds,
+3792,S.N.N.P. Region,Bench - Maji,Groundnut,
+3793,S.N.N.P. Region,Bench - Maji,Sunflower,
+3794,S.N.N.P. Region,Bench - Maji,Sesame Seeds,
+3795,S.N.N.P. Region,Bench - Maji,Lettuce,
+3796,S.N.N.P. Region,Bench - Maji,Head cabbage,
+3797,S.N.N.P. Region,Bench - Maji,Eth. Cabbage,145811.43
+3798,S.N.N.P. Region,Bench - Maji,Tomatoes,
+3799,S.N.N.P. Region,Bench - Maji,Green peppers,
+3800,S.N.N.P. Region,Bench - Maji,Red peppers,
+3801,S.N.N.P. Region,Bench - Maji,Swiss chard,
+3802,S.N.N.P. Region,Bench - Maji,Carrots,
+3803,S.N.N.P. Region,Bench - Maji,Onions,
+3804,S.N.N.P. Region,Bench - Maji,Potatoes,
+3805,S.N.N.P. Region,Bench - Maji,Garlic,
+3806,S.N.N.P. Region,Bench - Maji,Taro / 'Godere',8923870.03
+3807,S.N.N.P. Region,Bench - Maji,Sweet potatoes,
+3808,S.N.N.P. Region,Bench - Maji,Avocados,
+3809,S.N.N.P. Region,Bench - Maji,Banana,135907.9
+3810,S.N.N.P. Region,Bench - Maji,Guava,1996865.47
+3811,S.N.N.P. Region,Bench - Maji,Lemons,
+3812,S.N.N.P. Region,Bench - Maji,Mangoes,
+3813,S.N.N.P. Region,Bench - Maji,Oranges,14909.4
+3814,S.N.N.P. Region,Bench - Maji,Papaya,
+3815,S.N.N.P. Region,Bench - Maji,Pineapple,34723.91
+3816,S.N.N.P. Region,Bench - Maji,Hop,
+3817,S.N.N.P. Region,Bench - Maji,Enset,1841672.27
+3818,S.N.N.P. Region,Bench - Maji,Roses,
+3819,S.N.N.P. Region,Bench - Maji,Sorghum,
+3820,S.N.N.P. Region,Bench - Maji,Sesame,
+3821,S.N.N.P. Region,Bench - Maji,Beetroot,
+3822,S.N.N.P. Region,Bench - Maji,Hops,
+3823,S.N.N.P. Region,Bench - Maji,Sugar cane,
+3824,S.N.N.P. Region,Bench - Maji,Enset,
+3825,S.N.N.P. Region,Yem Special Woreda,Teff,118566.61
+3826,S.N.N.P. Region,Yem Special Woreda,Barley,27100.08
+3827,S.N.N.P. Region,Yem Special Woreda,wheat,82624.23
+3828,S.N.N.P. Region,Yem Special Woreda,Maize,258443.55
+3829,S.N.N.P. Region,Yem Special Woreda,Sorghum,17562.18
+3830,S.N.N.P. Region,Yem Special Woreda,Finger Millet,
+3831,S.N.N.P. Region,Yem Special Woreda,Oats,
+3832,S.N.N.P. Region,Yem Special Woreda,Rice,
+3833,S.N.N.P. Region,Yem Special Woreda,Faba Beans,38182.23
+3834,S.N.N.P. Region,Yem Special Woreda,Field Peas,24032.32
+3835,S.N.N.P. Region,Yem Special Woreda,Haricot beans,
+3836,S.N.N.P. Region,Yem Special Woreda,Chick-Peas,
+3837,S.N.N.P. Region,Yem Special Woreda,Lentils,612.31
+3838,S.N.N.P. Region,Yem Special Woreda,Grass Peas,
+3839,S.N.N.P. Region,Yem Special Woreda,Soybeans,
+3840,S.N.N.P. Region,Yem Special Woreda,Fenugreek,79.23
+3841,S.N.N.P. Region,Yem Special Woreda,Gibto,
+3842,S.N.N.P. Region,Yem Special Woreda,Niger Seeds,
+3843,S.N.N.P. Region,Yem Special Woreda,Groundnut,
+3844,S.N.N.P. Region,Yem Special Woreda,Sunflower,
+3845,S.N.N.P. Region,Yem Special Woreda,Sesame Seeds,
+3846,S.N.N.P. Region,Yem Special Woreda,Lettuce,
+3847,S.N.N.P. Region,Yem Special Woreda,Head cabbage,231.72
+3848,S.N.N.P. Region,Yem Special Woreda,Eth. Cabbage,10018.18
+3849,S.N.N.P. Region,Yem Special Woreda,Tomatoes,
+3850,S.N.N.P. Region,Yem Special Woreda,Green peppers,301.81
+3851,S.N.N.P. Region,Yem Special Woreda,Red peppers,
+3852,S.N.N.P. Region,Yem Special Woreda,Swiss chard,
+3853,S.N.N.P. Region,Yem Special Woreda,Carrots,
+3854,S.N.N.P. Region,Yem Special Woreda,Onions,
+3855,S.N.N.P. Region,Yem Special Woreda,Potatoes,19812.55
+3856,S.N.N.P. Region,Yem Special Woreda,Garlic,314.19
+3857,S.N.N.P. Region,Yem Special Woreda,Taro / 'Godere',32373.01
+3858,S.N.N.P. Region,Yem Special Woreda,Sweet potatoes,25541.66
+3859,S.N.N.P. Region,Yem Special Woreda,Avocados,
+3860,S.N.N.P. Region,Yem Special Woreda,Banana,11850.39
+3861,S.N.N.P. Region,Yem Special Woreda,Guava,6881.66
+3862,S.N.N.P. Region,Yem Special Woreda,Lemons,25.13
+3863,S.N.N.P. Region,Yem Special Woreda,Mangoes,
+3864,S.N.N.P. Region,Yem Special Woreda,Oranges,462.66
+3865,S.N.N.P. Region,Yem Special Woreda,Papaya,
+3866,S.N.N.P. Region,Yem Special Woreda,Pineapple,
+3867,S.N.N.P. Region,Yem Special Woreda,Hop,1267.6
+3868,S.N.N.P. Region,Yem Special Woreda,Enset,170824.51
+3869,S.N.N.P. Region,Yem Special Woreda,Roses,
+3870,S.N.N.P. Region,Yem Special Woreda,Sorghum,
+3871,S.N.N.P. Region,Yem Special Woreda,Sesame,
+3872,S.N.N.P. Region,Yem Special Woreda,Beetroot,
+3873,S.N.N.P. Region,Yem Special Woreda,Hops,
+3874,S.N.N.P. Region,Yem Special Woreda,Sugar cane,
+3875,S.N.N.P. Region,Yem Special Woreda,Enset,
+3876,S.N.N.P. Region,Dawro,Teff,229186.61
+3877,S.N.N.P. Region,Dawro,Barley,
+3878,S.N.N.P. Region,Dawro,wheat,45007.57
+3879,S.N.N.P. Region,Dawro,Maize,
+3880,S.N.N.P. Region,Dawro,Sorghum,67042.58
+3881,S.N.N.P. Region,Dawro,Finger Millet,
+3882,S.N.N.P. Region,Dawro,Oats,
+3883,S.N.N.P. Region,Dawro,Rice,
+3884,S.N.N.P. Region,Dawro,Faba Beans,153296.82
+3885,S.N.N.P. Region,Dawro,Field Peas,67073.78
+3886,S.N.N.P. Region,Dawro,Haricot beans,34353.19
+3887,S.N.N.P. Region,Dawro,Chick-Peas,
+3888,S.N.N.P. Region,Dawro,Lentils,
+3889,S.N.N.P. Region,Dawro,Grass Peas,
+3890,S.N.N.P. Region,Dawro,Soybeans,
+3891,S.N.N.P. Region,Dawro,Fenugreek,
+3892,S.N.N.P. Region,Dawro,Gibto,
+3893,S.N.N.P. Region,Dawro,Niger Seeds,
+3894,S.N.N.P. Region,Dawro,Groundnut,
+3895,S.N.N.P. Region,Dawro,Sunflower,
+3896,S.N.N.P. Region,Dawro,Sesame Seeds,
+3897,S.N.N.P. Region,Dawro,Lettuce,
+3898,S.N.N.P. Region,Dawro,Head cabbage,
+3899,S.N.N.P. Region,Dawro,Eth. Cabbage,50701.63
+3900,S.N.N.P. Region,Dawro,Tomatoes,
+3901,S.N.N.P. Region,Dawro,Green peppers,
+3902,S.N.N.P. Region,Dawro,Red peppers,
+3903,S.N.N.P. Region,Dawro,Swiss chard,
+3904,S.N.N.P. Region,Dawro,Carrots,
+3905,S.N.N.P. Region,Dawro,Onions,
+3906,S.N.N.P. Region,Dawro,Potatoes,12464.18
+3907,S.N.N.P. Region,Dawro,Garlic,
+3908,S.N.N.P. Region,Dawro,Taro / 'Godere',2255721.66
+3909,S.N.N.P. Region,Dawro,Sweet potatoes,158739.55
+3910,S.N.N.P. Region,Dawro,Avocados,
+3911,S.N.N.P. Region,Dawro,Banana,65054.9
+3912,S.N.N.P. Region,Dawro,Guava,242938.31
+3913,S.N.N.P. Region,Dawro,Lemons,
+3914,S.N.N.P. Region,Dawro,Mangoes,
+3915,S.N.N.P. Region,Dawro,Oranges,34868.43
+3916,S.N.N.P. Region,Dawro,Papaya,6631.05
+3917,S.N.N.P. Region,Dawro,Pineapple,16474.72
+3918,S.N.N.P. Region,Dawro,Hop,20030.53
+3919,S.N.N.P. Region,Dawro,Enset,2504735.71
+3920,S.N.N.P. Region,Dawro,Roses,
+3921,S.N.N.P. Region,Dawro,Sorghum,
+3922,S.N.N.P. Region,Dawro,Sesame,
+3923,S.N.N.P. Region,Dawro,Beetroot,
+3924,S.N.N.P. Region,Dawro,Hops,
+3925,S.N.N.P. Region,Dawro,Sugar cane,
+3926,S.N.N.P. Region,Dawro,Enset,
+3927,S.N.N.P. Region,Basketo Special Woreda,Teff,3972.25
+3928,S.N.N.P. Region,Basketo Special Woreda,Barley,
+3929,S.N.N.P. Region,Basketo Special Woreda,wheat,
+3930,S.N.N.P. Region,Basketo Special Woreda,Maize,112458.52
+3931,S.N.N.P. Region,Basketo Special Woreda,Sorghum,11333.76
+3932,S.N.N.P. Region,Basketo Special Woreda,Finger Millet,
+3933,S.N.N.P. Region,Basketo Special Woreda,Oats,
+3934,S.N.N.P. Region,Basketo Special Woreda,Rice,
+3935,S.N.N.P. Region,Basketo Special Woreda,Faba Beans,149.32
+3936,S.N.N.P. Region,Basketo Special Woreda,Field Peas,704.22
+3937,S.N.N.P. Region,Basketo Special Woreda,Haricot beans,5580.86
+3938,S.N.N.P. Region,Basketo Special Woreda,Chick-Peas,
+3939,S.N.N.P. Region,Basketo Special Woreda,Lentils,
+3940,S.N.N.P. Region,Basketo Special Woreda,Grass Peas,
+3941,S.N.N.P. Region,Basketo Special Woreda,Soybeans,
+3942,S.N.N.P. Region,Basketo Special Woreda,Fenugreek,
+3943,S.N.N.P. Region,Basketo Special Woreda,Gibto,
+3944,S.N.N.P. Region,Basketo Special Woreda,Niger Seeds,
+3945,S.N.N.P. Region,Basketo Special Woreda,Groundnut,
+3946,S.N.N.P. Region,Basketo Special Woreda,Sunflower,
+3947,S.N.N.P. Region,Basketo Special Woreda,Sesame Seeds,
+3948,S.N.N.P. Region,Basketo Special Woreda,Lettuce,
+3949,S.N.N.P. Region,Basketo Special Woreda,Head cabbage,
+3950,S.N.N.P. Region,Basketo Special Woreda,Eth. Cabbage,1089.86
+3951,S.N.N.P. Region,Basketo Special Woreda,Tomatoes,
+3952,S.N.N.P. Region,Basketo Special Woreda,Green peppers,
+3953,S.N.N.P. Region,Basketo Special Woreda,Red peppers,
+3954,S.N.N.P. Region,Basketo Special Woreda,Swiss chard,
+3955,S.N.N.P. Region,Basketo Special Woreda,Carrots,
+3956,S.N.N.P. Region,Basketo Special Woreda,Onions,
+3957,S.N.N.P. Region,Basketo Special Woreda,Potatoes,
+3958,S.N.N.P. Region,Basketo Special Woreda,Garlic,
+3959,S.N.N.P. Region,Basketo Special Woreda,Taro / 'Godere',53141.59
+3960,S.N.N.P. Region,Basketo Special Woreda,Sweet potatoes,100449.1
+3961,S.N.N.P. Region,Basketo Special Woreda,Avocados,
+3962,S.N.N.P. Region,Basketo Special Woreda,Banana,10834.67
+3963,S.N.N.P. Region,Basketo Special Woreda,Guava,27424.68
+3964,S.N.N.P. Region,Basketo Special Woreda,Lemons,
+3965,S.N.N.P. Region,Basketo Special Woreda,Mangoes,
+3966,S.N.N.P. Region,Basketo Special Woreda,Oranges,5255.27
+3967,S.N.N.P. Region,Basketo Special Woreda,Papaya,
+3968,S.N.N.P. Region,Basketo Special Woreda,Pineapple,2638.39
+3969,S.N.N.P. Region,Basketo Special Woreda,Hop,3652.34
+3970,S.N.N.P. Region,Basketo Special Woreda,Enset,124105.45
+3971,S.N.N.P. Region,Basketo Special Woreda,Roses,
+3972,S.N.N.P. Region,Basketo Special Woreda,Sorghum,
+3973,S.N.N.P. Region,Basketo Special Woreda,Sesame,
+3974,S.N.N.P. Region,Basketo Special Woreda,Beetroot,
+3975,S.N.N.P. Region,Basketo Special Woreda,Hops,
+3976,S.N.N.P. Region,Basketo Special Woreda,Sugar cane,
+3977,S.N.N.P. Region,Basketo Special Woreda,Enset,
+3978,S.N.N.P. Region,Konta Special Woreda,Teff,58401.08
+3979,S.N.N.P. Region,Konta Special Woreda,Barley,
+3980,S.N.N.P. Region,Konta Special Woreda,wheat,
+3981,S.N.N.P. Region,Konta Special Woreda,Maize,
+3982,S.N.N.P. Region,Konta Special Woreda,Sorghum,28174.66
+3983,S.N.N.P. Region,Konta Special Woreda,Finger Millet,
+3984,S.N.N.P. Region,Konta Special Woreda,Oats,
+3985,S.N.N.P. Region,Konta Special Woreda,Rice,
+3986,S.N.N.P. Region,Konta Special Woreda,Faba Beans,78818.85
+3987,S.N.N.P. Region,Konta Special Woreda,Field Peas,28516.6
+3988,S.N.N.P. Region,Konta Special Woreda,Haricot beans,8299.81
+3989,S.N.N.P. Region,Konta Special Woreda,Chick-Peas,
+3990,S.N.N.P. Region,Konta Special Woreda,Lentils,
+3991,S.N.N.P. Region,Konta Special Woreda,Grass Peas,
+3992,S.N.N.P. Region,Konta Special Woreda,Soybeans,
+3993,S.N.N.P. Region,Konta Special Woreda,Fenugreek,
+3994,S.N.N.P. Region,Konta Special Woreda,Gibto,
+3995,S.N.N.P. Region,Konta Special Woreda,Niger Seeds,
+3996,S.N.N.P. Region,Konta Special Woreda,Groundnut,
+3997,S.N.N.P. Region,Konta Special Woreda,Sunflower,
+3998,S.N.N.P. Region,Konta Special Woreda,Sesame Seeds,
+3999,S.N.N.P. Region,Konta Special Woreda,Lettuce,
+4000,S.N.N.P. Region,Konta Special Woreda,Head cabbage,
+4001,S.N.N.P. Region,Konta Special Woreda,Eth. Cabbage,12447.75
+4002,S.N.N.P. Region,Konta Special Woreda,Tomatoes,
+4003,S.N.N.P. Region,Konta Special Woreda,Green peppers,
+4004,S.N.N.P. Region,Konta Special Woreda,Red peppers,
+4005,S.N.N.P. Region,Konta Special Woreda,Swiss chard,
+4006,S.N.N.P. Region,Konta Special Woreda,Carrots,
+4007,S.N.N.P. Region,Konta Special Woreda,Onions,
+4008,S.N.N.P. Region,Konta Special Woreda,Potatoes,
+4009,S.N.N.P. Region,Konta Special Woreda,Garlic,
+4010,S.N.N.P. Region,Konta Special Woreda,Taro / 'Godere',995394.14
+4011,S.N.N.P. Region,Konta Special Woreda,Sweet potatoes,
+4012,S.N.N.P. Region,Konta Special Woreda,Avocados,
+4013,S.N.N.P. Region,Konta Special Woreda,Banana,32250.53
+4014,S.N.N.P. Region,Konta Special Woreda,Guava,117727.01
+4015,S.N.N.P. Region,Konta Special Woreda,Lemons,
+4016,S.N.N.P. Region,Konta Special Woreda,Mangoes,
+4017,S.N.N.P. Region,Konta Special Woreda,Oranges,15294.43
+4018,S.N.N.P. Region,Konta Special Woreda,Papaya,1856.46
+4019,S.N.N.P. Region,Konta Special Woreda,Pineapple,12196.22
+4020,S.N.N.P. Region,Konta Special Woreda,Hop,9190.9
+4021,S.N.N.P. Region,Konta Special Woreda,Enset,321591.56
+4022,S.N.N.P. Region,Konta Special Woreda,Roses,
+4023,S.N.N.P. Region,Konta Special Woreda,Sorghum,
+4024,S.N.N.P. Region,Konta Special Woreda,Sesame,
+4025,S.N.N.P. Region,Konta Special Woreda,Beetroot,
+4026,S.N.N.P. Region,Konta Special Woreda,Hops,
+4027,S.N.N.P. Region,Konta Special Woreda,Sugar cane,
+4028,S.N.N.P. Region,Konta Special Woreda,Enset,
+4029,S.N.N.P. Region,Siltie,Teff,167515.52
+4030,S.N.N.P. Region,Siltie,Barley,285417.99
+4031,S.N.N.P. Region,Siltie,wheat,888735.88
+4032,S.N.N.P. Region,Siltie,Maize,1926569.97
+4033,S.N.N.P. Region,Siltie,Sorghum,143289.88
+4034,S.N.N.P. Region,Siltie,Finger Millet,
+4035,S.N.N.P. Region,Siltie,Oats,
+4036,S.N.N.P. Region,Siltie,Rice,
+4037,S.N.N.P. Region,Siltie,Faba Beans,86081.35
+4038,S.N.N.P. Region,Siltie,Field Peas,53833.46
+4039,S.N.N.P. Region,Siltie,Haricot beans,
+4040,S.N.N.P. Region,Siltie,Chick-Peas,
+4041,S.N.N.P. Region,Siltie,Lentils,
+4042,S.N.N.P. Region,Siltie,Grass Peas,
+4043,S.N.N.P. Region,Siltie,Soybeans,
+4044,S.N.N.P. Region,Siltie,Fenugreek,
+4045,S.N.N.P. Region,Siltie,Gibto,
+4046,S.N.N.P. Region,Siltie,Niger Seeds,
+4047,S.N.N.P. Region,Siltie,Groundnut,
+4048,S.N.N.P. Region,Siltie,Sunflower,
+4049,S.N.N.P. Region,Siltie,Sesame Seeds,
+4050,S.N.N.P. Region,Siltie,Lettuce,
+4051,S.N.N.P. Region,Siltie,Head cabbage,2876.17
+4052,S.N.N.P. Region,Siltie,Eth. Cabbage,430750.78
+4053,S.N.N.P. Region,Siltie,Tomatoes,
+4054,S.N.N.P. Region,Siltie,Green peppers,
+4055,S.N.N.P. Region,Siltie,Red peppers,101080.33
+4056,S.N.N.P. Region,Siltie,Swiss chard,
+4057,S.N.N.P. Region,Siltie,Carrots,
+4058,S.N.N.P. Region,Siltie,Onions,
+4059,S.N.N.P. Region,Siltie,Potatoes,
+4060,S.N.N.P. Region,Siltie,Garlic,
+4061,S.N.N.P. Region,Siltie,Taro / 'Godere',
+4062,S.N.N.P. Region,Siltie,Sweet potatoes,
+4063,S.N.N.P. Region,Siltie,Avocados,
+4064,S.N.N.P. Region,Siltie,Banana,22549.36
+4065,S.N.N.P. Region,Siltie,Guava,17271.96
+4066,S.N.N.P. Region,Siltie,Lemons,
+4067,S.N.N.P. Region,Siltie,Mangoes,
+4068,S.N.N.P. Region,Siltie,Oranges,
+4069,S.N.N.P. Region,Siltie,Papaya,7326.8
+4070,S.N.N.P. Region,Siltie,Pineapple,
+4071,S.N.N.P. Region,Siltie,Hop,4664.51
+4072,S.N.N.P. Region,Siltie,Enset,892367.37
+4073,S.N.N.P. Region,Siltie,Roses,
+4074,S.N.N.P. Region,Siltie,Sorghum,
+4075,S.N.N.P. Region,Siltie,Sesame,
+4076,S.N.N.P. Region,Siltie,Beetroot,
+4077,S.N.N.P. Region,Siltie,Hops,
+4078,S.N.N.P. Region,Siltie,Sugar cane,
+4079,S.N.N.P. Region,Siltie,Enset,
+4080,S.N.N.P. Region,Halaba Zone,Teff,108644.12
+4081,S.N.N.P. Region,Halaba Zone,Barley,4315.69
+4082,S.N.N.P. Region,Halaba Zone,wheat,71052.11
+4083,S.N.N.P. Region,Halaba Zone,Maize,989794.63
+4084,S.N.N.P. Region,Halaba Zone,Sorghum,48916.95
+4085,S.N.N.P. Region,Halaba Zone,Finger Millet,110930.39
+4086,S.N.N.P. Region,Halaba Zone,Oats,
+4087,S.N.N.P. Region,Halaba Zone,Rice,
+4088,S.N.N.P. Region,Halaba Zone,Faba Beans,
+4089,S.N.N.P. Region,Halaba Zone,Field Peas,
+4090,S.N.N.P. Region,Halaba Zone,Haricot beans,27250.07
+4091,S.N.N.P. Region,Halaba Zone,Chick-Peas,
+4092,S.N.N.P. Region,Halaba Zone,Lentils,
+4093,S.N.N.P. Region,Halaba Zone,Grass Peas,
+4094,S.N.N.P. Region,Halaba Zone,Soybeans,
+4095,S.N.N.P. Region,Halaba Zone,Fenugreek,
+4096,S.N.N.P. Region,Halaba Zone,Gibto,
+4097,S.N.N.P. Region,Halaba Zone,Niger Seeds,
+4098,S.N.N.P. Region,Halaba Zone,Groundnut,
+4099,S.N.N.P. Region,Halaba Zone,Sunflower,
+4100,S.N.N.P. Region,Halaba Zone,Sesame Seeds,
+4101,S.N.N.P. Region,Halaba Zone,Lettuce,
+4102,S.N.N.P. Region,Halaba Zone,Head cabbage,1575.48
+4103,S.N.N.P. Region,Halaba Zone,Eth. Cabbage,138208
+4104,S.N.N.P. Region,Halaba Zone,Tomatoes,
+4105,S.N.N.P. Region,Halaba Zone,Green peppers,
+4106,S.N.N.P. Region,Halaba Zone,Red peppers,122255.99
+4107,S.N.N.P. Region,Halaba Zone,Swiss chard,
+4108,S.N.N.P. Region,Halaba Zone,Carrots,
+4109,S.N.N.P. Region,Halaba Zone,Onions,
+4110,S.N.N.P. Region,Halaba Zone,Potatoes,
+4111,S.N.N.P. Region,Halaba Zone,Garlic,
+4112,S.N.N.P. Region,Halaba Zone,Taro / 'Godere',
+4113,S.N.N.P. Region,Halaba Zone,Sweet potatoes,
+4114,S.N.N.P. Region,Halaba Zone,Avocados,
+4115,S.N.N.P. Region,Halaba Zone,Banana,3752.16
+4116,S.N.N.P. Region,Halaba Zone,Guava,14148.61
+4117,S.N.N.P. Region,Halaba Zone,Lemons,137.26
+4118,S.N.N.P. Region,Halaba Zone,Mangoes,275.02
+4119,S.N.N.P. Region,Halaba Zone,Oranges,3113.41
+4120,S.N.N.P. Region,Halaba Zone,Papaya,
+4121,S.N.N.P. Region,Halaba Zone,Pineapple,4902.48
+4122,S.N.N.P. Region,Halaba Zone,Hop,2453.7
+4123,S.N.N.P. Region,Halaba Zone,Enset,4507.02
+4124,S.N.N.P. Region,Halaba Zone,Roses,
+4125,S.N.N.P. Region,Halaba Zone,Sorghum,
+4126,S.N.N.P. Region,Halaba Zone,Sesame,
+4127,S.N.N.P. Region,Halaba Zone,Beetroot,
+4128,S.N.N.P. Region,Halaba Zone,Hops,
+4129,S.N.N.P. Region,Halaba Zone,Sugar cane,
+4130,S.N.N.P. Region,Halaba Zone,Enset,
+4131,S.N.N.P. Region,Segen People’s Zone,Teff,183253.48
+4132,S.N.N.P. Region,Segen People’s Zone,Barley,20617.15
+4133,S.N.N.P. Region,Segen People’s Zone,wheat,
+4134,S.N.N.P. Region,Segen People’s Zone,Maize,976647.48
+4135,S.N.N.P. Region,Segen People’s Zone,Sorghum,
+4136,S.N.N.P. Region,Segen People’s Zone,Finger Millet,
+4137,S.N.N.P. Region,Segen People’s Zone,Oats,
+4138,S.N.N.P. Region,Segen People’s Zone,Rice,
+4139,S.N.N.P. Region,Segen People’s Zone,Faba Beans,
+4140,S.N.N.P. Region,Segen People’s Zone,Field Peas,
+4141,S.N.N.P. Region,Segen People’s Zone,Haricot beans,216700.37
+4142,S.N.N.P. Region,Segen People’s Zone,Chick-Peas,
+4143,S.N.N.P. Region,Segen People’s Zone,Lentils,
+4144,S.N.N.P. Region,Segen People’s Zone,Grass Peas,
+4145,S.N.N.P. Region,Segen People’s Zone,Soybeans,
+4146,S.N.N.P. Region,Segen People’s Zone,Fenugreek,
+4147,S.N.N.P. Region,Segen People’s Zone,Gibto,
+4148,S.N.N.P. Region,Segen People’s Zone,Niger Seeds,
+4149,S.N.N.P. Region,Segen People’s Zone,Groundnut,
+4150,S.N.N.P. Region,Segen People’s Zone,Sunflower,
+4151,S.N.N.P. Region,Segen People’s Zone,Sesame Seeds,
+4152,S.N.N.P. Region,Segen People’s Zone,Lettuce,
+4153,S.N.N.P. Region,Segen People’s Zone,Head cabbage,
+4154,S.N.N.P. Region,Segen People’s Zone,Eth. Cabbage,38464.83
+4155,S.N.N.P. Region,Segen People’s Zone,Tomatoes,
+4156,S.N.N.P. Region,Segen People’s Zone,Green peppers,
+4157,S.N.N.P. Region,Segen People’s Zone,Red peppers,
+4158,S.N.N.P. Region,Segen People’s Zone,Swiss chard,
+4159,S.N.N.P. Region,Segen People’s Zone,Carrots,
+4160,S.N.N.P. Region,Segen People’s Zone,Onions,
+4161,S.N.N.P. Region,Segen People’s Zone,Potatoes,
+4162,S.N.N.P. Region,Segen People’s Zone,Garlic,
+4163,S.N.N.P. Region,Segen People’s Zone,Taro / 'Godere',16105.66
+4164,S.N.N.P. Region,Segen People’s Zone,Sweet potatoes,168703.96
+4165,S.N.N.P. Region,Segen People’s Zone,Avocados,
+4166,S.N.N.P. Region,Segen People’s Zone,Banana,3709.5
+4167,S.N.N.P. Region,Segen People’s Zone,Guava,84384.79
+4168,S.N.N.P. Region,Segen People’s Zone,Lemons,
+4169,S.N.N.P. Region,Segen People’s Zone,Mangoes,
+4170,S.N.N.P. Region,Segen People’s Zone,Oranges,23385.37
+4171,S.N.N.P. Region,Segen People’s Zone,Papaya,
+4172,S.N.N.P. Region,Segen People’s Zone,Pineapple,
+4173,S.N.N.P. Region,Segen People’s Zone,Hop,13574.59
+4174,S.N.N.P. Region,Segen People’s Zone,Enset,819088.36
+4175,S.N.N.P. Region,Segen People’s Zone,Roses,
+4176,S.N.N.P. Region,Segen People’s Zone,Sorghum,
+4177,S.N.N.P. Region,Segen People’s Zone,Sesame,
+4178,S.N.N.P. Region,Segen People’s Zone,Beetroot,
+4179,S.N.N.P. Region,Segen People’s Zone,Hops,
+4180,S.N.N.P. Region,Segen People’s Zone,Sugar cane,
+4181,S.N.N.P. Region,Segen People’s Zone,Enset,
+4182,S.N.N.P. Region,Sidama,Teff,21412.07
+4183,S.N.N.P. Region,Sidama,Barley,319828.22
+4184,S.N.N.P. Region,Sidama,wheat,
+4185,S.N.N.P. Region,Sidama,Maize,1368991.65
+4186,S.N.N.P. Region,Sidama,Sorghum,
+4187,S.N.N.P. Region,Sidama,Finger Millet,
+4188,S.N.N.P. Region,Sidama,Oats,
+4189,S.N.N.P. Region,Sidama,Rice,
+4190,S.N.N.P. Region,Sidama,Faba Beans,78048.64
+4191,S.N.N.P. Region,Sidama,Field Peas,
+4192,S.N.N.P. Region,Sidama,Haricot beans,384494.46
+4193,S.N.N.P. Region,Sidama,Chick-Peas,
+4194,S.N.N.P. Region,Sidama,Lentils,
+4195,S.N.N.P. Region,Sidama,Grass Peas,
+4196,S.N.N.P. Region,Sidama,Soybeans,
+4197,S.N.N.P. Region,Sidama,Fenugreek,
+4198,S.N.N.P. Region,Sidama,Gibto,
+4199,S.N.N.P. Region,Sidama,Niger Seeds,
+4200,S.N.N.P. Region,Sidama,Groundnut,
+4201,S.N.N.P. Region,Sidama,Sunflower,
+4202,S.N.N.P. Region,Sidama,Sesame Seeds,
+4203,S.N.N.P. Region,Sidama,Lettuce,
+4204,S.N.N.P. Region,Sidama,Head cabbage,
+4205,S.N.N.P. Region,Sidama,Eth. Cabbage,266084.36
+4206,S.N.N.P. Region,Sidama,Tomatoes,
+4207,S.N.N.P. Region,Sidama,Green peppers,
+4208,S.N.N.P. Region,Sidama,Red peppers,
+4209,S.N.N.P. Region,Sidama,Swiss chard,
+4210,S.N.N.P. Region,Sidama,Carrots,
+4211,S.N.N.P. Region,Sidama,Onions,
+4212,S.N.N.P. Region,Sidama,Potatoes,
+4213,S.N.N.P. Region,Sidama,Garlic,
+4214,S.N.N.P. Region,Sidama,Taro / 'Godere',
+4215,S.N.N.P. Region,Sidama,Sweet potatoes,789582.9
+4216,S.N.N.P. Region,Sidama,Avocados,
+4217,S.N.N.P. Region,Sidama,Banana,301225.3
+4218,S.N.N.P. Region,Sidama,Guava,1100794.34
+4219,S.N.N.P. Region,Sidama,Lemons,
+4220,S.N.N.P. Region,Sidama,Mangoes,
+4221,S.N.N.P. Region,Sidama,Oranges,23993.21
+4222,S.N.N.P. Region,Sidama,Papaya,
+4223,S.N.N.P. Region,Sidama,Pineapple,8905.49
+4224,S.N.N.P. Region,Sidama,Hop,405982.15
+4225,S.N.N.P. Region,Sidama,Enset,44892498.06
+4226,S.N.N.P. Region,Sidama,Roses,
+4227,S.N.N.P. Region,Sidama,Sorghum,
+4228,S.N.N.P. Region,Sidama,Sesame,
+4229,S.N.N.P. Region,Sidama,Beetroot,
+4230,S.N.N.P. Region,Sidama,Hops,
+4231,S.N.N.P. Region,Sidama,Sugar cane,
+4232,S.N.N.P. Region,Sidama,Enset,
